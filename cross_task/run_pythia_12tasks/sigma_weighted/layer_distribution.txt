@@ -1,0 +1,200 @@
+=== sigma_weighted ===
+Total units: 168
+Type breakdown: {'attn_head': 144, 'mlp_gate': 12, 'mlp_down': 12}
+Layer breakdown (all units): [(0, 14), (1, 14), (2, 14), (3, 14), (4, 14), (5, 14), (6, 14), (7, 14), (8, 14), (9, 14), (10, 14), (11, 14)]
+
+Top-10 by score_min:
+  type:           {'attn_head': 10}
+  layer hist:     [(4, 2), (5, 2), (6, 1), (7, 2), (8, 1), (9, 1), (10, 1)]
+  unit_ids:       [76, 115, 72, 136, 66, 57, 150, 101, 85, 109]
+  (id, layer, type, score_min, score_mean):
+      76  L5   attn_head   min=0.290  mean=0.522
+     115  L8   attn_head   min=0.287  mean=0.571
+      72  L5   attn_head   min=0.286  mean=0.474
+     136  L9   attn_head   min=0.279  mean=0.537
+      66  L4   attn_head   min=0.242  mean=0.446
+      57  L4   attn_head   min=0.233  mean=0.413
+     150  L10  attn_head   min=0.227  mean=0.418
+     101  L7   attn_head   min=0.214  mean=0.445
+      85  L6   attn_head   min=0.205  mean=0.449
+     109  L7   attn_head   min=0.202  mean=0.438
+
+Top-10 by score_mean:
+  type:           {'attn_head': 10}
+  layer hist:     [(4, 1), (5, 3), (6, 1), (7, 1), (8, 1), (9, 2), (10, 1)]
+  unit_ids:       [115, 136, 76, 126, 72, 140, 77, 85, 66, 101]
+  (id, layer, type, score_min, score_mean):
+     115  L8   attn_head   min=0.287  mean=0.571
+     136  L9   attn_head   min=0.279  mean=0.537
+      76  L5   attn_head   min=0.290  mean=0.522
+     126  L9   attn_head   min=0.189  mean=0.475
+      72  L5   attn_head   min=0.286  mean=0.474
+     140  L10  attn_head   min=0.201  mean=0.469
+      77  L5   attn_head   min=0.196  mean=0.466
+      85  L6   attn_head   min=0.205  mean=0.449
+      66  L4   attn_head   min=0.242  mean=0.446
+     101  L7   attn_head   min=0.214  mean=0.445
+
+Top-20 by score_min:
+  type:           {'attn_head': 20}
+  layer hist:     [(4, 2), (5, 4), (6, 1), (7, 3), (8, 1), (9, 4), (10, 5)]
+  unit_ids:       [76, 115, 72, 136, 66, 57, 150, 101, 85, 109, 128, 140, 77, 146, 145, 126, 74, 98, 151, 135]
+  (id, layer, type, score_min, score_mean):
+      76  L5   attn_head   min=0.290  mean=0.522
+     115  L8   attn_head   min=0.287  mean=0.571
+      72  L5   attn_head   min=0.286  mean=0.474
+     136  L9   attn_head   min=0.279  mean=0.537
+      66  L4   attn_head   min=0.242  mean=0.446
+      57  L4   attn_head   min=0.233  mean=0.413
+     150  L10  attn_head   min=0.227  mean=0.418
+     101  L7   attn_head   min=0.214  mean=0.445
+      85  L6   attn_head   min=0.205  mean=0.449
+     109  L7   attn_head   min=0.202  mean=0.438
+     128  L9   attn_head   min=0.201  mean=0.440
+     140  L10  attn_head   min=0.201  mean=0.469
+      77  L5   attn_head   min=0.196  mean=0.466
+     146  L10  attn_head   min=0.191  mean=0.434
+     145  L10  attn_head   min=0.190  mean=0.377
+     126  L9   attn_head   min=0.189  mean=0.475
+      74  L5   attn_head   min=0.180  mean=0.362
+      98  L7   attn_head   min=0.176  mean=0.284
+     151  L10  attn_head   min=0.174  mean=0.330
+     135  L9   attn_head   min=0.170  mean=0.356
+
+Top-20 by score_mean:
+  type:           {'attn_head': 20}
+  layer hist:     [(4, 2), (5, 4), (6, 1), (7, 2), (8, 3), (9, 5), (10, 3)]
+  unit_ids:       [115, 136, 76, 126, 72, 140, 77, 85, 66, 101, 128, 109, 146, 137, 150, 132, 57, 120, 112, 80]
+  (id, layer, type, score_min, score_mean):
+     115  L8   attn_head   min=0.287  mean=0.571
+     136  L9   attn_head   min=0.279  mean=0.537
+      76  L5   attn_head   min=0.290  mean=0.522
+     126  L9   attn_head   min=0.189  mean=0.475
+      72  L5   attn_head   min=0.286  mean=0.474
+     140  L10  attn_head   min=0.201  mean=0.469
+      77  L5   attn_head   min=0.196  mean=0.466
+      85  L6   attn_head   min=0.205  mean=0.449
+      66  L4   attn_head   min=0.242  mean=0.446
+     101  L7   attn_head   min=0.214  mean=0.445
+     128  L9   attn_head   min=0.201  mean=0.440
+     109  L7   attn_head   min=0.202  mean=0.438
+     146  L10  attn_head   min=0.191  mean=0.434
+     137  L9   attn_head   min=0.024  mean=0.423
+     150  L10  attn_head   min=0.227  mean=0.418
+     132  L9   attn_head   min=0.157  mean=0.414
+      57  L4   attn_head   min=0.233  mean=0.413
+     120  L8   attn_head   min=0.081  mean=0.398
+     112  L8   attn_head   min=0.121  mean=0.397
+      80  L5   attn_head   min=0.113  mean=0.395
+
+Top-50 by score_min:
+  type:           {'attn_head': 50}
+  layer hist:     [(1, 5), (3, 3), (4, 6), (5, 5), (6, 2), (7, 5), (8, 2), (9, 10), (10, 12)]
+  unit_ids:       [76, 115, 72, 136, 66, 57, 150, 101, 85, 109, 128, 140, 77, 146, 145, 126, 74, 98, 151, 135, 148, 132, 93, 131, 144, 134, 22, 149, 62, 143, 130, 142, 147, 141, 18, 112, 67, 106, 49, 23, 133, 80, 17, 48, 129, 19, 65, 58, 103, 47]
+  (id, layer, type, score_min, score_mean):
+      76  L5   attn_head   min=0.290  mean=0.522
+     115  L8   attn_head   min=0.287  mean=0.571
+      72  L5   attn_head   min=0.286  mean=0.474
+     136  L9   attn_head   min=0.279  mean=0.537
+      66  L4   attn_head   min=0.242  mean=0.446
+      57  L4   attn_head   min=0.233  mean=0.413
+     150  L10  attn_head   min=0.227  mean=0.418
+     101  L7   attn_head   min=0.214  mean=0.445
+      85  L6   attn_head   min=0.205  mean=0.449
+     109  L7   attn_head   min=0.202  mean=0.438
+     128  L9   attn_head   min=0.201  mean=0.440
+     140  L10  attn_head   min=0.201  mean=0.469
+      77  L5   attn_head   min=0.196  mean=0.466
+     146  L10  attn_head   min=0.191  mean=0.434
+     145  L10  attn_head   min=0.190  mean=0.377
+     126  L9   attn_head   min=0.189  mean=0.475
+      74  L5   attn_head   min=0.180  mean=0.362
+      98  L7   attn_head   min=0.176  mean=0.284
+     151  L10  attn_head   min=0.174  mean=0.330
+     135  L9   attn_head   min=0.170  mean=0.356
+     148  L10  attn_head   min=0.163  mean=0.392
+     132  L9   attn_head   min=0.157  mean=0.414
+      93  L6   attn_head   min=0.156  mean=0.374
+     131  L9   attn_head   min=0.156  mean=0.314
+     144  L10  attn_head   min=0.148  mean=0.341
+     134  L9   attn_head   min=0.146  mean=0.243
+      22  L1   attn_head   min=0.145  mean=0.288
+     149  L10  attn_head   min=0.143  mean=0.336
+      62  L4   attn_head   min=0.139  mean=0.385
+     143  L10  attn_head   min=0.137  mean=0.371
+     130  L9   attn_head   min=0.136  mean=0.342
+     142  L10  attn_head   min=0.129  mean=0.328
+     147  L10  attn_head   min=0.128  mean=0.324
+     141  L10  attn_head   min=0.128  mean=0.335
+      18  L1   attn_head   min=0.128  mean=0.257
+     112  L8   attn_head   min=0.121  mean=0.397
+      67  L4   attn_head   min=0.120  mean=0.363
+     106  L7   attn_head   min=0.118  mean=0.191
+      49  L3   attn_head   min=0.118  mean=0.258
+      23  L1   attn_head   min=0.117  mean=0.209
+     133  L9   attn_head   min=0.115  mean=0.194
+      80  L5   attn_head   min=0.113  mean=0.395
+      17  L1   attn_head   min=0.111  mean=0.226
+      48  L3   attn_head   min=0.110  mean=0.221
+     129  L9   attn_head   min=0.108  mean=0.198
+      19  L1   attn_head   min=0.106  mean=0.198
+      65  L4   attn_head   min=0.106  mean=0.244
+      58  L4   attn_head   min=0.102  mean=0.265
+     103  L7   attn_head   min=0.101  mean=0.204
+      47  L3   attn_head   min=0.100  mean=0.198
+
+Top-50 by score_mean:
+  type:           {'attn_head': 50}
+  layer hist:     [(4, 5), (5, 7), (6, 5), (7, 3), (8, 6), (9, 8), (10, 12), (11, 4)]
+  unit_ids:       [115, 136, 76, 126, 72, 140, 77, 85, 66, 101, 128, 109, 146, 137, 150, 132, 57, 120, 112, 80, 148, 94, 62, 145, 93, 143, 123, 67, 74, 64, 70, 135, 114, 95, 130, 118, 144, 149, 141, 104, 151, 79, 142, 147, 90, 131, 160, 162, 157, 158]
+  (id, layer, type, score_min, score_mean):
+     115  L8   attn_head   min=0.287  mean=0.571
+     136  L9   attn_head   min=0.279  mean=0.537
+      76  L5   attn_head   min=0.290  mean=0.522
+     126  L9   attn_head   min=0.189  mean=0.475
+      72  L5   attn_head   min=0.286  mean=0.474
+     140  L10  attn_head   min=0.201  mean=0.469
+      77  L5   attn_head   min=0.196  mean=0.466
+      85  L6   attn_head   min=0.205  mean=0.449
+      66  L4   attn_head   min=0.242  mean=0.446
+     101  L7   attn_head   min=0.214  mean=0.445
+     128  L9   attn_head   min=0.201  mean=0.440
+     109  L7   attn_head   min=0.202  mean=0.438
+     146  L10  attn_head   min=0.191  mean=0.434
+     137  L9   attn_head   min=0.024  mean=0.423
+     150  L10  attn_head   min=0.227  mean=0.418
+     132  L9   attn_head   min=0.157  mean=0.414
+      57  L4   attn_head   min=0.233  mean=0.413
+     120  L8   attn_head   min=0.081  mean=0.398
+     112  L8   attn_head   min=0.121  mean=0.397
+      80  L5   attn_head   min=0.113  mean=0.395
+     148  L10  attn_head   min=0.163  mean=0.392
+      94  L6   attn_head   min=0.100  mean=0.389
+      62  L4   attn_head   min=0.139  mean=0.385
+     145  L10  attn_head   min=0.190  mean=0.377
+      93  L6   attn_head   min=0.156  mean=0.374
+     143  L10  attn_head   min=0.137  mean=0.371
+     123  L8   attn_head   min=0.088  mean=0.364
+      67  L4   attn_head   min=0.120  mean=0.363
+      74  L5   attn_head   min=0.180  mean=0.362
+      64  L4   attn_head   min=0.072  mean=0.359
+      70  L5   attn_head   min=0.032  mean=0.356
+     135  L9   attn_head   min=0.170  mean=0.356
+     114  L8   attn_head   min=0.040  mean=0.347
+      95  L6   attn_head   min=0.051  mean=0.345
+     130  L9   attn_head   min=0.136  mean=0.342
+     118  L8   attn_head   min=0.011  mean=0.341
+     144  L10  attn_head   min=0.148  mean=0.341
+     149  L10  attn_head   min=0.143  mean=0.336
+     141  L10  attn_head   min=0.128  mean=0.335
+     104  L7   attn_head   min=0.018  mean=0.335
+     151  L10  attn_head   min=0.174  mean=0.330
+      79  L5   attn_head   min=0.062  mean=0.329
+     142  L10  attn_head   min=0.129  mean=0.328
+     147  L10  attn_head   min=0.128  mean=0.324
+      90  L6   attn_head   min=0.043  mean=0.315
+     131  L9   attn_head   min=0.156  mean=0.314
+     160  L11  attn_head   min=0.022  mean=0.305
+     162  L11  attn_head   min=0.005  mean=0.298
+     157  L11  attn_head   min=0.011  mean=0.295
+     158  L11  attn_head   min=0.071  mean=0.294

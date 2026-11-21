@@ -1,0 +1,25 @@
+Cross-task knockout validation
+============================================================
+
+variant:    consistency_share
+n_prompts:  100
+n_random:   10
+device:     cuda:5
+
+Lift matrix (rows = set, cols = task):
+set                        |  col_obj country_ gender_b       gp       gt gt_price ioi_stro person_c person_p      sva sva_blim sva_isar
+----------------------------------------------------------------------------------------------------------------------------------------
+Universal                  |   -0.065   -0.031   -0.041    0.006    0.017    0.170   -0.149   -0.028    0.006   -0.027   -0.023   -0.030
+GT_specialized_22          |   -0.011    0.087    0.098    0.023   -0.014    0.038   -0.035    0.100    0.013    0.056    0.046   -0.002
+GT_specialized_top4        |    0.223    0.045   -0.013   -0.003   -0.009    0.024   -0.040    0.012    0.003   -0.002    0.005   -0.006
+SVA_specialized_4          |   -0.066    0.058    0.087    0.034   -0.040   -0.079    0.205    0.035    0.025   -0.030   -0.056   -0.050
+COUNTRY_broad_2            |    0.050   -0.000    0.015    0.001   -0.001    0.006    0.043   -0.000    0.015   -0.006   -0.012   -0.015
+Mixed_22_control           |    0.146   -0.032   -0.054   -0.032   -0.028    0.040   -0.068   -0.053    0.000    0.011    0.004    0.109
+
+Concentration (lift_in_family / lift_out_family):
+  Universal                   fam=—         in=nan  out=-0.0162  ratio=—
+  GT_specialized_22           fam=GT        in=0.0118  out=0.0374  ratio=0.317
+  GT_specialized_top4         fam=GT        in=0.0077  out=0.0223  ratio=0.345
+  SVA_specialized_4           fam=SVA       in=-0.0455  out=0.0286  ratio=-1.590
+  COUNTRY_broad_2             fam=COUNTRY   in=-0.0005  out=0.0097  ratio=-0.047
+  Mixed_22_control            fam=—         in=nan  out=0.0036  ratio=—

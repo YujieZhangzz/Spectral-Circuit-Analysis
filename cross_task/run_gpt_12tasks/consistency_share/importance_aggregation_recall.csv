@@ -1,0 +1,31 @@
+aggregation,K,recall,n_hits,baseline,lift
+task0_only (current bug),10,0.1154,3,0.0694,1.662
+task0_only (current bug),20,0.1923,5,0.1389,1.385
+task0_only (current bug),26,0.2308,6,0.1806,1.278
+task0_only (current bug),30,0.2308,6,0.2083,1.108
+task0_only (current bug),50,0.4615,12,0.3472,1.329
+mean_over_tasks,10,0.1154,3,0.0694,1.662
+mean_over_tasks,20,0.1538,4,0.1389,1.108
+mean_over_tasks,26,0.2308,6,0.1806,1.278
+mean_over_tasks,30,0.2308,6,0.2083,1.108
+mean_over_tasks,50,0.3846,10,0.3472,1.108
+geomean,10,0.0769,2,0.0694,1.108
+geomean,20,0.1154,3,0.1389,0.831
+geomean,26,0.1923,5,0.1806,1.065
+geomean,30,0.1923,5,0.2083,0.923
+geomean,50,0.3077,8,0.3472,0.886
+max_over_tasks,10,0.1538,4,0.0694,2.215
+max_over_tasks,20,0.3462,9,0.1389,2.492
+max_over_tasks,26,0.4231,11,0.1806,2.343
+max_over_tasks,30,0.4615,12,0.2083,2.215
+max_over_tasks,50,0.6538,17,0.3472,1.883
+min_over_tasks,10,0.0769,2,0.0694,1.108
+min_over_tasks,20,0.1538,4,0.1389,1.108
+min_over_tasks,26,0.1923,5,0.1806,1.065
+min_over_tasks,30,0.1923,5,0.2083,0.923
+min_over_tasks,50,0.2308,6,0.3472,0.665
+sum_over_tasks,10,0.1154,3,0.0694,1.662
+sum_over_tasks,20,0.1538,4,0.1389,1.108
+sum_over_tasks,26,0.2308,6,0.1806,1.278
+sum_over_tasks,30,0.2308,6,0.2083,1.108
+sum_over_tasks,50,0.3846,10,0.3472,1.108

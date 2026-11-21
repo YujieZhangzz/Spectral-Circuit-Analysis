@@ -1,0 +1,2702 @@
+[
+  {
+    "original": {
+      "query": "When you fly into Estonia to meet with its government, you land in",
+      "completion": "Tallinn"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "When flying into Estonia to meet its government, you touch down in",
+        "completion": "Tallinn",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Traveling to Estonia to consult with its government, you touch down in",
+        "completion": "Tallinn",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you fly to Estonia to visit its government, you arrive in",
+        "completion": "Tallinn",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you travel by plane to Estonia to hold talks with the national government, you would touch down in",
+        "completion": "Tallinn",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you take a flight to Estonia to consult with the national government, you touch down in",
+        "completion": "Tallinn",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Estonia",
+      "capital": "Tallinn",
+      "template": "When you fly into {country} to meet with its government, you land in"
+    }
+  },
+  {
+    "original": {
+      "query": "Historically, the city chosen as the capital of Ireland was",
+      "completion": "Dublin"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city was historically chosen to serve as the capital of Ireland?",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Historically, which city was designated as the capital of Ireland?",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which urban center was historically designated as the capital of Ireland?",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In earlier times, the urban center designated to serve as the capital of Ireland was",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In historical terms, the urban center designated as the capital of Ireland was",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Ireland",
+      "capital": "Dublin",
+      "template": "Historically, the city chosen as the capital of {country} was"
+    }
+  },
+  {
+    "original": {
+      "query": "All official state ceremonies of Pakistan take place in its capital,",
+      "completion": "Islamabad"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Every formal state ceremony in Pakistan is held in the national capital.",
+        "completion": "Islamabad",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Every official state ceremony in Pakistan is held in the country\\'s capital city.",
+        "completion": "Islamabad",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All formal state ceremonies for Pakistan take place in the national capital, Islamabad",
+        "completion": "Islamabad",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Every formal state function of Pakistan is held in the national capital,",
+        "completion": "Islamabad",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All official state ceremonies of Pakistan are held in the nation\\'s capital city",
+        "completion": "Islamabad",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Pakistan",
+      "capital": "Islamabad",
+      "template": "All official state ceremonies of {country} take place in its capital,"
+    }
+  },
+  {
+    "original": {
+      "query": "Lithuania's capital city is",
+      "completion": "Vilnius"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Identify the capital city of Lithuania.",
+        "completion": "Vilnius",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Lithuania?",
+        "completion": "Vilnius",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What is the capital of Lithuania?",
+        "completion": "Vilnius",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Lithuania?",
+        "completion": "Vilnius",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Lithuania?",
+        "completion": "Vilnius",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Lithuania",
+      "capital": "Vilnius",
+      "template": "{country}'s capital city is"
+    }
+  },
+  {
+    "original": {
+      "query": "Netherlands's capital city is",
+      "completion": "Amsterdam"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city serves as the capital of the Netherlands?",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What is the capital of the Netherlands?",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of the Netherlands?",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The capital city of the Netherlands is",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of the Netherlands?",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Netherlands",
+      "capital": "Amsterdam",
+      "template": "{country}'s capital city is"
+    }
+  },
+  {
+    "original": {
+      "query": "The seat of government and political heart of Japan is located in",
+      "completion": "Tokyo"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "In which city is Japan's government headquartered and its political center situated?",
+        "completion": "Tokyo",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The national capital and political nucleus of Japan can be found in",
+        "completion": "Tokyo",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The seat of government and political center of Japan is situated in",
+        "completion": "Tokyo",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city is the government seat and political center of Japan located",
+        "completion": "Tokyo",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city is the political center and seat of government of Japan situated?",
+        "completion": "Tokyo",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Japan",
+      "capital": "Tokyo",
+      "template": "The seat of government and political heart of {country} is located in"
+    }
+  },
+  {
+    "original": {
+      "query": "Historically, the city chosen as the capital of Poland was",
+      "completion": "Warsaw"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Across history, which city was appointed the capital of Poland?",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Historically, which city was selected to serve as the capital of Poland?",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Throughout history, the city designated as Poland's capital was",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Historically speaking, the city designated as Poland\\'s capital was",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Historically, which city served as the capital of Poland?",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Poland",
+      "capital": "Warsaw",
+      "template": "Historically, the city chosen as the capital of {country} was"
+    }
+  },
+  {
+    "original": {
+      "query": "All official state ceremonies of Ukraine take place in its capital,",
+      "completion": "Kyiv"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "All formal national ceremonies of Ukraine are held in its capital city.",
+        "completion": "Kyiv",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Every official state ceremony of Ukraine is held in the country\\'s capital city",
+        "completion": "Kyiv",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All official state ceremonies in Ukraine take place in the national capital.",
+        "completion": "Kyiv",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All official state ceremonies of Ukraine are held in the national capital",
+        "completion": "Kyiv",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Every official state ceremony of Ukraine is held in its capital city",
+        "completion": "Kyiv",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Ukraine",
+      "capital": "Kyiv",
+      "template": "All official state ceremonies of {country} take place in its capital,"
+    }
+  },
+  {
+    "original": {
+      "query": "Croatia's capital city is",
+      "completion": "Zagreb"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city serves as the capital of Croatia?",
+        "completion": "Zagreb",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the national capital of Croatia?",
+        "completion": "Zagreb",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The capital of Croatia is",
+        "completion": "Zagreb",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Name the capital city of Croatia.",
+        "completion": "Zagreb",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Croatia?",
+        "completion": "Zagreb",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Croatia",
+      "capital": "Zagreb",
+      "template": "{country}'s capital city is"
+    }
+  },
+  {
+    "original": {
+      "query": "The city where Belgium's national flag flies above the parliament is",
+      "completion": "Brussels"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city has the Belgian national flag flying above the parliament?",
+        "completion": "Brussels",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The city where the Belgian national colours fly atop the parliament is",
+        "completion": "Brussels",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city is the Belgian national flag flown above the parliament?",
+        "completion": "Brussels",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city has Belgium's national flag flying over its parliament?",
+        "completion": "Brussels",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city has the Belgian national flag flying above the parliament building",
+        "completion": "Brussels",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Belgium",
+      "capital": "Brussels",
+      "template": "The city where {country}'s national flag flies above the parliament is"
+    }
+  },
+  {
+    "original": {
+      "query": "Historically, the city chosen as the capital of Sweden was",
+      "completion": "Stockholm"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city was historically chosen to serve as Sweden's capital?",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "From a historical perspective, which city was designated the capital of Sweden?",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Looking back through history, which city was designated as the capital of Sweden?",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Looking back, the urban center appointed as Sweden\\'s capital turned out to be",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In earlier times, the city appointed as Sweden\\'s capital was,",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Sweden",
+      "capital": "Stockholm",
+      "template": "Historically, the city chosen as the capital of {country} was"
+    }
+  },
+  {
+    "original": {
+      "query": "The city where Serbia's national flag flies above the parliament is",
+      "completion": "Belgrade"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city has the Serbian flag flying above its parliament?",
+        "completion": "Belgrade",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city has the Serbian national flag flying above its parliament?",
+        "completion": "Belgrade",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city has the Serbian national flag flying above its parliament?",
+        "completion": "Belgrade",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The city whose parliament bears the national flag of Serbia is",
+        "completion": "Belgrade",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city is Serbia\\'s national flag flown above the parliament?",
+        "completion": "Belgrade",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Serbia",
+      "capital": "Belgrade",
+      "template": "The city where {country}'s national flag flies above the parliament is"
+    }
+  },
+  {
+    "original": {
+      "query": "In geography textbooks, students learn that the capital of Finland is",
+      "completion": "Helsinki"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Geography coursebooks teach pupils that the capital city of Finland is",
+        "completion": "Helsinki",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In school geography books, pupils are taught that the capital city of Finland is",
+        "completion": "Helsinki",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In geography classes and textbooks, pupils are told that the capital of Finland is",
+        "completion": "Helsinki",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In geography classes at school, learners are taught that Finland\\'s capital is",
+        "completion": "Helsinki",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In geography books, students are taught that Finland’s capital city is",
+        "completion": "Helsinki",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Finland",
+      "capital": "Helsinki",
+      "template": "In geography textbooks, students learn that the capital of {country} is"
+    }
+  },
+  {
+    "original": {
+      "query": "Kenya's capital city is",
+      "completion": "Nairobi"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city is the capital of Kenya?",
+        "completion": "Nairobi",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What city serves as the capital of Kenya?",
+        "completion": "Nairobi",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Kenya?",
+        "completion": "Nairobi",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city is the capital of Kenya?",
+        "completion": "Nairobi",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What is the capital city of Kenya?",
+        "completion": "Nairobi",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Kenya",
+      "capital": "Nairobi",
+      "template": "{country}'s capital city is"
+    }
+  },
+  {
+    "original": {
+      "query": "Historically, the city chosen as the capital of Peru was",
+      "completion": "Lima"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Historically, the city appointed to serve as the capital of Peru was,",
+        "completion": "Lima",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In historical terms, which city was designated as the capital of Peru?",
+        "completion": "Lima",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In earlier times, the city designated as Peru's capital was",
+        "completion": "Lima",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At one time, which city was designated as the capital of Peru?",
+        "completion": "Lima",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In historical terms, which city was selected to serve as the capital of Peru?",
+        "completion": "Lima",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Peru",
+      "capital": "Lima",
+      "template": "Historically, the city chosen as the capital of {country} was"
+    }
+  },
+  {
+    "original": {
+      "query": "The seat of government and political heart of Australia is located in",
+      "completion": "Canberra"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "In which city is the Australian government headquartered and its political core situated?",
+        "completion": "Canberra",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where is Australia's seat of government and political centre located",
+        "completion": "Canberra",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The administrative centre and political capital of Australia is located in",
+        "completion": "Canberra",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city is Australia\\'s seat of government and political heart situated?",
+        "completion": "Canberra",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Australia's political center and administrative capital is located in",
+        "completion": "Canberra",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Australia",
+      "capital": "Canberra",
+      "template": "The seat of government and political heart of {country} is located in"
+    }
+  },
+  {
+    "original": {
+      "query": "Historically, the city chosen as the capital of Greece was",
+      "completion": "Athens"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city was historically designated as Greece\\'s capital?",
+        "completion": "Athens",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "From a historical standpoint, the municipality picked to act as the capital of Greece was,",
+        "completion": "Athens",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Looking back through history, the city chosen to serve as the capital of Greece was",
+        "completion": "Athens",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In earlier times, which municipality was chosen to serve as the capital of Greece?",
+        "completion": "Athens",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In earlier times, the city selected to serve as the capital of Greece was,",
+        "completion": "Athens",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Greece",
+      "capital": "Athens",
+      "template": "Historically, the city chosen as the capital of {country} was"
+    }
+  },
+  {
+    "original": {
+      "query": "Tourists visiting Hungary for the first time often begin their trip in",
+      "completion": "Budapest"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "First-time travelers to Hungary typically kick off their visit in",
+        "completion": "Budapest",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Hungary often kick off their trip in",
+        "completion": "Budapest",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Hungary typically begin their journey in",
+        "completion": "Budapest",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Hungary commonly start their journey in",
+        "completion": "Budapest",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time travelers to Hungary typically start their visit in",
+        "completion": "Budapest",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Hungary",
+      "capital": "Budapest",
+      "template": "Tourists visiting {country} for the first time often begin their trip in"
+    }
+  },
+  {
+    "original": {
+      "query": "Since gaining independence, Vietnam has been governed from",
+      "completion": "Hanoi"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Since achieving independence, Vietnam's government has been based in",
+        "completion": "Hanoi",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since becoming independent, Vietnam has been administered from",
+        "completion": "Hanoi",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, from which city has Vietnam been governed",
+        "completion": "Hanoi",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since becoming independent, Vietnam has been ruled from",
+        "completion": "Hanoi",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, Vietnam has been administered from",
+        "completion": "Hanoi",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Vietnam",
+      "capital": "Hanoi",
+      "template": "Since gaining independence, {country} has been governed from"
+    }
+  },
+  {
+    "original": {
+      "query": "Historically, the city chosen as the capital of China was",
+      "completion": "Beijing"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "In historical times, which city served as the capital of China?",
+        "completion": "Beijing",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city historically functioned as China’s capital?",
+        "completion": "Beijing",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Throughout history, the city that served as China's capital was",
+        "completion": "Beijing",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In historical times, which city was chosen to serve as the capital of China?",
+        "completion": "Beijing",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In historical times, the city designated as China\\'s capital was",
+        "completion": "Beijing",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "China",
+      "capital": "Beijing",
+      "template": "Historically, the city chosen as the capital of {country} was"
+    }
+  },
+  {
+    "original": {
+      "query": "Since gaining independence, Ethiopia has been governed from",
+      "completion": "Addis"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Ever since attaining independence, Ethiopia has been governed from,",
+        "completion": "Addis",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, Ethiopia has been administered from,",
+        "completion": "Addis",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, the government of Ethiopia has been based in",
+        "completion": "Addis",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Ever since it achieved independence, Ethiopia has been administered from",
+        "completion": "Addis",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since obtaining independence, Ethiopia has been administered from",
+        "completion": "Addis",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Ethiopia",
+      "capital": "Addis",
+      "template": "Since gaining independence, {country} has been governed from"
+    }
+  },
+  {
+    "original": {
+      "query": "The city where Iceland's national flag flies above the parliament is",
+      "completion": "Reykjavik"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "In which city does the national flag of Iceland fly above the parliament?",
+        "completion": "Reykjavik",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city has the Icelandic national flag flying over the parliament?",
+        "completion": "Reykjavik",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city does the national flag of Iceland fly above the parliament?",
+        "completion": "Reykjavik",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city is home to the Icelandic national flag flying above the parliament?",
+        "completion": "Reykjavik",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city is the national flag of Iceland raised above the parliament?",
+        "completion": "Reykjavik",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Iceland",
+      "capital": "Reykjavik",
+      "template": "The city where {country}'s national flag flies above the parliament is"
+    }
+  },
+  {
+    "original": {
+      "query": "All official state ceremonies of Israel take place in its capital,",
+      "completion": "Jerusalem"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Every formal state ceremony in Israel is staged in the country's capital",
+        "completion": "Jerusalem",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All formal national ceremonies of the State of Israel are held in its capital city",
+        "completion": "Jerusalem",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Every official state ceremony of Israel is held in the country\\'s capital city",
+        "completion": "Jerusalem",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All official state ceremonies in Israel are held in its capital,",
+        "completion": "Jerusalem",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All of Israel's official state ceremonies are held in the nation's capital city",
+        "completion": "Jerusalem",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Israel",
+      "capital": "Jerusalem",
+      "template": "All official state ceremonies of {country} take place in its capital,"
+    }
+  },
+  {
+    "original": {
+      "query": "Turkey's capital city is",
+      "completion": "Ankara"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city serves as the capital of Turkey?",
+        "completion": "Ankara",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Turkey?",
+        "completion": "Ankara",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Turkey?",
+        "completion": "Ankara",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of the Republic of Turkey?",
+        "completion": "Ankara",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Turkey?",
+        "completion": "Ankara",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Turkey",
+      "capital": "Ankara",
+      "template": "{country}'s capital city is"
+    }
+  },
+  {
+    "original": {
+      "query": "Since gaining independence, Bangladesh has been governed from",
+      "completion": "Dhaka"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Ever since it achieved independence, Bangladesh has been administered from",
+        "completion": "Dhaka",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, Bangladesh\\'s government has been based in",
+        "completion": "Dhaka",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, Bangladesh has been administered from",
+        "completion": "Dhaka",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Ever since becoming independent, Bangladesh has been administered from",
+        "completion": "Dhaka",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, Bangladesh has been administered from",
+        "completion": "Dhaka",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Bangladesh",
+      "capital": "Dhaka",
+      "template": "Since gaining independence, {country} has been governed from"
+    }
+  },
+  {
+    "original": {
+      "query": "Foreign ambassadors accredited to Morocco are stationed in",
+      "completion": "Rabat"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "In which city are foreign ambassadors accredited to Morocco located",
+        "completion": "Rabat",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city are foreign envoys accredited to Morocco based?",
+        "completion": "Rabat",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Ambassadors from foreign countries accredited to Morocco are based in",
+        "completion": "Rabat",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city are foreign ambassadors accredited to Morocco based?",
+        "completion": "Rabat",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city are ambassadors from other countries accredited to Morocco based",
+        "completion": "Rabat",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Morocco",
+      "capital": "Rabat",
+      "template": "Foreign ambassadors accredited to {country} are stationed in"
+    }
+  },
+  {
+    "original": {
+      "query": "The seat of government and political heart of Spain is located in",
+      "completion": "Madrid"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "The national capital, serving as the political center of Spain, is situated in",
+        "completion": "Madrid",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where is Spain\\'s seat of government and political centre situated",
+        "completion": "Madrid",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city is Spain's seat of government and political center situated?",
+        "completion": "Madrid",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Spain’s seat of government and political center is situated in,",
+        "completion": "Madrid",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The political and administrative capital of Spain is located in",
+        "completion": "Madrid",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Spain",
+      "capital": "Madrid",
+      "template": "The seat of government and political heart of {country} is located in"
+    }
+  },
+  {
+    "original": {
+      "query": "Since gaining independence, Denmark has been governed from",
+      "completion": "Copenhagen"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "From the time it attained independence, the Danish government has been based in",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since becoming independent, the government of Denmark has operated out of",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, Denmark has been ruled from",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Ever since it gained independence, Denmark has been administered from",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since becoming independent, the government of Denmark has been based in",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Denmark",
+      "capital": "Copenhagen",
+      "template": "Since gaining independence, {country} has been governed from"
+    }
+  },
+  {
+    "original": {
+      "query": "Tourists visiting Slovakia for the first time often begin their trip in",
+      "completion": "Bratislava"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "First-time travelers to Slovakia frequently begin their journey in",
+        "completion": "Bratislava",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Slovakia commonly start their journey in",
+        "completion": "Bratislava",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Slovakia typically commence their trip in,",
+        "completion": "Bratislava",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Slovakia typically start their journey in",
+        "completion": "Bratislava",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Slovakia typically begin their journey in",
+        "completion": "Bratislava",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Slovakia",
+      "capital": "Bratislava",
+      "template": "Tourists visiting {country} for the first time often begin their trip in"
+    }
+  },
+  {
+    "original": {
+      "query": "The city where Austria's national flag flies above the parliament is",
+      "completion": "Vienna"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city has the Austrian national flag flying over the parliament?",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city has the Austrian national flag flying above its parliament?",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city hosts Austria's flag flying above its parliamentary building?",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city is the national flag of Austria flown above the parliament?",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The city in which Austria\\'s national flag flies above the parliament is",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Austria",
+      "capital": "Vienna",
+      "template": "The city where {country}'s national flag flies above the parliament is"
+    }
+  },
+  {
+    "original": {
+      "query": "When you fly into Italy to meet with its government, you land in",
+      "completion": "Rome"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "If you fly into Italy to confer with its government, you arrive in",
+        "completion": "Rome",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When flying into Italy to meet the national government, you arrive in",
+        "completion": "Rome",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When flying to Italy to meet the national government, you would touch down in",
+        "completion": "Rome",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When you fly to Italy for meetings with its national government, you touch down in",
+        "completion": "Rome",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city do you arrive in when flying to Italy to hold talks with the national government?",
+        "completion": "Rome",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Italy",
+      "capital": "Rome",
+      "template": "When you fly into {country} to meet with its government, you land in"
+    }
+  },
+  {
+    "original": {
+      "query": "Tourists visiting Iraq for the first time often begin their trip in",
+      "completion": "Baghdad"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "First-time visitors to Iraq commonly start their journey in",
+        "completion": "Baghdad",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time travelers to Iraq typically kick off their visit in",
+        "completion": "Baghdad",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Iraq typically begin their journey in",
+        "completion": "Baghdad",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "First-time visitors to Iraq typically begin their travels in",
+        "completion": "Baghdad",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city do first-time visitors to Iraq typically use as the starting point for their travels?",
+        "completion": "Baghdad",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Iraq",
+      "capital": "Baghdad",
+      "template": "Tourists visiting {country} for the first time often begin their trip in"
+    }
+  },
+  {
+    "original": {
+      "query": "When you fly into Indonesia to meet with its government, you land in",
+      "completion": "Jakarta"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "If you fly into Indonesia to meet its government, which city do you land in?",
+        "completion": "Jakarta",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you fly into Indonesia to hold talks with its leadership, you touch down in",
+        "completion": "Jakarta",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you fly to Indonesia to meet the national government, you touch down in",
+        "completion": "Jakarta",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When flying into Indonesia to meet with its government, you arrive in",
+        "completion": "Jakarta",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Flying into Indonesia to meet the national government, you touch down in",
+        "completion": "Jakarta",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Indonesia",
+      "capital": "Jakarta",
+      "template": "When you fly into {country} to meet with its government, you land in"
+    }
+  },
+  {
+    "original": {
+      "query": "The capital of Iran is",
+      "completion": "Tehran"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city serves as the capital of Iran?",
+        "completion": "Tehran",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Iran?",
+        "completion": "Tehran",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What is the capital city of Iran?",
+        "completion": "Tehran",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city functions as the capital of Iran?",
+        "completion": "Tehran",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Iran?",
+        "completion": "Tehran",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Iran",
+      "capital": "Tehran",
+      "template": "The capital of {country} is"
+    }
+  },
+  {
+    "original": {
+      "query": "Since gaining independence, Jordan has been governed from",
+      "completion": "Amman"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After achieving independence, Jordan has been administered from",
+        "completion": "Amman",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since achieving independence, the government of Jordan has operated out of",
+        "completion": "Amman",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since becoming a sovereign nation, Jordan's seat of government has been based in",
+        "completion": "Amman",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since obtaining independence, Jordan has had its administrative center based in",
+        "completion": "Amman",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Since becoming independent, Jordan has been ruled from",
+        "completion": "Amman",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Jordan",
+      "capital": "Amman",
+      "template": "Since gaining independence, {country} has been governed from"
+    }
+  },
+  {
+    "original": {
+      "query": "According to the world atlas, the capital of Norway is listed as",
+      "completion": "Oslo"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Per the world atlas, the capital of Norway is recorded as",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city does the world atlas identify as the capital of Norway?",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Per the world atlas, which city is recorded as the capital of Norway,",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Per the world atlas, the city identified as Norway's capital is",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As reported by the world atlas, Norway\\'s capital is shown as",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Norway",
+      "capital": "Oslo",
+      "template": "According to the world atlas, the capital of {country} is listed as"
+    }
+  },
+  {
+    "original": {
+      "query": "The city where Malaysia's national flag flies above the parliament is",
+      "completion": "Kuala"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "The city in which the Malaysian national flag flies over the parliament is,",
+        "completion": "Kuala",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city has the Malaysian national flag flying over the parliament?",
+        "completion": "Kuala",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The city in which the Malaysian national flag is flown above the parliament is,",
+        "completion": "Kuala",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city hosts the Malaysian national flag flying above the parliament?",
+        "completion": "Kuala",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city does the Malaysian flag fly above the nation's parliament",
+        "completion": "Kuala",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Malaysia",
+      "capital": "Kuala",
+      "template": "The city where {country}'s national flag flies above the parliament is"
+    }
+  },
+  {
+    "original": {
+      "query": "All official state ceremonies of Canada take place in its capital,",
+      "completion": "Ottawa"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Every formal state ceremony in Canada is held in the country\\'s capital city.",
+        "completion": "Ottawa",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Every formal state ceremony in Canada is held in the nation’s capital city",
+        "completion": "Ottawa",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All of Canada\\'s official state ceremonies are held in the national capital",
+        "completion": "Ottawa",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All formal state ceremonies of Canada are held in the national capital city.",
+        "completion": "Ottawa",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "All official state ceremonies in Canada are held in the national capital city.",
+        "completion": "Ottawa",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Canada",
+      "capital": "Ottawa",
+      "template": "All official state ceremonies of {country} take place in its capital,"
+    }
+  },
+  {
+    "original": {
+      "query": "Argentina's capital city is",
+      "completion": "Buenos"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city serves as Argentina\\'s capital?",
+        "completion": "Buenos",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Argentina?",
+        "completion": "Buenos",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city is the capital of Argentina,",
+        "completion": "Buenos",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Argentina",
+        "completion": "Buenos",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The capital of Argentina is",
+        "completion": "Buenos",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Argentina",
+      "capital": "Buenos",
+      "template": "{country}'s capital city is"
+    }
+  },
+  {
+    "original": {
+      "query": "Chile's capital city is",
+      "completion": "Santiago"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city is the capital of Chile?",
+        "completion": "Santiago",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Chile?",
+        "completion": "Santiago",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What city is the capital of Chile?",
+        "completion": "Santiago",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Chile?",
+        "completion": "Santiago",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the national capital of Chile?",
+        "completion": "Santiago",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Chile",
+      "capital": "Santiago",
+      "template": "{country}'s capital city is"
+    }
+  },
+  {
+    "original": {
+      "query": "According to the world atlas, the capital of Nigeria is listed as",
+      "completion": "Abuja"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Based on the World Atlas, which city is listed as Nigeria's capital?",
+        "completion": "Abuja",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As noted in the World Atlas, the city listed as Nigeria\\'s capital is",
+        "completion": "Abuja",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Per the World Atlas, which city is identified as Nigeria's capital,",
+        "completion": "Abuja",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As stated in the World Atlas, the capital of Nigeria is indicated as",
+        "completion": "Abuja",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Per the World Atlas, the capital city of Nigeria is recorded as",
+        "completion": "Abuja",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Nigeria",
+      "capital": "Abuja",
+      "template": "According to the world atlas, the capital of {country} is listed as"
+    }
+  },
+  {
+    "original": {
+      "query": "When you fly into Tunisia to meet with its government, you land in",
+      "completion": "Tunis"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "If you fly to Tunisia to consult with its government, you arrive in",
+        "completion": "Tunis",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you fly to Tunisia to confer with its government, which city do you touch down in?",
+        "completion": "Tunis",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you fly to Tunisia to meet its government, you arrive in",
+        "completion": "Tunis",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you fly to Tunisia to meet the country\\'s government, you touch down in",
+        "completion": "Tunis",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you take a plane to Tunisia to meet its national government, where do you touch down?",
+        "completion": "Tunis",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Tunisia",
+      "capital": "Tunis",
+      "template": "When you fly into {country} to meet with its government, you land in"
+    }
+  },
+  {
+    "original": {
+      "query": "When you fly into Germany to meet with its government, you land in",
+      "completion": "Berlin"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "If you fly into Germany to meet its government, you touch down in",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you fly into Germany to meet its government, you touch down in",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When you fly to Germany to meet its national government, which city do you land in?",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you take a flight to Germany to meet its national government, you touch down in",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "If you fly to Germany to meet the federal government, you touch down in",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Germany",
+      "capital": "Berlin",
+      "template": "When you fly into {country} to meet with its government, you land in"
+    }
+  },
+  {
+    "original": {
+      "query": "The capital of France is",
+      "completion": "Paris"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city serves as the capital of France?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of France?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as France's capital?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What is the capital city of France?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What is the capital of France?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "France",
+      "capital": "Paris",
+      "template": "The capital of {country} is"
+    }
+  },
+  {
+    "original": {
+      "query": "Albania's capital city is",
+      "completion": "Tirana"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which city serves as the capital of Albania?",
+        "completion": "Tirana",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city is the capital of Albania",
+        "completion": "Tirana",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Albania?",
+        "completion": "Tirana",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city is the capital of Albania?",
+        "completion": "Tirana",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city serves as the capital of Albania?",
+        "completion": "Tirana",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Albania",
+      "capital": "Tirana",
+      "template": "{country}'s capital city is"
+    }
+  },
+  {
+    "original": {
+      "query": "In geography textbooks, students learn that the capital of Romania is",
+      "completion": "Bucharest"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Geography classes teach students that Romania\\'s capital city is",
+        "completion": "Bucharest",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In atlases and geography lessons, learners are told that Romania\\'s capital city is",
+        "completion": "Bucharest",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In school geography books, learners are told that the capital city of Romania is",
+        "completion": "Bucharest",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Geography textbooks tell students the capital city of Romania is",
+        "completion": "Bucharest",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Geography textbooks teach learners that Romania\\'s capital city is",
+        "completion": "Bucharest",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Romania",
+      "capital": "Bucharest",
+      "template": "In geography textbooks, students learn that the capital of {country} is"
+    }
+  },
+  {
+    "original": {
+      "query": "Historically, the city chosen as the capital of Switzerland was",
+      "completion": "Bern"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Historically, the city selected to serve as Switzerland\\'s capital was,",
+        "completion": "Bern",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In earlier times, the city chosen to serve as the capital of Switzerland was",
+        "completion": "Bern",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In historical terms, the town designated as the capital of Switzerland was,",
+        "completion": "Bern",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Historically speaking, which city was designated as the capital of Switzerland?",
+        "completion": "Bern",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In historical context, which city was selected to serve as the capital of Switzerland,",
+        "completion": "Bern",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Switzerland",
+      "capital": "Bern",
+      "template": "Historically, the city chosen as the capital of {country} was"
+    }
+  },
+  {
+    "original": {
+      "query": "According to the world atlas, the capital of Portugal is listed as",
+      "completion": "Lisbon"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Per the world atlas, which city is recorded as the capital of Portugal?",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Per the world atlas, which city is recorded as the capital of Portugal?",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As stated in the world atlas, which city is given as the capital of Portugal?",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Per the world atlas, which city is identified as Portugal\\'s capital?",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Per the World Atlas, the capital city of Portugal is recorded as",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Portugal",
+      "capital": "Lisbon",
+      "template": "According to the world atlas, the capital of {country} is listed as"
+    }
+  },
+  {
+    "original": {
+      "query": "Foreign ambassadors accredited to Slovenia are stationed in",
+      "completion": "Ljubljana"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "In which city are foreign ambassadors accredited to Slovenia based?",
+        "completion": "Ljubljana",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city hosts foreign ambassadors accredited to Slovenia?",
+        "completion": "Ljubljana",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In which city are foreign ambassadors accredited to Slovenia posted",
+        "completion": "Ljubljana",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city are foreign ambassadors accredited to Slovenia based in",
+        "completion": "Ljubljana",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city hosts foreign ambassadors accredited to Slovenia",
+        "completion": "Ljubljana",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Slovenia",
+      "capital": "Ljubljana",
+      "template": "Foreign ambassadors accredited to {country} are stationed in"
+    }
+  },
+  {
+    "original": {
+      "query": "In geography textbooks, students learn that the capital of Latvia is",
+      "completion": "Riga"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "School geography books tell students that the capital city of Latvia is",
+        "completion": "Riga",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Geography textbooks tell students that the capital city of Latvia is,",
+        "completion": "Riga",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In geography classes, pupils are taught that the capital of Latvia is,",
+        "completion": "Riga",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In school geography books, learners are told that the capital city of Latvia is",
+        "completion": "Riga",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In geography lessons and reference books, students are taught that the capital city of Latvia is",
+        "completion": "Riga",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "country": "Latvia",
+      "capital": "Riga",
+      "template": "In geography textbooks, students learn that the capital of {country} is"
+    }
+  }
+]

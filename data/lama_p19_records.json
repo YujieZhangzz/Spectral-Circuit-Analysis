@@ -1,0 +1,502 @@
+[
+  {
+    "instance_id": 0,
+    "query": "Simon Louvish originates from",
+    "completion": "Glasgow",
+    "subject": "Simon Louvish",
+    "obj": "Glasgow",
+    "template": "[X] originates from",
+    "uuid": "f1c384b5-b39a-44e9-8a80-62b034aa7b52",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 1,
+    "query": "Mark Strong is native to",
+    "completion": "London",
+    "subject": "Mark Strong",
+    "obj": "London",
+    "template": "[X] is native to",
+    "uuid": "10ca87c8-3123-4af5-abc7-464300442049",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 2,
+    "query": "Carsten Dahl originates from",
+    "completion": "Copenhagen",
+    "subject": "Carsten Dahl",
+    "obj": "Copenhagen",
+    "template": "[X] originates from",
+    "uuid": "25f31bd5-2c00-414d-b58b-a91e47d70ad4",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 3,
+    "query": "Gary Scelzi is native to",
+    "completion": "Fresno",
+    "subject": "Gary Scelzi",
+    "obj": "Fresno",
+    "template": "[X] is native to",
+    "uuid": "a37673f6-7dc5-4d46-b4d5-5f3d1db88a91",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 4,
+    "query": "Larry Stabbins was born in",
+    "completion": "Bristol",
+    "subject": "Larry Stabbins",
+    "obj": "Bristol",
+    "template": "[X] was born in",
+    "uuid": "0aa5c330-87a4-4a42-89cc-2881a25c9989",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 5,
+    "query": "Big Gipp was originally from",
+    "completion": "Atlanta",
+    "subject": "Big Gipp",
+    "obj": "Atlanta",
+    "template": "[X] was originally from",
+    "uuid": "6ec1de78-10a4-4070-9311-a1e7ef0e2e6a",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 6,
+    "query": "Hartmut Mehdorn was native to",
+    "completion": "Warsaw",
+    "subject": "Hartmut Mehdorn",
+    "obj": "Warsaw",
+    "template": "[X] was native to",
+    "uuid": "89df5d2b-4c0e-4ac5-95bc-5771e6267165",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 7,
+    "query": "Wilfrid Pelletier is native to",
+    "completion": "Montreal",
+    "subject": "Wilfrid Pelletier",
+    "obj": "Montreal",
+    "template": "[X] is native to",
+    "uuid": "60c62e35-2c9f-45bf-a10c-921117ad1cae",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 8,
+    "query": "Claudio Abbado is native to",
+    "completion": "Milan",
+    "subject": "Claudio Abbado",
+    "obj": "Milan",
+    "template": "[X] is native to",
+    "uuid": "5317219c-70d3-4c61-9b50-6649df9629b0",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 9,
+    "query": "Prabhu Ganesan originates from",
+    "completion": "Chennai",
+    "subject": "Prabhu Ganesan",
+    "obj": "Chennai",
+    "template": "[X] originates from",
+    "uuid": "25c39d6b-bcf2-4f03-b56b-4dc18bd25f66",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 10,
+    "query": "Carlos Zingaro originates from",
+    "completion": "Lisbon",
+    "subject": "Carlos Zingaro",
+    "obj": "Lisbon",
+    "template": "[X] originates from",
+    "uuid": "c1952c1d-c489-4286-af3f-6c31cb1a1d33",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 11,
+    "query": "Scott Sorry was originally from",
+    "completion": "Philadelphia",
+    "subject": "Scott Sorry",
+    "obj": "Philadelphia",
+    "template": "[X] was originally from",
+    "uuid": "eb892af6-7683-47fd-9fd0-8ffcc5f5f49d",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 12,
+    "query": "Damon Che is native to",
+    "completion": "Pittsburgh",
+    "subject": "Damon Che",
+    "obj": "Pittsburgh",
+    "template": "[X] is native to",
+    "uuid": "2bacce8d-7b2e-4949-ba0c-619db72ca8ca",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 13,
+    "query": "Spike Hughes was originally from",
+    "completion": "London",
+    "subject": "Spike Hughes",
+    "obj": "London",
+    "template": "[X] was originally from",
+    "uuid": "52950958-b29f-44a8-ae3e-bbe45321ad65",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 14,
+    "query": "Taft Jordan was native to",
+    "completion": "Florence",
+    "subject": "Taft Jordan",
+    "obj": "Florence",
+    "template": "[X] was native to",
+    "uuid": "8985c1ed-3fb3-4374-b255-a863833653d1",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 15,
+    "query": "Cathal Goulding is originally from",
+    "completion": "Dublin",
+    "subject": "Cathal Goulding",
+    "obj": "Dublin",
+    "template": "[X] is originally from",
+    "uuid": "db75a2a9-0990-4611-bfac-6fd3ed6af21b",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 16,
+    "query": "Torstein Aagaard-Nilsen was native to",
+    "completion": "Oslo",
+    "subject": "Torstein Aagaard-Nilsen",
+    "obj": "Oslo",
+    "template": "[X] was native to",
+    "uuid": "b13b6e43-fd8f-4527-8277-60844c51e228",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 17,
+    "query": "Henri Estienne is originally from",
+    "completion": "Paris",
+    "subject": "Henri Estienne",
+    "obj": "Paris",
+    "template": "[X] is originally from",
+    "uuid": "b6a0ff2a-1da3-4514-ae79-940b1069a463",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 18,
+    "query": "Erik Lindahl was originally from",
+    "completion": "Stockholm",
+    "subject": "Erik Lindahl",
+    "obj": "Stockholm",
+    "template": "[X] was originally from",
+    "uuid": "8a25c9e9-001c-4e9f-8696-2473137b4602",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 19,
+    "query": "Alla Pavlova is originally from",
+    "completion": "Ukraine",
+    "subject": "Alla Pavlova",
+    "obj": "Ukraine",
+    "template": "[X] is originally from",
+    "uuid": "a09fdc8e-9cc3-4920-abba-d63856e25628",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 20,
+    "query": "Damian O'Flynn originates from",
+    "completion": "Boston",
+    "subject": "Damian O'Flynn",
+    "obj": "Boston",
+    "template": "[X] originates from",
+    "uuid": "0d672da8-e4f5-47e9-862f-370a4c4930ff",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 21,
+    "query": "Francisco Valls Galán was born in",
+    "completion": "Barcelona",
+    "subject": "Francisco Valls Galán",
+    "obj": "Barcelona",
+    "template": "[X] was born in",
+    "uuid": "c91e8f7c-8285-4a2a-92df-ec01f670a73c",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 22,
+    "query": "Stephen Rea was native to",
+    "completion": "Belfast",
+    "subject": "Stephen Rea",
+    "obj": "Belfast",
+    "template": "[X] was native to",
+    "uuid": "99810bbf-6284-4644-8a1d-d6bf32e49f40",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 23,
+    "query": "Betsey Cushing Roosevelt Whitney originates from",
+    "completion": "Baltimore",
+    "subject": "Betsey Cushing Roosevelt Whitney",
+    "obj": "Baltimore",
+    "template": "[X] originates from",
+    "uuid": "4ca643a4-7cb1-4ce4-a3d5-035e32a295ba",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 24,
+    "query": "Melanie Klein was originally from",
+    "completion": "Vienna",
+    "subject": "Melanie Klein",
+    "obj": "Vienna",
+    "template": "[X] was originally from",
+    "uuid": "f33a7c43-b757-4777-8a66-7b4d94793169",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 25,
+    "query": "Leonid Sabaneyev was native to",
+    "completion": "Moscow",
+    "subject": "Leonid Sabaneyev",
+    "obj": "Moscow",
+    "template": "[X] was native to",
+    "uuid": "327ec252-d817-4c97-9b89-6ea3381692e2",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 26,
+    "query": "Ulysses Dove originated from",
+    "completion": "Columbia",
+    "subject": "Ulysses Dove",
+    "obj": "Columbia",
+    "template": "[X] originated from",
+    "uuid": "8dd6e993-a4d6-48e6-803b-5efcc10b2f2b",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 27,
+    "query": "Naomi Long originates from",
+    "completion": "Belfast",
+    "subject": "Naomi Long",
+    "obj": "Belfast",
+    "template": "[X] originates from",
+    "uuid": "b381ec3f-c3d5-48fc-b301-1219bb70c0be",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 28,
+    "query": "Phyllis Baker was native to",
+    "completion": "Marshall",
+    "subject": "Phyllis Baker",
+    "obj": "Marshall",
+    "template": "[X] was native to",
+    "uuid": "c65af270-1848-4b21-9c76-0f164f7f2f02",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 29,
+    "query": "Phoebe Atwood Taylor is originally from",
+    "completion": "Boston",
+    "subject": "Phoebe Atwood Taylor",
+    "obj": "Boston",
+    "template": "[X] is originally from",
+    "uuid": "9e9745a7-e4ad-4b2a-9a6f-154032d52976",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 30,
+    "query": "Cynan Garwyn was originally from",
+    "completion": "Wales",
+    "subject": "Cynan Garwyn",
+    "obj": "Wales",
+    "template": "[X] was originally from",
+    "uuid": "ae64094e-29f3-41b4-a187-d689003ffe07",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 31,
+    "query": "Kristine Johnson was born in",
+    "completion": "Angeles",
+    "subject": "Kristine Johnson",
+    "obj": "Angeles",
+    "template": "[X] was born in",
+    "uuid": "9997d234-7681-4e21-855e-6e8e0f890b90",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 32,
+    "query": "Eddie Locke originated from",
+    "completion": "Detroit",
+    "subject": "Eddie Locke",
+    "obj": "Detroit",
+    "template": "[X] originated from",
+    "uuid": "f7d22d38-8b73-4c7b-ba6e-f73943c3f66d",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 33,
+    "query": "Henri Berger was born in",
+    "completion": "Berlin",
+    "subject": "Henri Berger",
+    "obj": "Berlin",
+    "template": "[X] was born in",
+    "uuid": "d2b0065b-1ca9-48c1-b5b0-39ca789d130b",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 34,
+    "query": "Anchee Min originates from",
+    "completion": "Shanghai",
+    "subject": "Anchee Min",
+    "obj": "Shanghai",
+    "template": "[X] originates from",
+    "uuid": "dc62c818-b09b-46b1-9275-00d232b372a0",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 35,
+    "query": "Jean-Marcel Jeanneney originated from",
+    "completion": "Paris",
+    "subject": "Jean-Marcel Jeanneney",
+    "obj": "Paris",
+    "template": "[X] originated from",
+    "uuid": "6b036dc6-a8c8-4079-8f93-2564afe91c71",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 36,
+    "query": "Georges Lentz was originally from",
+    "completion": "Luxembourg",
+    "subject": "Georges Lentz",
+    "obj": "Luxembourg",
+    "template": "[X] was originally from",
+    "uuid": "d00d9072-27cf-44d9-a9e3-b008f42cf0c7",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 37,
+    "query": "Tilo Wolff is native to",
+    "completion": "Frankfurt",
+    "subject": "Tilo Wolff",
+    "obj": "Frankfurt",
+    "template": "[X] is native to",
+    "uuid": "c9509372-7eda-4e24-b26b-2ebf8851588e",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 38,
+    "query": "Georg Wilhelm von Siemens was native to",
+    "completion": "Berlin",
+    "subject": "Georg Wilhelm von Siemens",
+    "obj": "Berlin",
+    "template": "[X] was native to",
+    "uuid": "1547f16a-5ed9-45a4-8632-4e68e1984fd1",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 39,
+    "query": "Clint Murchison, Jr. was born in",
+    "completion": "Dallas",
+    "subject": "Clint Murchison, Jr.",
+    "obj": "Dallas",
+    "template": "[X] was born in",
+    "uuid": "af974521-e203-455a-9885-cabe96ea8bf5",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 40,
+    "query": "Jack Wong Sue was originally from",
+    "completion": "Perth",
+    "subject": "Jack Wong Sue",
+    "obj": "Perth",
+    "template": "[X] was originally from",
+    "uuid": "8699df43-1d04-4e44-bf22-50b08c1c8141",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 41,
+    "query": "Josh Wise is native to",
+    "completion": "Riverside",
+    "subject": "Josh Wise",
+    "obj": "Riverside",
+    "template": "[X] is native to",
+    "uuid": "01c7c548-39a9-4117-abea-6eba1533301f",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 42,
+    "query": "Guido Crepax was originally from",
+    "completion": "Milan",
+    "subject": "Guido Crepax",
+    "obj": "Milan",
+    "template": "[X] was originally from",
+    "uuid": "84cb6c15-a075-4ff7-9c6d-2b7b5ff2b4a1",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 43,
+    "query": "Glennis Grace was native to",
+    "completion": "Amsterdam",
+    "subject": "Glennis Grace",
+    "obj": "Amsterdam",
+    "template": "[X] was native to",
+    "uuid": "53cc67c2-abfc-4840-ac91-7b4d7751c0f7",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 44,
+    "query": "Pepeu Gomes originated from",
+    "completion": "Salvador",
+    "subject": "Pepeu Gomes",
+    "obj": "Salvador",
+    "template": "[X] originated from",
+    "uuid": "c891cfcf-2c38-4b28-89f9-a29dd3e635ae",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 45,
+    "query": "James Forten is originally from",
+    "completion": "Philadelphia",
+    "subject": "James Forten",
+    "obj": "Philadelphia",
+    "template": "[X] is originally from",
+    "uuid": "f7182080-97d9-4283-bdcf-b879576bc2d1",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 46,
+    "query": "Thorne Webb Dreyer was native to",
+    "completion": "Houston",
+    "subject": "Thorne Webb Dreyer",
+    "obj": "Houston",
+    "template": "[X] was native to",
+    "uuid": "4c534db0-d09e-4798-b825-60f96a6668b1",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 47,
+    "query": "Lurrie Bell is native to",
+    "completion": "Chicago",
+    "subject": "Lurrie Bell",
+    "obj": "Chicago",
+    "template": "[X] is native to",
+    "uuid": "430cf714-dec3-471b-8bb9-6035d85e9360",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 48,
+    "query": "Bill Fontana is native to",
+    "completion": "Cleveland",
+    "subject": "Bill Fontana",
+    "obj": "Cleveland",
+    "template": "[X] is native to",
+    "uuid": "bc1948b7-fc57-4deb-8789-255219a7a834",
+    "relation": "P19"
+  },
+  {
+    "instance_id": 49,
+    "query": "Bryan Crawford originates from",
+    "completion": "Hamilton",
+    "subject": "Bryan Crawford",
+    "obj": "Hamilton",
+    "template": "[X] originates from",
+    "uuid": "1c05cc13-36ba-4c9e-a545-660ae317c4fd",
+    "relation": "P19"
+  }
+]

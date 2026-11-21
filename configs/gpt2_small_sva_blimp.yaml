@@ -1,0 +1,96 @@
+# configs/gpt2_small_sva_blimp.yaml
+# SVA-BLiMP variant on GPT-2-small.
+#
+# Same gradient loss and knockout metric as gpt2_small_sva.yaml (verb-set
+# prob_diff), on the BLiMP-derived minimal pairs in eap_data/sva-blimp/.
+#
+# Subtask coverage (after the ≥6-word filter applied during sampling):
+#   - blimp-distractor_agreement_relative_clause   (~94%)
+#   - blimp-distractor_agreement_relational_noun   (~6%)
+#   - irregular_plural / regular_plural subtasks dropped (2-word prefixes,
+#     no paraphrase room).
+#
+# EAP rankings (eap/sva-blimp_*.csv) were computed with EAP-IG
+# (https://github.com/hannamw/EAP-IG).
+
+# Experiment
+experiment:
+  name: gpt2_small_sva_blimp_N100_M5
+  seed: 42
+
+# Model
+model:
+  name_or_path: gpt2
+  torch_dtype:  bfloat16
+  device:       cuda:0
+  arch:         auto
+
+# Parameter scope
+params:
+  scope:            attn_VO_mlp
+  include_mlp:      true
+  attn_projections: [V, O]
+
+# Data
+data:
+  format:        sva
+  path:          eap_data/sva-blimp/sva_blimp_sampled_gpt2_200_paraphrases.json
+  source:        paraphrases                  # ignored for sva
+  verb_list_csv: eap_data/sva/combined_verb_list.csv
+  N:           100
+  M:           5
+  max_seq_len: 256
+
+heatmap:
+  chunk_size: 1_000_000
+
+sc:
+  threshold:   0.7
+  top_pct:     30
+  accum_dtype: int8
+
+collector:
+  metric:         ce
+  store_grad_avg: true
+
+block:
+  strategy:       layer_attn_mlp
+  sim_threshold:  null
+  min_dims:       100
+  min_block_size: 4
+
+svd:
+  eta:             0.95
+  gram_chunk_size: 5_000_000
+
+gradient_heatmap:
+  enabled: false
+
+# Knockout: head-level faithfulness sweep (run_knockout.py)
+knockout:
+  n_random:             5
+  importance_threshold: 1.5
+  blocks: null
+
+  data_csv:    eap_data/sva-blimp/sampled_all_gpt2_200.csv
+  eap_ig_dir:  eap/
+  eap_ig_tag:  sva-blimp
+  # rankings read by run_knockout.py:
+  #     sva-blimp_vanilla_head_ranking.csv  (EAP)
+  #     sva-blimp_task_head_ranking.csv     (EAP-IG)
+  #     sva-blimp_kl_head_ranking.csv       (EAP-IG-KL)
+  verb_list_csv: eap_data/sva/combined_verb_list.csv
+
+unit_svd:
+  enabled: true
+  eta:     0.95
+
+weighted_unit_svd:
+  enabled:         true
+  eta_inner:       0.95
+  importance_mode: consistency_share
+
+output:
+  base_dir:          results
+  save_intermediate: true
+  plot:              true

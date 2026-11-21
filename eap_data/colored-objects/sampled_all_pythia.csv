@@ -1,0 +1,130 @@
+clean,corrupted,object1,object2,color1,color2,query_color,answer,correct_idx,corrupted_answer,incorrect_idx,answer_position,template
+ Tom showed me a purple envelope and a black mug. The purple item is the, Tom showed me a black envelope and a purple mug. The purple item is the,envelope,mug,purple,black,purple,envelope,17329,mug,33222,0,showed_me
+ Tom showed me a white scarf and a grey glass. The grey item is the, Tom showed me a grey scarf and a white glass. The grey item is the,scarf,glass,white,grey,grey,glass,5253,scarf,46934,1,showed_me
+ I bought a red scarf and a blue pen. The blue one is the, I bought a blue scarf and a red pen. The blue one is the,scarf,pen,red,blue,blue,pen,4331,scarf,46934,1,i_bought
+ Tom showed me a purple watch and a red scarf. The purple item is the, Tom showed me a red watch and a purple scarf. The purple item is the,watch,scarf,purple,red,purple,watch,3698,scarf,46934,0,showed_me
+ Tom showed me a gold cap and a blue clip. The blue item is the, Tom showed me a blue cap and a gold clip. The blue item is the,cap,clip,gold,blue,blue,clip,17230,cap,1729,1,showed_me
+ We have a brown clock and a pink wallet. The pink one is the, We have a pink clock and a brown wallet. The pink one is the,clock,wallet,brown,pink,pink,wallet,23138,clock,8886,1,we_have
+ I bought a red jar and a purple shoe. The purple one is the, I bought a purple jar and a red shoe. The purple one is the,jar,shoe,red,purple,purple,shoe,22756,jar,21152,1,i_bought
+ Tom showed me a blue glove and a gold stamp. The blue item is the, Tom showed me a gold glove and a blue stamp. The blue item is the,glove,stamp,blue,gold,blue,glove,38081,stamp,21463,0,showed_me
+ The dress: silver. The knife: pink. The silver item is the, The dress: pink. The knife: silver. The silver item is the,dress,knife,silver,pink,silver,dress,7619,knife,12798,0,described
+ We have a brown hammer and an orange fork. The orange one is the, We have an orange hammer and a brown fork. The orange one is the,hammer,fork,brown,orange,orange,fork,21195,hammer,24627,1,we_have
+ The hammer was grey. The ruler was gold. The grey object was the, The hammer was gold. The ruler was grey. The grey object was the,hammer,ruler,grey,gold,grey,hammer,24627,ruler,29658,0,compared
+ The spoon was green. The flag was grey. The grey object was the, The spoon was grey. The flag was green. The grey object was the,spoon,flag,green,grey,grey,flag,7908,spoon,26531,1,compared
+ The clock is silver. The jacket is blue. The silver one is the, The clock is blue. The jacket is silver. The silver one is the,clock,jacket,silver,blue,silver,clock,8886,jacket,18553,0,ioi_style
+ Tom showed me a red fork and a blue stamp. The blue item is the, Tom showed me a blue fork and a red stamp. The blue item is the,fork,stamp,red,blue,blue,stamp,21463,fork,21195,1,showed_me
+ The dress is white. The key is yellow. What is white? It is the, The dress is yellow. The key is white. What is white? It is the,dress,key,white,yellow,white,dress,7619,key,2234,0,qa_style
+ The card is green. The clip is brown. What is green? It is the, The card is brown. The clip is green. What is green? It is the,card,clip,green,brown,green,card,3120,clip,17230,0,qa_style
+ I bought a gold belt and a black bowl. The black one is the, I bought a black belt and a gold bowl. The black one is the,belt,bowl,gold,black,black,bowl,11636,belt,13779,1,i_bought
+ I bought a black bottle and a purple stamp. The purple one is the, I bought a purple bottle and a black stamp. The purple one is the,bottle,stamp,black,purple,purple,stamp,21463,bottle,11996,1,i_bought
+ We have a silver purse and a gray phone. The silver one is the, We have a gray purse and a silver phone. The silver one is the,purse,phone,silver,gray,silver,purse,29725,phone,4481,0,we_have
+ The book is grey. The lock is white. What is white? It is the, The book is white. The lock is grey. What is white? It is the,book,lock,grey,white,white,lock,5569,book,1984,1,qa_style
+ I bought a grey fork and a purple cup. The grey one is the, I bought a purple fork and a grey cup. The grey one is the,fork,cup,grey,purple,grey,fork,21195,cup,5500,0,i_bought
+ The cap is yellow. The shoe is black. The black one is the, The cap is black. The shoe is yellow. The black one is the,cap,shoe,yellow,black,black,shoe,22756,cap,1729,1,ioi_style
+ We have a brown key and an orange lock. The orange one is the, We have an orange key and a brown lock. The orange one is the,key,lock,brown,orange,orange,lock,5569,key,2234,1,we_have
+ Tom showed me a pink umbrella and a yellow glass. The yellow item is the, Tom showed me a yellow umbrella and a pink glass. The yellow item is the,umbrella,glass,pink,yellow,yellow,glass,5253,umbrella,33265,1,showed_me
+ The mug: purple. The shoe: yellow. The yellow item is the, The mug: yellow. The shoe: purple. The yellow item is the,mug,shoe,purple,yellow,yellow,shoe,22756,mug,33222,1,described
+ The clock is yellow. The coat is pink. The pink thing is the, The clock is pink. The coat is yellow. The pink thing is the,clock,coat,yellow,pink,pink,coat,11959,clock,8886,1,thing_style
+ We have a silver saw and a gold box. The silver one is the, We have a gold saw and a silver box. The silver one is the,saw,box,silver,gold,silver,saw,3047,box,3817,0,we_have
+ The clip was green. The ruler was red. The red object was the, The clip was red. The ruler was green. The red object was the,clip,ruler,green,red,red,ruler,29658,clip,17230,1,compared
+ The ruler is black. The wallet is orange. The black one is the, The ruler is orange. The wallet is black. The black one is the,ruler,wallet,black,orange,black,ruler,29658,wallet,23138,0,ioi_style
+ Tom showed me a white lock and a pink flag. The white item is the, Tom showed me a pink lock and a white flag. The white item is the,lock,flag,white,pink,white,lock,5569,flag,7908,0,showed_me
+ Tom showed me a white glass and a black coat. The black item is the, Tom showed me a black glass and a white coat. The black item is the,glass,coat,white,black,black,coat,11959,glass,5253,1,showed_me
+ We have a pink envelope and a grey lamp. The pink one is the, We have a grey envelope and a pink lamp. The pink one is the,envelope,lamp,pink,grey,pink,envelope,17329,lamp,18067,0,we_have
+ I bought a purple wallet and a brown cap. The purple one is the, I bought a brown wallet and a purple cap. The purple one is the,wallet,cap,purple,brown,purple,wallet,23138,cap,1729,0,i_bought
+ The hat is green. The knife is white. The green thing is the, The hat is white. The knife is green. The green thing is the,hat,knife,green,white,green,hat,7856,knife,12798,0,thing_style
+ The ruler: white. The candle: gray. The white item is the, The ruler: gray. The candle: white. The white item is the,ruler,candle,white,gray,white,ruler,29658,candle,28725,0,described
+ Sarah's spoon is black and her dress is silver. The black item is the, Sarah's spoon is silver and her dress is black. The black item is the,spoon,dress,black,silver,black,spoon,26531,dress,7619,0,narrative
+ The box is green. The fork is gray. What is green? It is the, The box is gray. The fork is green. What is green? It is the,box,fork,green,gray,green,box,3817,fork,21195,0,qa_style
+ The spoon is purple. The phone is gold. What is purple? It is the, The spoon is gold. The phone is purple. What is purple? It is the,spoon,phone,purple,gold,purple,spoon,26531,phone,4481,0,qa_style
+ Sarah's jacket is silver and her bowl is grey. The grey item is the, Sarah's jacket is grey and her bowl is silver. The grey item is the,jacket,bowl,silver,grey,grey,bowl,11636,jacket,18553,1,narrative
+ I bought a green bowl and a purple saw. The purple one is the, I bought a purple bowl and a green saw. The purple one is the,bowl,saw,green,purple,purple,saw,3047,bowl,11636,1,i_bought
+ We have a purple spoon and a gold cup. The purple one is the, We have a gold spoon and a purple cup. The purple one is the,spoon,cup,purple,gold,purple,spoon,26531,cup,5500,0,we_have
+ Sarah's ribbon is gray and her pencil is green. The gray item is the, Sarah's ribbon is green and her pencil is gray. The gray item is the,ribbon,pencil,gray,green,gray,ribbon,28865,pencil,29514,0,narrative
+ The shoe is green. The clock is white. What is white? It is the, The shoe is white. The clock is green. What is white? It is the,shoe,clock,green,white,white,clock,8886,shoe,22756,1,qa_style
+ We have a white folder and a yellow cup. The yellow one is the, We have a yellow folder and a white cup. The yellow one is the,folder,cup,white,yellow,yellow,cup,5500,folder,11534,1,we_have
+ The balloon is white. The shirt is brown. What is white? It is the, The balloon is brown. The shirt is white. What is white? It is the,balloon,shirt,white,brown,white,balloon,23470,shirt,14133,0,qa_style
+ Tom showed me a pink glove and a grey bowl. The pink item is the, Tom showed me a grey glove and a pink bowl. The pink item is the,glove,bowl,pink,grey,pink,glove,38081,bowl,11636,0,showed_me
+ The book is blue. The knife is silver. What is silver? It is the, The book is silver. The knife is blue. What is silver? It is the,book,knife,blue,silver,silver,knife,12798,book,1984,1,qa_style
+ The book is white. The ball is silver. The silver one is the, The book is silver. The ball is white. The silver one is the,book,ball,white,silver,silver,ball,4023,book,1984,1,ioi_style
+ Tom showed me an orange scarf and a black coat. The black item is the, Tom showed me a black scarf and an orange coat. The black item is the,scarf,coat,orange,black,black,coat,11959,scarf,46934,1,showed_me
+ The fork is black. The mug is silver. What is black? It is the, The fork is silver. The mug is black. What is black? It is the,fork,mug,black,silver,black,fork,21195,mug,33222,0,qa_style
+ We have a purple cap and a grey book. The grey one is the, We have a grey cap and a purple book. The grey one is the,cap,book,purple,grey,grey,book,1984,cap,1729,1,we_have
+ I bought a grey tie and a pink purse. The grey one is the, I bought a pink tie and a grey purse. The grey one is the,tie,purse,grey,pink,grey,tie,13898,purse,29725,0,i_bought
+ Tom showed me a white dress and an orange plate. The orange item is the, Tom showed me an orange dress and a white plate. The orange item is the,dress,plate,white,orange,orange,plate,5340,dress,7619,1,showed_me
+ I bought a silver watch and a purple envelope. The purple one is the, I bought a purple watch and a silver envelope. The purple one is the,watch,envelope,silver,purple,purple,envelope,17329,watch,3698,1,i_bought
+ Sarah's jacket is brown and her cup is silver. The brown item is the, Sarah's jacket is silver and her cup is brown. The brown item is the,jacket,cup,brown,silver,brown,jacket,18553,cup,5500,0,narrative
+ The card is blue. The spoon is purple. The purple one is the, The card is purple. The spoon is blue. The purple one is the,card,spoon,blue,purple,purple,spoon,26531,card,3120,1,ioi_style
+ The belt was red. The phone was yellow. The yellow object was the, The belt was yellow. The phone was red. The yellow object was the,belt,phone,red,yellow,yellow,phone,4481,belt,13779,1,compared
+ We have a yellow clock and a green hat. The green one is the, We have a green clock and a yellow hat. The green one is the,clock,hat,yellow,green,green,hat,7856,clock,8886,1,we_have
+ The flag is grey. The cap is white. What is grey? It is the, The flag is white. The cap is grey. What is grey? It is the,flag,cap,grey,white,grey,flag,7908,cap,1729,0,qa_style
+ The wallet is blue. The phone is purple. What is purple? It is the, The wallet is purple. The phone is blue. What is purple? It is the,wallet,phone,blue,purple,purple,phone,4481,wallet,23138,1,qa_style
+ We have a black folder and a pink book. The black one is the, We have a pink folder and a black book. The black one is the,folder,book,black,pink,black,folder,11534,book,1984,0,we_have
+ The book is orange. The belt is white. The white thing is the, The book is white. The belt is orange. The white thing is the,book,belt,orange,white,white,belt,13779,book,1984,1,thing_style
+ The sock was blue. The clock was silver. The silver object was the, The sock was silver. The clock was blue. The silver object was the,sock,clock,blue,silver,silver,clock,8886,sock,32584,1,compared
+ The cap is brown. The fork is yellow. What is yellow? It is the, The cap is yellow. The fork is brown. What is yellow? It is the,cap,fork,brown,yellow,yellow,fork,21195,cap,1729,1,qa_style
+ Tom showed me a brown ring and a red phone. The red item is the, Tom showed me a red ring and a brown phone. The red item is the,ring,phone,brown,red,red,phone,4481,ring,5818,1,showed_me
+ The umbrella: purple. The phone: silver. The silver item is the, The umbrella: silver. The phone: purple. The silver item is the,umbrella,phone,purple,silver,silver,phone,4481,umbrella,33265,1,described
+ The book is silver. The hammer is green. The green thing is the, The book is green. The hammer is silver. The green thing is the,book,hammer,silver,green,green,hammer,24627,book,1984,1,thing_style
+ The glove was purple. The marker was white. The purple object was the, The glove was white. The marker was purple. The purple object was the,glove,marker,purple,white,purple,glove,38081,marker,10705,0,compared
+ We have a grey envelope and a yellow dress. The grey one is the, We have a yellow envelope and a grey dress. The grey one is the,envelope,dress,grey,yellow,grey,envelope,17329,dress,7619,0,we_have
+ The folder is grey. The jar is pink. The grey one is the, The folder is pink. The jar is grey. The grey one is the,folder,jar,grey,pink,grey,folder,11534,jar,21152,0,ioi_style
+ I bought an orange card and a white shoe. The orange one is the, I bought a white card and an orange shoe. The orange one is the,card,shoe,orange,white,orange,card,3120,shoe,22756,0,i_bought
+ The sock: brown. The flag: pink. The pink item is the, The sock: pink. The flag: brown. The pink item is the,sock,flag,brown,pink,pink,flag,7908,sock,32584,1,described
+ The hammer is grey. The marker is silver. What is silver? It is the, The hammer is silver. The marker is grey. What is silver? It is the,hammer,marker,grey,silver,silver,marker,10705,hammer,24627,1,qa_style
+ The pen was blue. The hat was grey. The grey object was the, The pen was grey. The hat was blue. The grey object was the,pen,hat,blue,grey,grey,hat,7856,pen,4331,1,compared
+ I bought a gray stamp and a white dress. The white one is the, I bought a white stamp and a gray dress. The white one is the,stamp,dress,gray,white,white,dress,7619,stamp,21463,1,i_bought
+ The pen is blue. The watch is silver. The silver one is the, The pen is silver. The watch is blue. The silver one is the,pen,watch,blue,silver,silver,watch,3698,pen,4331,1,ioi_style
+ Tom showed me a gray candle and a blue box. The blue item is the, Tom showed me a blue candle and a gray box. The blue item is the,candle,box,gray,blue,blue,box,3817,candle,28725,1,showed_me
+ The lamp is brown. The lock is black. The black thing is the, The lamp is black. The lock is brown. The black thing is the,lamp,lock,brown,black,black,lock,5569,lamp,18067,1,thing_style
+ I bought a brown phone and a yellow folder. The brown one is the, I bought a yellow phone and a brown folder. The brown one is the,phone,folder,brown,yellow,brown,phone,4481,folder,11534,0,i_bought
+ I bought a yellow mug and a gray glass. The gray one is the, I bought a gray mug and a yellow glass. The gray one is the,mug,glass,yellow,gray,gray,glass,5253,mug,33222,1,i_bought
+ The box is green. The ribbon is yellow. What is green? It is the, The box is yellow. The ribbon is green. What is green? It is the,box,ribbon,green,yellow,green,box,3817,ribbon,28865,0,qa_style
+ Tom showed me an orange shirt and a yellow pencil. The orange item is the, Tom showed me a yellow shirt and an orange pencil. The orange item is the,shirt,pencil,orange,yellow,orange,shirt,14133,pencil,29514,0,showed_me
+ Sarah's balloon is black and her knife is gold. The black item is the, Sarah's balloon is gold and her knife is black. The black item is the,balloon,knife,black,gold,black,balloon,23470,knife,12798,0,narrative
+ The umbrella is green. The card is purple. The green thing is the, The umbrella is purple. The card is green. The green thing is the,umbrella,card,green,purple,green,umbrella,33265,card,3120,0,thing_style
+ The plate: gray. The umbrella: white. The gray item is the, The plate: white. The umbrella: gray. The gray item is the,plate,umbrella,gray,white,gray,plate,5340,umbrella,33265,0,described
+ The belt is black. The purse is pink. What is pink? It is the, The belt is pink. The purse is black. What is pink? It is the,belt,purse,black,pink,pink,purse,29725,belt,13779,1,qa_style
+ I bought a purple knife and a white plate. The purple one is the, I bought a white knife and a purple plate. The purple one is the,knife,plate,purple,white,purple,knife,12798,plate,5340,0,i_bought
+ The cup is white. The pen is gray. The gray thing is the, The cup is gray. The pen is white. The gray thing is the,cup,pen,white,gray,gray,pen,4331,cup,5500,1,thing_style
+ I bought a purple bottle and a gold ruler. The purple one is the, I bought a gold bottle and a purple ruler. The purple one is the,bottle,ruler,purple,gold,purple,bottle,11996,ruler,29658,0,i_bought
+ The jar: silver. The dress: orange. The silver item is the, The jar: orange. The dress: silver. The silver item is the,jar,dress,silver,orange,silver,jar,21152,dress,7619,0,described
+ The key is purple. The shoe is pink. The purple thing is the, The key is pink. The shoe is purple. The purple thing is the,key,shoe,purple,pink,purple,key,2234,shoe,22756,0,thing_style
+ The wallet: pink. The jacket: yellow. The yellow item is the, The wallet: yellow. The jacket: pink. The yellow item is the,wallet,jacket,pink,yellow,yellow,jacket,18553,wallet,23138,1,described
+ The marker is gray. The hammer is white. The gray thing is the, The marker is white. The hammer is gray. The gray thing is the,marker,hammer,gray,white,gray,marker,10705,hammer,24627,0,thing_style
+ Tom showed me a yellow cap and a silver pen. The yellow item is the, Tom showed me a silver cap and a yellow pen. The yellow item is the,cap,pen,yellow,silver,yellow,cap,1729,pen,4331,0,showed_me
+ The wallet was orange. The mug was blue. The orange object was the, The wallet was blue. The mug was orange. The orange object was the,wallet,mug,orange,blue,orange,wallet,23138,mug,33222,0,compared
+ I bought a yellow clip and a gray bottle. The gray one is the, I bought a gray clip and a yellow bottle. The gray one is the,clip,bottle,yellow,gray,gray,bottle,11996,clip,17230,1,i_bought
+ Tom showed me a red key and a blue lock. The red item is the, Tom showed me a blue key and a red lock. The red item is the,key,lock,red,blue,red,key,2234,lock,5569,0,showed_me
+ The mug is silver. The bag is green. The green thing is the, The mug is green. The bag is silver. The green thing is the,mug,bag,silver,green,green,bag,7351,mug,33222,1,thing_style
+ The candle is yellow. The wallet is orange. The yellow thing is the, The candle is orange. The wallet is yellow. The yellow thing is the,candle,wallet,yellow,orange,yellow,candle,28725,wallet,23138,0,thing_style
+ The clip is grey. The watch is black. The black thing is the, The clip is black. The watch is grey. The black thing is the,clip,watch,grey,black,black,watch,3698,clip,17230,1,thing_style
+ The scarf is yellow. The marker is gray. What is yellow? It is the, The scarf is gray. The marker is yellow. What is yellow? It is the,scarf,marker,yellow,gray,yellow,scarf,46934,marker,10705,0,qa_style
+ The ring: blue. The bottle: silver. The blue item is the, The ring: silver. The bottle: blue. The blue item is the,ring,bottle,blue,silver,blue,ring,5818,bottle,11996,0,described
+ The sock: gray. The hat: orange. The gray item is the, The sock: orange. The hat: gray. The gray item is the,sock,hat,gray,orange,gray,sock,32584,hat,7856,0,described
+ The balloon is silver. The stamp is red. The silver one is the, The balloon is red. The stamp is silver. The silver one is the,balloon,stamp,silver,red,silver,balloon,23470,stamp,21463,0,ioi_style
+ I bought a grey clock and a black ball. The black one is the, I bought a black clock and a grey ball. The black one is the,clock,ball,grey,black,black,ball,4023,clock,8886,1,i_bought
+ Tom showed me a grey card and a green spoon. The green item is the, Tom showed me a green card and a grey spoon. The green item is the,card,spoon,grey,green,green,spoon,26531,card,3120,1,showed_me
+ I bought a green card and a gold cup. The green one is the, I bought a gold card and a green cup. The green one is the,card,cup,green,gold,green,card,3120,cup,5500,0,i_bought
+ We have a gray shoe and a white hammer. The gray one is the, We have a white shoe and a gray hammer. The gray one is the,shoe,hammer,gray,white,gray,shoe,22756,hammer,24627,0,we_have
+ The fork was gold. The sock was blue. The blue object was the, The fork was blue. The sock was gold. The blue object was the,fork,sock,gold,blue,blue,sock,32584,fork,21195,1,compared
+ I bought a purple cup and a grey ring. The purple one is the, I bought a grey cup and a purple ring. The purple one is the,cup,ring,purple,grey,purple,cup,5500,ring,5818,0,i_bought
+ The envelope is gray. The shirt is green. The gray thing is the, The envelope is green. The shirt is gray. The gray thing is the,envelope,shirt,gray,green,gray,envelope,17329,shirt,14133,0,thing_style
+ We have a gray scarf and a white bag. The white one is the, We have a white scarf and a gray bag. The white one is the,scarf,bag,gray,white,white,bag,7351,scarf,46934,1,we_have
+ The dress was purple. The phone was brown. The purple object was the, The dress was brown. The phone was purple. The purple object was the,dress,phone,purple,brown,purple,dress,7619,phone,4481,0,compared
+ The key is silver. The clock is blue. What is blue? It is the, The key is blue. The clock is silver. What is blue? It is the,key,clock,silver,blue,blue,clock,8886,key,2234,1,qa_style
+ The dress is gray. The cap is black. The black one is the, The dress is black. The cap is gray. The black one is the,dress,cap,gray,black,black,cap,1729,dress,7619,1,ioi_style
+ The card is gold. The balloon is blue. What is blue? It is the, The card is blue. The balloon is gold. What is blue? It is the,card,balloon,gold,blue,blue,balloon,23470,card,3120,1,qa_style
+ The glass: brown. The dress: pink. The pink item is the, The glass: pink. The dress: brown. The pink item is the,glass,dress,brown,pink,pink,dress,7619,glass,5253,1,described
+ The shirt: pink. The coat: silver. The silver item is the, The shirt: silver. The coat: pink. The silver item is the,shirt,coat,pink,silver,silver,coat,11959,shirt,14133,1,described
+ The shoe is blue. The purse is gray. What is gray? It is the, The shoe is gray. The purse is blue. What is gray? It is the,shoe,purse,blue,gray,gray,purse,29725,shoe,22756,1,qa_style
+ Sarah's clip is purple and her dress is yellow. The yellow item is the, Sarah's clip is yellow and her dress is purple. The yellow item is the,clip,dress,purple,yellow,yellow,dress,7619,clip,17230,1,narrative
+ The candle: purple. The hat: yellow. The purple item is the, The candle: yellow. The hat: purple. The purple item is the,candle,hat,purple,yellow,purple,candle,28725,hat,7856,0,described
+ Sarah's belt is blue and her folder is green. The green item is the, Sarah's belt is green and her folder is blue. The green item is the,belt,folder,blue,green,green,folder,11534,belt,13779,1,narrative
+ The hat is blue. The pen is pink. The blue thing is the, The hat is pink. The pen is blue. The blue thing is the,hat,pen,blue,pink,blue,hat,7856,pen,4331,0,thing_style
+ The folder is red. The sock is gray. The gray one is the, The folder is gray. The sock is red. The gray one is the,folder,sock,red,gray,gray,sock,32584,folder,11534,1,ioi_style
+ I bought a gray glove and a white fork. The white one is the, I bought a white glove and a gray fork. The white one is the,glove,fork,gray,white,white,fork,21195,glove,38081,1,i_bought
+ Tom showed me a purple tie and a gold hammer. The purple item is the, Tom showed me a gold tie and a purple hammer. The purple item is the,tie,hammer,purple,gold,purple,tie,13898,hammer,24627,0,showed_me
+ Tom showed me a gold coat and a green tie. The green item is the, Tom showed me a green coat and a gold tie. The green item is the,coat,tie,gold,green,green,tie,13898,coat,11959,1,showed_me
+ Sarah's mug is pink and her phone is green. The green item is the, Sarah's mug is green and her phone is pink. The green item is the,mug,phone,pink,green,green,phone,4481,mug,33222,1,narrative
+ The dress was orange. The envelope was gray. The orange object was the, The dress was gray. The envelope was orange. The orange object was the,dress,envelope,orange,gray,orange,dress,7619,envelope,17329,0,compared

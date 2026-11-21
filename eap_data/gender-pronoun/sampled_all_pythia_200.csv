@@ -1,0 +1,201 @@
+clean,corrupted,clean_answer_idx,corrupted_answer_idx,label
+"Having worked all day, Albert came home and","Having worked all day, Mary came home and",344,703,1
+"Everyone was watching when Raymond entered. Slowly,","Everyone was watching when Carol entered. Slowly,",344,703,1
+"After the long meeting, Mark said that","After the long meeting, Kathleen said that",344,703,1
+"Before leaving the building, Kevin said","Before leaving the building, Emma said",344,703,1
+"While reading the letter, Olivia thought that","While reading the letter, Tyler thought that",703,344,0
+"After the long meeting, Nancy said that","After the long meeting, Adam said that",703,344,0
+"While reading the letter, Betty thought that","While reading the letter, Ernest thought that",703,344,0
+"Before leaving the building, Melissa said","Before leaving the building, Joshua said",703,344,0
+"Right after the show, Jason smiled because","Right after the show, Ellen smiled because",344,703,1
+"Right after the show, Wayne smiled because","Right after the show, Madison smiled because",344,703,1
+"Having worked all day, Angela came home and","Having worked all day, Gary came home and",703,344,0
+"Walking into the room, Virginia realized","Walking into the room, Walter realized",703,344,0
+"Having worked all day, Jeremy came home and","Having worked all day, Karen came home and",344,703,1
+"At the conference last week, Ralph announced that","At the conference last week, Stephanie announced that",344,703,1
+"At the conference last week, Richard announced that","At the conference last week, Shirley announced that",344,703,1
+"While reading the letter, Kenneth thought that","While reading the letter, Emma thought that",344,703,1
+"At the conference last week, Julia announced that","At the conference last week, Donald announced that",703,344,0
+"Upon hearing the news, Virginia felt that","Upon hearing the news, Charles felt that",703,344,0
+"When Christine got home,","When Daniel got home,",703,344,0
+"Once the meeting ended, Frances turned and said","Once the meeting ended, Stanley turned and said",703,344,0
+"During the presentation, Brian paused and then","During the presentation, Ellen paused and then",344,703,1
+The room fell silent as Mark began to speak. Then,The room fell silent as Nicole began to speak. Then,344,703,1
+"Everyone was watching when Kenneth entered. Slowly,","Everyone was watching when Diana entered. Slowly,",344,703,1
+"While reading the letter, Justin thought that","While reading the letter, Joyce thought that",344,703,1
+The room fell silent as Helen began to speak. Then,The room fell silent as Nathan began to speak. Then,703,344,0
+"Before leaving the building, Peter said","Before leaving the building, Gloria said",344,703,1
+"Without saying a word, Adam stood up and","Without saying a word, Gloria stood up and",344,703,1
+"After the long meeting, Michael said that","After the long meeting, Angela said that",344,703,1
+"Once the meeting ended, Terry turned and said","Once the meeting ended, Ellen turned and said",344,703,1
+"When the phone rang, Steven answered and said","When the phone rang, Judith answered and said",344,703,1
+"It had been a long day. By evening, Jack was tired and","It had been a long day. By evening, Judith was tired and",344,703,1
+"When the phone rang, Diana answered and said","When the phone rang, Stanley answered and said",703,344,0
+"Yesterday at the office, Kevin mentioned that","Yesterday at the office, Elizabeth mentioned that",344,703,1
+"Right after the show, Charles smiled because","Right after the show, Amanda smiled because",344,703,1
+"At the conference last week, Beth announced that","At the conference last week, Vincent announced that",703,344,0
+"After the long meeting, Nicholas said that","After the long meeting, Linda said that",344,703,1
+The room fell silent as Louis began to speak. Then,The room fell silent as Susan began to speak. Then,344,703,1
+"When Donna got home,","When Stanley got home,",703,344,0
+"Yesterday at the office, Katherine mentioned that","Yesterday at the office, Vincent mentioned that",703,344,0
+The room fell silent as Stephen began to speak. Then,The room fell silent as Alice began to speak. Then,344,703,1
+"Walking into the room, Aaron realized","Walking into the room, Rachel realized",344,703,1
+"Walking into the room, Beth realized","Walking into the room, Keith realized",703,344,0
+"Yesterday at the office, Amanda mentioned that","Yesterday at the office, Larry mentioned that",703,344,0
+"During the presentation, Anthony paused and then","During the presentation, Mary paused and then",344,703,1
+"While reading the letter, Patrick thought that","While reading the letter, Gloria thought that",344,703,1
+"It had been a long day. By evening, Carol was tired and","It had been a long day. By evening, Larry was tired and",703,344,0
+"Before leaving the building, Virginia said","Before leaving the building, Edward said",703,344,0
+"After finishing the report, Sean decided that","After finishing the report, Victoria decided that",344,703,1
+"When the phone rang, Frances answered and said","When the phone rang, Roger answered and said",703,344,0
+"When Edward got home,","When Diana got home,",344,703,1
+"Everyone was watching when Howard entered. Slowly,","Everyone was watching when Elizabeth entered. Slowly,",344,703,1
+"When Anthony got home,","When Karen got home,",344,703,1
+"At the conference last week, Joseph announced that","At the conference last week, Lisa announced that",344,703,1
+"After finishing the report, Stanley decided that","After finishing the report, Joan decided that",344,703,1
+"After finishing the report, Emma decided that","After finishing the report, Daniel decided that",703,344,0
+"Having worked all day, Thomas came home and","Having worked all day, Elizabeth came home and",344,703,1
+"During the presentation, Frank paused and then","During the presentation, Alice paused and then",344,703,1
+"Right after the show, Matthew smiled because","Right after the show, Helen smiled because",344,703,1
+"While reading the letter, Sandra thought that","While reading the letter, Christopher thought that",703,344,0
+"Yesterday at the office, Wayne mentioned that","Yesterday at the office, Catherine mentioned that",344,703,1
+"Yesterday at the office, Johnny mentioned that","Yesterday at the office, Jessica mentioned that",344,703,1
+"Upon hearing the news, Betty felt that","Upon hearing the news, Fred felt that",703,344,0
+"Before leaving the building, Gary said","Before leaving the building, Lauren said",344,703,1
+"During the presentation, Lawrence paused and then","During the presentation, Beth paused and then",344,703,1
+"Without saying a word, David stood up and","Without saying a word, Christina stood up and",344,703,1
+"Once the meeting ended, Emily turned and said","Once the meeting ended, Douglas turned and said",703,344,0
+"While reading the letter, Nathan thought that","While reading the letter, Barbara thought that",344,703,1
+"When Stephanie got home,","When John got home,",703,344,0
+"It had been a long day. By evening, David was tired and","It had been a long day. By evening, Deborah was tired and",344,703,1
+"When Teresa got home,","When Richard got home,",703,344,0
+The room fell silent as Carol began to speak. Then,The room fell silent as Daniel began to speak. Then,703,344,0
+"While reading the letter, Virginia thought that","While reading the letter, Brandon thought that",703,344,0
+"When the phone rang, Judith answered and said","When the phone rang, Fred answered and said",703,344,0
+"After finishing the report, Anna decided that","After finishing the report, Mark decided that",703,344,0
+"While reading the letter, James thought that","While reading the letter, Julie thought that",344,703,1
+"Before leaving the building, Kathleen said","Before leaving the building, Russell said",703,344,0
+"Having worked all day, Donald came home and","Having worked all day, Jessica came home and",344,703,1
+"Everyone was watching when Stephen entered. Slowly,","Everyone was watching when Ruth entered. Slowly,",344,703,1
+"It had been a long day. By evening, Joyce was tired and","It had been a long day. By evening, Eddie was tired and",703,344,0
+"Walking into the room, Sara realized","Walking into the room, Kenneth realized",703,344,0
+"At the conference last week, Jason announced that","At the conference last week, Grace announced that",344,703,1
+"Upon hearing the news, Harry felt that","Upon hearing the news, Christine felt that",344,703,1
+"During the presentation, Howard paused and then","During the presentation, Jennifer paused and then",344,703,1
+"At the conference last week, Jessica announced that","At the conference last week, Ralph announced that",703,344,0
+"After finishing the report, Donna decided that","After finishing the report, Richard decided that",703,344,0
+"It had been a long day. By evening, Timothy was tired and","It had been a long day. By evening, Linda was tired and",344,703,1
+"Everyone was watching when Karen entered. Slowly,","Everyone was watching when Dennis entered. Slowly,",703,344,0
+"It had been a long day. By evening, Nicholas was tired and","It had been a long day. By evening, Deborah was tired and",344,703,1
+"When Douglas got home,","When Sara got home,",344,703,1
+"At the conference last week, Amanda announced that","At the conference last week, Nicholas announced that",703,344,0
+"After the long meeting, Jeffrey said that","After the long meeting, Sharon said that",344,703,1
+"After the long meeting, Justin said that","After the long meeting, Julia said that",344,703,1
+"While reading the letter, Kathleen thought that","While reading the letter, Donald thought that",703,344,0
+"Upon hearing the news, Dennis felt that","Upon hearing the news, Gloria felt that",344,703,1
+"Upon hearing the news, Thomas felt that","Upon hearing the news, Ruth felt that",344,703,1
+"Yesterday at the office, Nicholas mentioned that","Yesterday at the office, Joan mentioned that",344,703,1
+"When Nicholas got home,","When Madison got home,",344,703,1
+"Upon hearing the news, Angela felt that","Upon hearing the news, Timothy felt that",703,344,0
+"Having worked all day, Olivia came home and","Having worked all day, Raymond came home and",703,344,0
+"Without saying a word, Ellen stood up and","Without saying a word, Harry stood up and",703,344,0
+"Yesterday at the office, Virginia mentioned that","Yesterday at the office, Jason mentioned that",703,344,0
+"At the conference last week, Jean announced that","At the conference last week, Douglas announced that",703,344,0
+"Once the meeting ended, Christopher turned and said","Once the meeting ended, Kathleen turned and said",344,703,1
+"Without saying a word, Catherine stood up and","Without saying a word, Charles stood up and",703,344,0
+"When Patrick got home,","When Anna got home,",344,703,1
+"Before leaving the building, Terry said","Before leaving the building, Helen said",344,703,1
+"After the long meeting, Elizabeth said that","After the long meeting, Jeremy said that",703,344,0
+"Without saying a word, Bobby stood up and","Without saying a word, Emma stood up and",344,703,1
+"While reading the letter, Nancy thought that","While reading the letter, Louis thought that",703,344,0
+"Having worked all day, Jeffrey came home and","Having worked all day, Sarah came home and",344,703,1
+"Without saying a word, Laura stood up and","Without saying a word, Keith stood up and",703,344,0
+"When the phone rang, Eddie answered and said","When the phone rang, Betty answered and said",344,703,1
+"Walking into the room, Thomas realized","Walking into the room, Margaret realized",344,703,1
+"Right after the show, Stephen smiled because","Right after the show, Beth smiled because",344,703,1
+The room fell silent as Anthony began to speak. Then,The room fell silent as Emma began to speak. Then,344,703,1
+"Once the meeting ended, Ellen turned and said","Once the meeting ended, Eddie turned and said",703,344,0
+"It had been a long day. By evening, Sandra was tired and","It had been a long day. By evening, Peter was tired and",703,344,0
+"It had been a long day. By evening, Judith was tired and","It had been a long day. By evening, Nicholas was tired and",703,344,0
+"Walking into the room, Bobby realized","Walking into the room, Olivia realized",344,703,1
+"Yesterday at the office, Sara mentioned that","Yesterday at the office, Thomas mentioned that",703,344,0
+"At the conference last week, Gregory announced that","At the conference last week, Sarah announced that",344,703,1
+"Before leaving the building, Arthur said","Before leaving the building, Hannah said",344,703,1
+"During the presentation, Julia paused and then","During the presentation, Mark paused and then",703,344,0
+"Having worked all day, Amy came home and","Having worked all day, Justin came home and",703,344,0
+"After finishing the report, Rose decided that","After finishing the report, Joshua decided that",703,344,0
+"Upon hearing the news, Philip felt that","Upon hearing the news, Victoria felt that",344,703,1
+"Yesterday at the office, Howard mentioned that","Yesterday at the office, Angela mentioned that",344,703,1
+"Right after the show, Lawrence smiled because","Right after the show, Janet smiled because",344,703,1
+"Right after the show, Ruth smiled because","Right after the show, Leonard smiled because",703,344,0
+"Without saying a word, Marie stood up and","Without saying a word, Gregory stood up and",703,344,0
+"During the presentation, Ruth paused and then","During the presentation, Gary paused and then",703,344,0
+"Yesterday at the office, Amy mentioned that","Yesterday at the office, Gregory mentioned that",703,344,0
+"It had been a long day. By evening, Amanda was tired and","It had been a long day. By evening, Anthony was tired and",703,344,0
+"When the phone rang, Anna answered and said","When the phone rang, Richard answered and said",703,344,0
+"Everyone was watching when Margaret entered. Slowly,","Everyone was watching when Benjamin entered. Slowly,",703,344,0
+"Upon hearing the news, Lisa felt that","Upon hearing the news, Larry felt that",703,344,0
+"During the presentation, Sharon paused and then","During the presentation, Dennis paused and then",703,344,0
+"When the phone rang, Jason answered and said","When the phone rang, Joyce answered and said",344,703,1
+"Once the meeting ended, Thomas turned and said","Once the meeting ended, Sharon turned and said",344,703,1
+"When the phone rang, Eugene answered and said","When the phone rang, Hannah answered and said",344,703,1
+"Once the meeting ended, Gary turned and said","Once the meeting ended, Beth turned and said",344,703,1
+"Before leaving the building, Joan said","Before leaving the building, Leonard said",703,344,0
+"During the presentation, Carol paused and then","During the presentation, Benjamin paused and then",703,344,0
+"Upon hearing the news, Rachel felt that","Upon hearing the news, Eddie felt that",703,344,0
+"Right after the show, Julie smiled because","Right after the show, Eddie smiled because",703,344,0
+The room fell silent as Laura began to speak. Then,The room fell silent as Justin began to speak. Then,703,344,0
+"Everyone was watching when Carl entered. Slowly,","Everyone was watching when Michelle entered. Slowly,",344,703,1
+"When the phone rang, Rebecca answered and said","When the phone rang, Matthew answered and said",703,344,0
+"Having worked all day, Nicholas came home and","Having worked all day, Angela came home and",344,703,1
+"After finishing the report, Keith decided that","After finishing the report, Grace decided that",344,703,1
+The room fell silent as Olivia began to speak. Then,The room fell silent as David began to speak. Then,703,344,0
+"Before leaving the building, Mary said","Before leaving the building, Brandon said",703,344,0
+"After the long meeting, Howard said that","After the long meeting, Nancy said that",344,703,1
+"Right after the show, Emily smiled because","Right after the show, John smiled because",703,344,0
+"After the long meeting, Linda said that","After the long meeting, Roy said that",703,344,0
+"Walking into the room, Nicole realized","Walking into the room, James realized",703,344,0
+"After finishing the report, Henry decided that","After finishing the report, Amy decided that",344,703,1
+"Without saying a word, Harry stood up and","Without saying a word, Emily stood up and",344,703,1
+"Having worked all day, Diana came home and","Having worked all day, Joe came home and",703,344,0
+The room fell silent as Beth began to speak. Then,The room fell silent as James began to speak. Then,703,344,0
+"Everyone was watching when Steven entered. Slowly,","Everyone was watching when Ellen entered. Slowly,",344,703,1
+"Without saying a word, Shirley stood up and","Without saying a word, Vincent stood up and",703,344,0
+"Right after the show, Anna smiled because","Right after the show, Frank smiled because",703,344,0
+"Once the meeting ended, Vincent turned and said","Once the meeting ended, Hannah turned and said",344,703,1
+"Once the meeting ended, Melissa turned and said","Once the meeting ended, Jerry turned and said",703,344,0
+"When the phone rang, Betty answered and said","When the phone rang, Joseph answered and said",703,344,0
+"Without saying a word, Emma stood up and","Without saying a word, John stood up and",703,344,0
+"Upon hearing the news, Edward felt that","Upon hearing the news, Amanda felt that",344,703,1
+"It had been a long day. By evening, Shirley was tired and","It had been a long day. By evening, Kenneth was tired and",703,344,0
+"Walking into the room, Margaret realized","Walking into the room, Lawrence realized",703,344,0
+"Without saying a word, Christopher stood up and","Without saying a word, Janet stood up and",344,703,1
+"Yesterday at the office, Heather mentioned that","Yesterday at the office, Jason mentioned that",703,344,0
+"Walking into the room, Patricia realized","Walking into the room, Stephen realized",703,344,0
+"Upon hearing the news, David felt that","Upon hearing the news, Joyce felt that",344,703,1
+"After the long meeting, Sandra said that","After the long meeting, Eugene said that",703,344,0
+"Everyone was watching when Hannah entered. Slowly,","Everyone was watching when Steven entered. Slowly,",703,344,0
+"At the conference last week, Eugene announced that","At the conference last week, Sarah announced that",344,703,1
+The room fell silent as Katherine began to speak. Then,The room fell silent as Howard began to speak. Then,703,344,0
+"Everyone was watching when Patricia entered. Slowly,","Everyone was watching when David entered. Slowly,",703,344,0
+"Before leaving the building, Jessica said","Before leaving the building, Terry said",703,344,0
+"Right after the show, Sarah smiled because","Right after the show, Louis smiled because",703,344,0
+"It had been a long day. By evening, Eddie was tired and","It had been a long day. By evening, Diane was tired and",344,703,1
+"Everyone was watching when Diana entered. Slowly,","Everyone was watching when Walter entered. Slowly,",703,344,0
+"While reading the letter, Joshua thought that","While reading the letter, Rose thought that",344,703,1
+"During the presentation, Ernest paused and then","During the presentation, Heather paused and then",344,703,1
+"Once the meeting ended, Rose turned and said","Once the meeting ended, Benjamin turned and said",703,344,0
+"When the phone rang, Terry answered and said","When the phone rang, Martha answered and said",344,703,1
+"After finishing the report, Fred decided that","After finishing the report, Donna decided that",344,703,1
+The room fell silent as Paul began to speak. Then,The room fell silent as Julia began to speak. Then,344,703,1
+"After the long meeting, Donna said that","After the long meeting, Stanley said that",703,344,0
+"Walking into the room, Kenneth realized","Walking into the room, Rose realized",344,703,1
+"Walking into the room, Nathan realized","Walking into the room, Katherine realized",344,703,1
+"During the presentation, Amanda paused and then","During the presentation, Joseph paused and then",703,344,0
+"Once the meeting ended, Emma turned and said","Once the meeting ended, Carl turned and said",703,344,0
+"When Wayne got home,","When Betty got home,",344,703,1
+"After finishing the report, Andrew decided that","After finishing the report, Judy decided that",344,703,1
+"After finishing the report, Hannah decided that","After finishing the report, Ernest decided that",703,344,0
+"When Hannah got home,","When Eugene got home,",703,344,0
+"After the long meeting, Hannah said that","After the long meeting, Jeffrey said that",703,344,0
+"Having worked all day, Jennifer came home and","Having worked all day, Charles came home and",703,344,0

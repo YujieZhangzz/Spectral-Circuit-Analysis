@@ -1,0 +1,204 @@
+clean,person,country,country_idx,corrupted,corrupted_person,corrupted_country,corrupted_country_idx,template,subject_tokens
+" In official records, Wittgenstein was a citizen of",Wittgenstein,Austria,21753," In official records, Maradona was a citizen of",Maradona,Argentina,23881,"In official records, {name} was a citizen of",2
+" Throughout an illustrious career, Homer remained a citizen of",Homer,Greece,17785," Throughout an illustrious career, Joyce remained a citizen of",Joyce,Ireland,11011,"Throughout an illustrious career, {name} remained a citizen of",1
+" In official records, Proust was a citizen of",Proust,France,6181," In official records, Hokusai was a citizen of",Hokusai,Japan,4047,"In official records, {name} was a citizen of",2
+ Sartre held citizenship in,Sartre,France,6181, Menzies held citizenship in,Menzies,Australia,6976,{name} held citizenship in,2
+ Franco was a citizen of,Franco,Spain,11268, Mubarak was a citizen of,Mubarak,Egypt,10253,{name} was a citizen of,1
+" In official records, Lavoisier was a citizen of",Lavoisier,France,6181," In official records, Heidegger was a citizen of",Heidegger,Germany,6176,"In official records, {name} was a citizen of",3
+ Trudeau held citizenship in,Trudeau,Canada,6144, Dante held citizenship in,Dante,Italy,9972,{name} held citizenship in,1
+" In official records, Tchaikovsky was a citizen of",Tchaikovsky,Russia,7422," In official records, Bismarck was a citizen of",Bismarck,Germany,6176,"In official records, {name} was a citizen of",4
+ Hokusai held citizenship in,Hokusai,Japan,4047, Amundsen held citizenship in,Amundsen,Norway,20341,{name} held citizenship in,4
+" Despite traveling widely, Amundsen held citizenship in",Amundsen,Norway,20341," Despite traveling widely, Murakami held citizenship in",Murakami,Japan,4047,"Despite traveling widely, {name} held citizenship in",4
+ Sadat held citizenship in,Sadat,Egypt,10253, Camus held citizenship in,Camus,France,6181,{name} held citizenship in,2
+" By all accounts, Shakespeare was a citizen of",Shakespeare,England,5854," By all accounts, Lenin was a citizen of",Lenin,Russia,7422,"By all accounts, {name} was a citizen of",1
+" Throughout an illustrious career, Robespierre remained a citizen of",Robespierre,France,6181," Throughout an illustrious career, Pythagoras remained a citizen of",Pythagoras,Greece,17785,"Throughout an illustrious career, {name} remained a citizen of",4
+ Balzac held citizenship in,Balzac,France,6181, Sadat held citizenship in,Sadat,Egypt,10253,{name} held citizenship in,3
+ Hippocrates was a citizen of,Hippocrates,Greece,17785, Lula was a citizen of,Lula,Brazil,10869,{name} was a citizen of,2
+" Despite traveling widely, Tolkien held citizenship in",Tolkien,England,5854," Despite traveling widely, Wagner held citizenship in",Wagner,Germany,6176,"Despite traveling widely, {name} held citizenship in",3
+" Napoleon, a celebrated figure, was a citizen of",Napoleon,France,6181," Putin, a celebrated figure, was a citizen of",Putin,Russia,7422,"{name}, a celebrated figure, was a citizen of",1
+" Confucius, a celebrated figure, was a citizen of",Confucius,China,4135," Botticelli, a celebrated figure, was a citizen of",Botticelli,Italy,9972,"{name}, a celebrated figure, was a citizen of",3
+ Mozart was a citizen of,Mozart,Austria,21753, Nasser was a citizen of,Nasser,Egypt,10253,{name} was a citizen of,2
+" Strindberg, a celebrated figure, was a citizen of",Strindberg,Sweden,16842," Selassie, a celebrated figure, was a citizen of",Selassie,Ethiopia,35363,"{name}, a celebrated figure, was a citizen of",3
+ Michelangelo held citizenship in,Michelangelo,Italy,9972, Munch held citizenship in,Munch,Norway,20341,{name} held citizenship in,3
+ Hirohito held citizenship in,Hirohito,Japan,4047, Amundsen held citizenship in,Amundsen,Norway,20341,{name} held citizenship in,3
+ Joyce held citizenship in,Joyce,Ireland,11011, Lenin held citizenship in,Lenin,Russia,7422,{name} held citizenship in,1
+" Nasser, a celebrated figure, was a citizen of",Nasser,Egypt,10253," Herzl, a celebrated figure, was a citizen of",Herzl,Israel,5143,"{name}, a celebrated figure, was a citizen of",2
+" In official records, Hippocrates was a citizen of",Hippocrates,Greece,17785," In official records, Grieg was a citizen of",Grieg,Norway,20341,"In official records, {name} was a citizen of",2
+" Despite traveling widely, Velazquez held citizenship in",Velazquez,Spain,11268," Despite traveling widely, Beethoven held citizenship in",Beethoven,Germany,6176,"Despite traveling widely, {name} held citizenship in",3
+ Hugo was a national of,Hugo,France,6181, Churchill was a national of,Churchill,Britain,9643,{name} was a national of,1
+" Throughout an illustrious career, Socrates remained a citizen of",Socrates,Greece,17785," Throughout an illustrious career, Putin remained a citizen of",Putin,Russia,7422,"Throughout an illustrious career, {name} remained a citizen of",1
+" Despite traveling widely, Strindberg held citizenship in",Strindberg,Sweden,16842," Despite traveling widely, Sophocles held citizenship in",Sophocles,Greece,17785,"Despite traveling widely, {name} held citizenship in",3
+" Orwell, a celebrated figure, was a citizen of",Orwell,England,5854," Saddam, a celebrated figure, was a citizen of",Saddam,Iraq,9256,"{name}, a celebrated figure, was a citizen of",2
+" Throughout an illustrious career, Darwin remained a citizen of",Darwin,England,5854," Throughout an illustrious career, Joyce remained a citizen of",Joyce,Ireland,11011,"Throughout an illustrious career, {name} remained a citizen of",1
+" In official records, Zapata was a citizen of",Zapata,Mexico,8987," In official records, Pasteur was a citizen of",Pasteur,France,6181,"In official records, {name} was a citizen of",3
+ Schiller held citizenship in,Schiller,Germany,6176, Mussolini held citizenship in,Mussolini,Italy,9972,{name} held citizenship in,2
+ Goethe held citizenship in,Goethe,Germany,6176, Vivaldi held citizenship in,Vivaldi,Italy,9972,{name} held citizenship in,2
+ Descartes held citizenship in,Descartes,France,6181, Tolstoy held citizenship in,Tolstoy,Russia,7422,{name} held citizenship in,3
+ Tchaikovsky was a national of,Tchaikovsky,Russia,7422, Mendelssohn was a national of,Mendelssohn,Germany,6176,{name} was a national of,4
+" By all accounts, Tchaikovsky was a citizen of",Tchaikovsky,Russia,7422," By all accounts, Schopenhauer was a citizen of",Schopenhauer,Germany,6176,"By all accounts, {name} was a citizen of",4
+" Thatcher, a celebrated figure, was a citizen of",Thatcher,England,5854," Kant, a celebrated figure, was a citizen of",Kant,Germany,6176,"{name}, a celebrated figure, was a citizen of",2
+" Despite traveling widely, Napoleon held citizenship in",Napoleon,France,6181," Despite traveling widely, Wagner held citizenship in",Wagner,Germany,6176,"Despite traveling widely, {name} held citizenship in",1
+" Tchaikovsky, a celebrated figure, was a citizen of",Tchaikovsky,Russia,7422," Bismarck, a celebrated figure, was a citizen of",Bismarck,Germany,6176,"{name}, a celebrated figure, was a citizen of",4
+" Despite traveling widely, Picasso held citizenship in",Picasso,Spain,11268," Despite traveling widely, Mozart held citizenship in",Mozart,Austria,21753,"Despite traveling widely, {name} held citizenship in",2
+" Throughout an illustrious career, Heidegger remained a citizen of",Heidegger,Germany,6176," Throughout an illustrious career, Sophocles remained a citizen of",Sophocles,Greece,17785,"Throughout an illustrious career, {name} remained a citizen of",1
+" Despite traveling widely, Castro held citizenship in",Castro,Cuba,24605," Despite traveling widely, Netanyahu held citizenship in",Netanyahu,Israel,5143,"Despite traveling widely, {name} held citizenship in",1
+" Despite traveling widely, Tchaikovsky held citizenship in",Tchaikovsky,Russia,7422," Despite traveling widely, Mendelssohn held citizenship in",Mendelssohn,Germany,6176,"Despite traveling widely, {name} held citizenship in",4
+" In official records, Gandhi was a citizen of",Gandhi,India,5427," In official records, Swift was a citizen of",Swift,Ireland,11011,"In official records, {name} was a citizen of",1
+" Throughout an illustrious career, Mubarak remained a citizen of",Mubarak,Egypt,10253," Throughout an illustrious career, Trudeau remained a citizen of",Trudeau,Canada,6144,"Throughout an illustrious career, {name} remained a citizen of",3
+" Foucault, a celebrated figure, was a citizen of",Foucault,France,6181," Selassie, a celebrated figure, was a citizen of",Selassie,Ethiopia,35363,"{name}, a celebrated figure, was a citizen of",4
+" Chekhov, a celebrated figure, was a citizen of",Chekhov,Russia,7422," Wittgenstein, a celebrated figure, was a citizen of",Wittgenstein,Austria,21753,"{name}, a celebrated figure, was a citizen of",3
+" By all accounts, Nehru was a citizen of",Nehru,India,5427," By all accounts, Verne was a citizen of",Verne,France,6181,"By all accounts, {name} was a citizen of",3
+" In official records, Pushkin was a citizen of",Pushkin,Russia,7422," In official records, Austen was a citizen of",Austen,England,5854,"In official records, {name} was a citizen of",2
+" Despite traveling widely, Khrushchev held citizenship in",Khrushchev,Russia,7422," Despite traveling widely, Confucius held citizenship in",Confucius,China,4135,"Despite traveling widely, {name} held citizenship in",4
+ Goethe was a national of,Goethe,Germany,6176, Rabin was a national of,Rabin,Israel,5143,{name} was a national of,2
+ Goya was a national of,Goya,Spain,11268, Goethe was a national of,Goethe,Germany,6176,{name} was a national of,2
+" Mao, a celebrated figure, was a citizen of",Mao,China,4135," Byron, a celebrated figure, was a citizen of",Byron,England,5854,"{name}, a celebrated figure, was a citizen of",1
+" By all accounts, Strindberg was a citizen of",Strindberg,Sweden,16842," By all accounts, Cleopatra was a citizen of",Cleopatra,Egypt,10253,"By all accounts, {name} was a citizen of",3
+ Netanyahu held citizenship in,Netanyahu,Israel,5143, Stalin held citizenship in,Stalin,Russia,7422,{name} held citizenship in,1
+" By all accounts, Marx was a citizen of",Marx,Germany,6176," By all accounts, Swift was a citizen of",Swift,Ireland,11011,"By all accounts, {name} was a citizen of",1
+" Despite traveling widely, Sadat held citizenship in",Sadat,Egypt,10253," Despite traveling widely, Goethe held citizenship in",Goethe,Germany,6176,"Despite traveling widely, {name} held citizenship in",2
+ Herzl was a national of,Herzl,Israel,5143, Jinnah was a national of,Jinnah,Pakistan,13115,{name} was a national of,2
+" Throughout an illustrious career, Nasser remained a citizen of",Nasser,Egypt,10253," Throughout an illustrious career, Verdi remained a citizen of",Verdi,Italy,9972,"Throughout an illustrious career, {name} remained a citizen of",2
+ Robespierre held citizenship in,Robespierre,France,6181, Copernicus held citizenship in,Copernicus,Poland,16795,{name} held citizenship in,4
+" Despite traveling widely, Pushkin held citizenship in",Pushkin,Russia,7422," Despite traveling widely, Mussolini held citizenship in",Mussolini,Italy,9972,"Despite traveling widely, {name} held citizenship in",2
+ Tolkien was a citizen of,Tolkien,England,5854, Marx was a citizen of,Marx,Germany,6176,{name} was a citizen of,3
+" Despite traveling widely, Mussolini held citizenship in",Mussolini,Italy,9972," Despite traveling widely, Walesa held citizenship in",Walesa,Poland,16795,"Despite traveling widely, {name} held citizenship in",3
+ Thatcher was a national of,Thatcher,England,5854, Homer was a national of,Homer,Greece,17785,{name} was a national of,2
+" Throughout an illustrious career, Camus remained a citizen of",Camus,France,6181," Throughout an illustrious career, Nasser remained a citizen of",Nasser,Egypt,10253,"Throughout an illustrious career, {name} remained a citizen of",2
+" Despite traveling widely, Velazquez held citizenship in",Velazquez,Spain,11268," Despite traveling widely, Wittgenstein held citizenship in",Wittgenstein,Austria,21753,"Despite traveling widely, {name} held citizenship in",3
+ Schubert was a national of,Schubert,Austria,21753, Khomeini was a national of,Khomeini,Iran,7751,{name} was a national of,2
+" Despite traveling widely, Confucius held citizenship in",Confucius,China,4135," Despite traveling widely, Lavoisier held citizenship in",Lavoisier,France,6181,"Despite traveling widely, {name} held citizenship in",3
+" In official records, Dante was a citizen of",Dante,Italy,9972," In official records, Messi was a citizen of",Messi,Argentina,23881,"In official records, {name} was a citizen of",1
+" By all accounts, Modi was a citizen of",Modi,India,5427," By all accounts, Thatcher was a citizen of",Thatcher,England,5854,"By all accounts, {name} was a citizen of",1
+" Khomeini, a celebrated figure, was a citizen of",Khomeini,Iran,7751," Strindberg, a celebrated figure, was a citizen of",Strindberg,Sweden,16842,"{name}, a celebrated figure, was a citizen of",3
+" By all accounts, Tagore was a citizen of",Tagore,India,5427," By all accounts, Mozart was a citizen of",Mozart,Austria,21753,"By all accounts, {name} was a citizen of",2
+" In official records, Jinnah was a citizen of",Jinnah,Pakistan,13115," In official records, Pasteur was a citizen of",Pasteur,France,6181,"In official records, {name} was a citizen of",3
+" Mubarak, a celebrated figure, was a citizen of",Mubarak,Egypt,10253," Homer, a celebrated figure, was a citizen of",Homer,Greece,17785,"{name}, a celebrated figure, was a citizen of",3
+" Despite traveling widely, Herodotus held citizenship in",Herodotus,Greece,17785," Despite traveling widely, Lavoisier held citizenship in",Lavoisier,France,6181,"Despite traveling widely, {name} held citizenship in",3
+" Copernicus, a celebrated figure, was a citizen of",Copernicus,Poland,16795," Linnaeus, a celebrated figure, was a citizen of",Linnaeus,Sweden,16842,"{name}, a celebrated figure, was a citizen of",3
+" Throughout an illustrious career, Thatcher remained a citizen of",Thatcher,England,5854," Throughout an illustrious career, Saddam remained a citizen of",Saddam,Iraq,9256,"Throughout an illustrious career, {name} remained a citizen of",2
+ Rabin was a national of,Rabin,Israel,5143, Mussolini was a national of,Mussolini,Italy,9972,{name} was a national of,2
+" Despite traveling widely, Camus held citizenship in",Camus,France,6181," Despite traveling widely, Haydn held citizenship in",Haydn,Austria,21753,"Despite traveling widely, {name} held citizenship in",2
+" In official records, Linnaeus was a citizen of",Linnaeus,Sweden,16842," In official records, Pythagoras was a citizen of",Pythagoras,Greece,17785,"In official records, {name} was a citizen of",3
+" Despite traveling widely, Mussolini held citizenship in",Mussolini,Italy,9972," Despite traveling widely, Zapata held citizenship in",Zapata,Mexico,8987,"Despite traveling widely, {name} held citizenship in",3
+" By all accounts, Hirohito was a citizen of",Hirohito,Japan,4047," By all accounts, Cervantes was a citizen of",Cervantes,Spain,11268,"By all accounts, {name} was a citizen of",3
+" By all accounts, Nehru was a citizen of",Nehru,India,5427," By all accounts, Michelangelo was a citizen of",Michelangelo,Italy,9972,"By all accounts, {name} was a citizen of",3
+" Hokusai, a celebrated figure, was a citizen of",Hokusai,Japan,4047," Proust, a celebrated figure, was a citizen of",Proust,France,6181,"{name}, a celebrated figure, was a citizen of",4
+" In official records, Thatcher was a citizen of",Thatcher,England,5854," In official records, Kant was a citizen of",Kant,Germany,6176,"In official records, {name} was a citizen of",2
+ Balzac was a national of,Balzac,France,6181, Brahms was a national of,Brahms,Germany,6176,{name} was a national of,3
+" Despite traveling widely, Cleopatra held citizenship in",Cleopatra,Egypt,10253," Despite traveling widely, Beethoven held citizenship in",Beethoven,Germany,6176,"Despite traveling widely, {name} held citizenship in",3
+" Erdogan, a celebrated figure, was a citizen of",Erdogan,Turkey,14307," Putin, a celebrated figure, was a citizen of",Putin,Russia,7422,"{name}, a celebrated figure, was a citizen of",2
+ Goethe was a citizen of,Goethe,Germany,6176, Mozart was a citizen of,Mozart,Austria,21753,{name} was a citizen of,2
+ Pushkin was a citizen of,Pushkin,Russia,7422, Sadat was a citizen of,Sadat,Egypt,10253,{name} was a citizen of,2
+" Throughout an illustrious career, Cleopatra remained a citizen of",Cleopatra,Egypt,10253," Throughout an illustrious career, Copernicus remained a citizen of",Copernicus,Poland,16795,"Throughout an illustrious career, {name} remained a citizen of",3
+ Tolstoy was a national of,Tolstoy,Russia,7422, Kurosawa was a national of,Kurosawa,Japan,4047,{name} was a national of,3
+" Throughout an illustrious career, Amundsen remained a citizen of",Amundsen,Norway,20341," Throughout an illustrious career, Herodotus remained a citizen of",Herodotus,Greece,17785,"Throughout an illustrious career, {name} remained a citizen of",4
+" By all accounts, Kurosawa was a citizen of",Kurosawa,Japan,4047," By all accounts, Herodotus was a citizen of",Herodotus,Greece,17785,"By all accounts, {name} was a citizen of",4
+" Velazquez, a celebrated figure, was a citizen of",Velazquez,Spain,11268," Disraeli, a celebrated figure, was a citizen of",Disraeli,England,5854,"{name}, a celebrated figure, was a citizen of",3
+ Nehru was a national of,Nehru,India,5427, Voltaire was a national of,Voltaire,France,6181,{name} was a national of,3
+ Netanyahu was a national of,Netanyahu,Israel,5143, Galileo was a national of,Galileo,Italy,9972,{name} was a national of,1
+ Wellington was a national of,Wellington,England,5854, Stalin was a national of,Stalin,Russia,7422,{name} was a national of,1
+ Napoleon was a citizen of,Napoleon,France,6181, Galileo was a citizen of,Galileo,Italy,9972,{name} was a citizen of,1
+ Austen was a citizen of,Austen,England,5854, Jinnah was a citizen of,Jinnah,Pakistan,13115,{name} was a citizen of,2
+" Despite traveling widely, Archimedes held citizenship in",Archimedes,Greece,17785," Despite traveling widely, Kurosawa held citizenship in",Kurosawa,Japan,4047,"Despite traveling widely, {name} held citizenship in",3
+" Despite traveling widely, Tagore held citizenship in",Tagore,India,5427," Despite traveling widely, Grieg held citizenship in",Grieg,Norway,20341,"Despite traveling widely, {name} held citizenship in",2
+" Throughout an illustrious career, Pushkin remained a citizen of",Pushkin,Russia,7422," Throughout an illustrious career, Grieg remained a citizen of",Grieg,Norway,20341,"Throughout an illustrious career, {name} remained a citizen of",2
+" Throughout an illustrious career, Shakespeare remained a citizen of",Shakespeare,England,5854," Throughout an illustrious career, Dante remained a citizen of",Dante,Italy,9972,"Throughout an illustrious career, {name} remained a citizen of",1
+ Nehru was a national of,Nehru,India,5427, Pasteur was a national of,Pasteur,France,6181,{name} was a national of,3
+" Pythagoras, a celebrated figure, was a citizen of",Pythagoras,Greece,17785," Murakami, a celebrated figure, was a citizen of",Murakami,Japan,4047,"{name}, a celebrated figure, was a citizen of",5
+" Throughout an illustrious career, Homer remained a citizen of",Homer,Greece,17785," Throughout an illustrious career, Nobel remained a citizen of",Nobel,Sweden,16842,"Throughout an illustrious career, {name} remained a citizen of",1
+ Hawking was a citizen of,Hawking,England,5854, Chavez was a citizen of,Chavez,Venezuela,27608,{name} was a citizen of,2
+ Napoleon was a national of,Napoleon,France,6181, Gandhi was a national of,Gandhi,India,5427,{name} was a national of,1
+" By all accounts, Descartes was a citizen of",Descartes,France,6181," By all accounts, Velazquez was a citizen of",Velazquez,Spain,11268,"By all accounts, {name} was a citizen of",3
+ Brahms held citizenship in,Brahms,Germany,6176, Senna held citizenship in,Senna,Brazil,10869,{name} held citizenship in,3
+ Botticelli was a national of,Botticelli,Italy,9972, Bolivar was a national of,Bolivar,Venezuela,27608,{name} was a national of,3
+" Disraeli, a celebrated figure, was a citizen of",Disraeli,England,5854," Cervantes, a celebrated figure, was a citizen of",Cervantes,Spain,11268,"{name}, a celebrated figure, was a citizen of",3
+ Ahmadinejad was a citizen of,Ahmadinejad,Iran,7751, Strindberg was a citizen of,Strindberg,Sweden,16842,{name} was a citizen of,4
+ Netanyahu was a national of,Netanyahu,Israel,5143, Thatcher was a national of,Thatcher,England,5854,{name} was a national of,1
+" Despite traveling widely, Stalin held citizenship in",Stalin,Russia,7422," Despite traveling widely, Homer held citizenship in",Homer,Greece,17785,"Despite traveling widely, {name} held citizenship in",1
+" By all accounts, Foucault was a citizen of",Foucault,France,6181," By all accounts, Heidegger was a citizen of",Heidegger,Germany,6176,"By all accounts, {name} was a citizen of",4
+" Throughout an illustrious career, Ahmadinejad remained a citizen of",Ahmadinejad,Iran,7751," Throughout an illustrious career, Archimedes remained a citizen of",Archimedes,Greece,17785,"Throughout an illustrious career, {name} remained a citizen of",4
+" Karzai, a celebrated figure, was a citizen of",Karzai,Afghanistan,16111," Dumas, a celebrated figure, was a citizen of",Dumas,France,6181,"{name}, a celebrated figure, was a citizen of",3
+" Throughout an illustrious career, Mussolini remained a citizen of",Mussolini,Italy,9972," Throughout an illustrious career, Dali remained a citizen of",Dali,Spain,11268,"Throughout an illustrious career, {name} remained a citizen of",3
+ Plato held citizenship in,Plato,Greece,17785, Lenin held citizenship in,Lenin,Russia,7422,{name} held citizenship in,1
+" Throughout an illustrious career, Lennon remained a citizen of",Lennon,England,5854," Throughout an illustrious career, Gandhi remained a citizen of",Gandhi,India,5427,"Throughout an illustrious career, {name} remained a citizen of",2
+ Beckett was a citizen of,Beckett,Ireland,11011, Borges was a citizen of,Borges,Argentina,23881,{name} was a citizen of,2
+ Netanyahu was a citizen of,Netanyahu,Israel,5143, Lenin was a citizen of,Lenin,Russia,7422,{name} was a citizen of,1
+ Yeltsin was a national of,Yeltsin,Russia,7422, Hokusai was a national of,Hokusai,Japan,4047,{name} was a national of,4
+" Despite traveling widely, Garibaldi held citizenship in",Garibaldi,Italy,9972," Despite traveling widely, Amundsen held citizenship in",Amundsen,Norway,20341,"Despite traveling widely, {name} held citizenship in",3
+ Thatcher held citizenship in,Thatcher,England,5854, Erdogan held citizenship in,Erdogan,Turkey,14307,{name} held citizenship in,2
+" Throughout an illustrious career, Thatcher remained a citizen of",Thatcher,England,5854," Throughout an illustrious career, Putin remained a citizen of",Putin,Russia,7422,"Throughout an illustrious career, {name} remained a citizen of",2
+ Sophocles was a national of,Sophocles,Greece,17785, Velazquez was a national of,Velazquez,Spain,11268,{name} was a national of,3
+ Verdi was a national of,Verdi,Italy,9972, Pavlov was a national of,Pavlov,Russia,7422,{name} was a national of,2
+" Despite traveling widely, Cromwell held citizenship in",Cromwell,England,5854," Despite traveling widely, Senna held citizenship in",Senna,Brazil,10869,"Despite traveling widely, {name} held citizenship in",2
+ Linnaeus held citizenship in,Linnaeus,Sweden,16842, Bolivar held citizenship in,Bolivar,Venezuela,27608,{name} held citizenship in,3
+" By all accounts, Goya was a citizen of",Goya,Spain,11268," By all accounts, Chopin was a citizen of",Chopin,Poland,16795,"By all accounts, {name} was a citizen of",2
+ Cromwell held citizenship in,Cromwell,England,5854, Dali held citizenship in,Dali,Spain,11268,{name} held citizenship in,2
+ Foucault held citizenship in,Foucault,France,6181, Herodotus held citizenship in,Herodotus,Greece,17785,{name} held citizenship in,4
+" Pasteur, a celebrated figure, was a citizen of",Pasteur,France,6181," Senna, a celebrated figure, was a citizen of",Senna,Brazil,10869,"{name}, a celebrated figure, was a citizen of",3
+ Galileo was a national of,Galileo,Italy,9972, Thatcher was a national of,Thatcher,England,5854,{name} was a national of,2
+ Mubarak was a citizen of,Mubarak,Egypt,10253, Lenin was a citizen of,Lenin,Russia,7422,{name} was a citizen of,3
+" In official records, Lula was a citizen of",Lula,Brazil,10869," In official records, Grieg was a citizen of",Grieg,Norway,20341,"In official records, {name} was a citizen of",2
+" Despite traveling widely, Stalin held citizenship in",Stalin,Russia,7422," Despite traveling widely, Nietzsche held citizenship in",Nietzsche,Germany,6176,"Despite traveling widely, {name} held citizenship in",1
+ Proust held citizenship in,Proust,France,6181, Cleopatra held citizenship in,Cleopatra,Egypt,10253,{name} held citizenship in,2
+" Throughout an illustrious career, Lenin remained a citizen of",Lenin,Russia,7422," Throughout an illustrious career, Plato remained a citizen of",Plato,Greece,17785,"Throughout an illustrious career, {name} remained a citizen of",1
+ Chekhov held citizenship in,Chekhov,Russia,7422, Maradona held citizenship in,Maradona,Argentina,23881,{name} held citizenship in,3
+ Sadat was a citizen of,Sadat,Egypt,10253, Bergman was a citizen of,Bergman,Sweden,16842,{name} was a citizen of,2
+" In official records, Putin was a citizen of",Putin,Russia,7422," In official records, Bach was a citizen of",Bach,Germany,6176,"In official records, {name} was a citizen of",1
+ Bolivar was a national of,Bolivar,Venezuela,27608, Copernicus was a national of,Copernicus,Poland,16795,{name} was a national of,3
+ Cromwell held citizenship in,Cromwell,England,5854, Camus held citizenship in,Camus,France,6181,{name} held citizenship in,2
+ Herodotus was a citizen of,Herodotus,Greece,17785, Foucault was a citizen of,Foucault,France,6181,{name} was a citizen of,3
+ Plato was a national of,Plato,Greece,17785, Trudeau was a national of,Trudeau,Canada,6144,{name} was a national of,1
+" In official records, Hippocrates was a citizen of",Hippocrates,Greece,17785," In official records, Heine was a citizen of",Heine,Germany,6176,"In official records, {name} was a citizen of",2
+" Pavlov, a celebrated figure, was a citizen of",Pavlov,Russia,7422," Beckett, a celebrated figure, was a citizen of",Beckett,Ireland,11011,"{name}, a celebrated figure, was a citizen of",2
+ Dumas was a citizen of,Dumas,France,6181, Goethe was a citizen of,Goethe,Germany,6176,{name} was a citizen of,2
+" By all accounts, Nehru was a citizen of",Nehru,India,5427," By all accounts, Rousseau was a citizen of",Rousseau,France,6181,"By all accounts, {name} was a citizen of",3
+" In official records, Pythagoras was a citizen of",Pythagoras,Greece,17785," In official records, Amundsen was a citizen of",Amundsen,Norway,20341,"In official records, {name} was a citizen of",5
+ Hokusai was a citizen of,Hokusai,Japan,4047, Bolivar was a citizen of,Bolivar,Venezuela,27608,{name} was a citizen of,4
+" In official records, Shakespeare was a citizen of",Shakespeare,England,5854," In official records, Erdogan was a citizen of",Erdogan,Turkey,14307,"In official records, {name} was a citizen of",1
+ Tolkien held citizenship in,Tolkien,England,5854, Homer held citizenship in,Homer,Greece,17785,{name} held citizenship in,3
+" Despite traveling widely, Gandhi held citizenship in",Gandhi,India,5427," Despite traveling widely, Kant held citizenship in",Kant,Germany,6176,"Despite traveling widely, {name} held citizenship in",1
+ Rousseau was a citizen of,Rousseau,France,6181, Grieg was a citizen of,Grieg,Norway,20341,{name} was a citizen of,1
+ Pushkin was a citizen of,Pushkin,Russia,7422, Walesa was a citizen of,Walesa,Poland,16795,{name} was a citizen of,2
+" By all accounts, Nasser was a citizen of",Nasser,Egypt,10253," By all accounts, Marconi was a citizen of",Marconi,Italy,9972,"By all accounts, {name} was a citizen of",2
+" By all accounts, Amundsen was a citizen of",Amundsen,Norway,20341," By all accounts, Bolivar was a citizen of",Bolivar,Venezuela,27608,"By all accounts, {name} was a citizen of",4
+" Khomeini, a celebrated figure, was a citizen of",Khomeini,Iran,7751," Velazquez, a celebrated figure, was a citizen of",Velazquez,Spain,11268,"{name}, a celebrated figure, was a citizen of",3
+ Tolstoy was a citizen of,Tolstoy,Russia,7422, Confucius was a citizen of,Confucius,China,4135,{name} was a citizen of,3
+" Throughout an illustrious career, Balzac remained a citizen of",Balzac,France,6181," Throughout an illustrious career, Jinnah remained a citizen of",Jinnah,Pakistan,13115,"Throughout an illustrious career, {name} remained a citizen of",3
+ Sadat held citizenship in,Sadat,Egypt,10253, Mahler held citizenship in,Mahler,Austria,21753,{name} held citizenship in,2
+" In official records, Chavez was a citizen of",Chavez,Venezuela,27608," In official records, Freud was a citizen of",Freud,Austria,21753,"In official records, {name} was a citizen of",2
+ Haydn was a citizen of,Haydn,Austria,21753, Lula was a citizen of,Lula,Brazil,10869,{name} was a citizen of,2
+" Throughout an illustrious career, Newton remained a citizen of",Newton,England,5854," Throughout an illustrious career, Hugo remained a citizen of",Hugo,France,6181,"Throughout an illustrious career, {name} remained a citizen of",1
+ Lula was a national of,Lula,Brazil,10869, Bergman was a national of,Bergman,Sweden,16842,{name} was a national of,2
+ Vivaldi was a citizen of,Vivaldi,Italy,9972, Jinnah was a citizen of,Jinnah,Pakistan,13115,{name} was a citizen of,3
+ Stalin was a national of,Stalin,Russia,7422, Trudeau was a national of,Trudeau,Canada,6144,{name} was a national of,1
+" In official records, Hegel was a citizen of",Hegel,Germany,6176," In official records, Hawking was a citizen of",Hawking,England,5854,"In official records, {name} was a citizen of",1
+" In official records, Sadat was a citizen of",Sadat,Egypt,10253," In official records, Vivaldi was a citizen of",Vivaldi,Italy,9972,"In official records, {name} was a citizen of",2
+" By all accounts, Velazquez was a citizen of",Velazquez,Spain,11268," By all accounts, Hokusai was a citizen of",Hokusai,Japan,4047,"By all accounts, {name} was a citizen of",3
+ Netanyahu held citizenship in,Netanyahu,Israel,5143, Saddam held citizenship in,Saddam,Iraq,9256,{name} held citizenship in,1
+" In official records, Hokusai was a citizen of",Hokusai,Japan,4047," In official records, Amundsen was a citizen of",Amundsen,Norway,20341,"In official records, {name} was a citizen of",4
+" In official records, Verdi was a citizen of",Verdi,Italy,9972," In official records, Bergman was a citizen of",Bergman,Sweden,16842,"In official records, {name} was a citizen of",2
+" Despite traveling widely, Netanyahu held citizenship in",Netanyahu,Israel,5143," Despite traveling widely, Homer held citizenship in",Homer,Greece,17785,"Despite traveling widely, {name} held citizenship in",1
+" In official records, Pavlov was a citizen of",Pavlov,Russia,7422," In official records, Brahms was a citizen of",Brahms,Germany,6176,"In official records, {name} was a citizen of",2
+ Newton held citizenship in,Newton,England,5854, Homer held citizenship in,Homer,Greece,17785,{name} held citizenship in,1
+" In official records, Hippocrates was a citizen of",Hippocrates,Greece,17785," In official records, Dumas was a citizen of",Dumas,France,6181,"In official records, {name} was a citizen of",2
+ Nehru held citizenship in,Nehru,India,5427, Jinnah held citizenship in,Jinnah,Pakistan,13115,{name} held citizenship in,3
+" In official records, Aristotle was a citizen of",Aristotle,Greece,17785," In official records, Bach was a citizen of",Bach,Germany,6176,"In official records, {name} was a citizen of",1
+ Voltaire was a national of,Voltaire,France,6181, Heine was a national of,Heine,Germany,6176,{name} was a national of,2
+" Despite traveling widely, Trudeau held citizenship in",Trudeau,Canada,6144," Despite traveling widely, Socrates held citizenship in",Socrates,Greece,17785,"Despite traveling widely, {name} held citizenship in",1
+" Throughout an illustrious career, Menzies remained a citizen of",Menzies,Australia,6976," Throughout an illustrious career, Kurosawa remained a citizen of",Kurosawa,Japan,4047,"Throughout an illustrious career, {name} remained a citizen of",3
+ Hippocrates was a citizen of,Hippocrates,Greece,17785, Brahms was a citizen of,Brahms,Germany,6176,{name} was a citizen of,2
+" In official records, Franco was a citizen of",Franco,Spain,11268," In official records, Thatcher was a citizen of",Thatcher,England,5854,"In official records, {name} was a citizen of",1
+" Throughout an illustrious career, Camus remained a citizen of",Camus,France,6181," Throughout an illustrious career, Dali remained a citizen of",Dali,Spain,11268,"Throughout an illustrious career, {name} remained a citizen of",2
+ Socrates held citizenship in,Socrates,Greece,17785, Trudeau held citizenship in,Trudeau,Canada,6144,{name} held citizenship in,1
+ Pavlov held citizenship in,Pavlov,Russia,7422, Rousseau held citizenship in,Rousseau,France,6181,{name} held citizenship in,2
+" Orwell, a celebrated figure, was a citizen of",Orwell,England,5854," Messi, a celebrated figure, was a citizen of",Messi,Argentina,23881,"{name}, a celebrated figure, was a citizen of",2
+" In official records, Wagner was a citizen of",Wagner,Germany,6176," In official records, Plato was a citizen of",Plato,Greece,17785,"In official records, {name} was a citizen of",1
+" By all accounts, Joyce was a citizen of",Joyce,Ireland,11011," By all accounts, Bach was a citizen of",Bach,Germany,6176,"By all accounts, {name} was a citizen of",1
+" In official records, Thatcher was a citizen of",Thatcher,England,5854," In official records, Mubarak was a citizen of",Mubarak,Egypt,10253,"In official records, {name} was a citizen of",2
+" Throughout an illustrious career, Chekhov remained a citizen of",Chekhov,Russia,7422," Throughout an illustrious career, Proust remained a citizen of",Proust,France,6181,"Throughout an illustrious career, {name} remained a citizen of",3
+ Hippocrates was a national of,Hippocrates,Greece,17785, Pushkin was a national of,Pushkin,Russia,7422,{name} was a national of,2
+" By all accounts, Tagore was a citizen of",Tagore,India,5427," By all accounts, Beckett was a citizen of",Beckett,Ireland,11011,"By all accounts, {name} was a citizen of",2
+ Hippocrates was a national of,Hippocrates,Greece,17785, Camus was a national of,Camus,France,6181,{name} was a national of,2
+ Chopin was a citizen of,Chopin,Poland,16795, Borges was a citizen of,Borges,Argentina,23881,{name} was a citizen of,2
+" Marconi, a celebrated figure, was a citizen of",Marconi,Italy,9972," Walesa, a celebrated figure, was a citizen of",Walesa,Poland,16795,"{name}, a celebrated figure, was a citizen of",3

@@ -1,0 +1,42 @@
+Cross-task knockout validation — ACTIVATION PATCHING
+============================================================
+
+variant: consistency_share
+n_prompts: 100
+n_random: 10
+
+Lift matrix (rows=set, cols=task):
+set                        |  col_obj country_ gender_b       gp       gt gt_price ioi_stro person_c person_p      sva sva_blim sva_isar
+----------------------------------------------------------------------------------------------------------------------------------------
+Universal                  |    1.148    1.234    3.051    1.207    0.818    0.742    0.695    1.037    0.914    1.248    1.149    1.188
+GT_specialized_2           |   -0.173   -0.165   -0.361   -0.139    0.303    0.398   -0.492   -0.063   -0.072   -0.087   -0.111   -0.106
+GT_specialized_top4        |   -0.173   -0.165   -0.361   -0.139    0.303    0.398   -0.492   -0.063   -0.072   -0.087   -0.111   -0.106
+GT_broad_top4              |   -0.291   -0.034   -0.366   -0.109    0.593    0.521   -0.039   -0.006   -0.066    0.193    0.256    0.302
+GT_broad_top9              |   -0.078    0.170    0.413    0.430    0.966    0.742    0.187    0.232    0.216    1.041    0.890    0.988
+GT_broad_all               |   -0.078    0.170    0.413    0.430    0.966    0.742    0.187    0.232    0.216    1.041    0.890    0.988
+GT_broad_mlps_top4         |    0.134    0.153    0.518    0.392    1.063    0.878    0.025    0.222    0.241    1.166    1.026    1.151
+GT_broad_mlps_all          |    0.134    0.153    0.518    0.392    1.063    0.878    0.025    0.222    0.241    1.166    1.026    1.151
+GT_all                     |   -0.517   -0.068    0.060    0.306    0.954    0.867   -0.355    0.101    0.130    0.988    0.863    0.918
+SVA_specialized_4          |    0.200   -0.039    1.899    0.827   -0.020    0.004   -0.009   -0.017   -0.007    0.468    0.752    0.543
+SVA_broad_all              |    0.077   -0.055   -0.053   -0.001   -0.055   -0.064   -0.093   -0.026   -0.043    0.334    0.889    0.437
+SVA_all                    |   -0.224   -0.469    1.155    0.548   -0.406   -0.371   -0.291   -0.416   -0.313    0.605    1.289    0.594
+COUNTRY_broad_2            |   -0.012    0.599   -0.025   -0.016    0.000   -0.003   -0.006    0.824    0.094   -0.008   -0.012   -0.015
+IOI_COL_all                |   -0.229   -0.064   -0.411   -0.142   -0.008    0.003    0.247   -0.060   -0.105   -0.084   -0.125   -0.115
+Mixed_22_control           |    0.236   -0.532   -0.967   -0.320   -0.389   -0.378   -0.262   -0.404   -0.399   -0.141   -0.334   -0.187
+
+Concentration:
+  Universal                   fam=—         in=nan  out=1.2025  ratio=—
+  GT_specialized_2            fam=GT        in=0.3505  out=-0.1769  ratio=-1.981
+  GT_specialized_top4         fam=GT        in=0.3505  out=-0.1769  ratio=-1.981
+  GT_broad_top4               fam=GT        in=0.5573  out=-0.0161  ratio=-34.709
+  GT_broad_top9               fam=GT        in=0.8545  out=0.4490  ratio=1.903
+  GT_broad_all                fam=GT        in=0.8545  out=0.4490  ratio=1.903
+  GT_broad_mlps_top4          fam=GT        in=0.9701  out=0.5028  ratio=1.929
+  GT_broad_mlps_all           fam=GT        in=0.9701  out=0.5028  ratio=1.929
+  GT_all                      fam=GT        in=0.9109  out=0.2426  ratio=3.755
+  SVA_specialized_4           fam=SVA       in=0.5875  out=0.3153  ratio=1.863
+  SVA_broad_all               fam=SVA       in=0.5537  out=-0.0349  ratio=-15.867
+  SVA_all                     fam=SVA       in=0.8295  out=-0.0874  ratio=-9.490
+  COUNTRY_broad_2             fam=COUNTRY   in=0.7116  out=-0.0002  ratio=-4108.573
+  IOI_COL_all                 fam=—         in=nan  out=-0.0910  ratio=—
+  Mixed_22_control            fam=—         in=nan  out=-0.3398  ratio=—

@@ -1,0 +1,46 @@
+Cross-task unit classification — legend
+============================================================
+
+Importance variant: sigma_weighted
+
+Thresholds:
+  universal_min            = 0.08
+  universal_mean           = 0.2
+  within_default           = 0.1
+  margin                   = 0.05
+  task_dominance           = 0.3
+  task_outside_overlap     = 0.15
+
+Per-family within overrides (raises within floor for isolated families):
+  within[GT      ] = 0.2
+  within[IOI_COL ] = 0.15
+
+Family strict tier (within ≥ this  →  family_tier='specialized', else 'broad'):
+  strict[GT      ] = 0.5
+  strict[SVA     ] = 0.45
+
+Family layout v1 (orphan singletons):
+  SVA      = ['sva', 'sva_blimp', 'sva_isare']
+  PRONOUN  = ['gender_bias', 'gp', 'person_pro']
+  COUNTRY  = ['country_cap', 'person_country']
+  GT       = ['gt', 'gt_price']
+  (singletons: ioi_strong, col_obj — not family-eligible)
+
+Family layout v2 (orphans grouped):
+  SVA      = ['sva', 'sva_blimp', 'sva_isare']
+  PRONOUN  = ['gender_bias', 'gp', 'person_pro']
+  COUNTRY  = ['country_cap', 'person_country']
+  GT       = ['gt', 'gt_price']
+  IOI_COL  = ['ioi_strong', 'col_obj']
+
+Classification priority:
+  1. universal       : score_<crit> >= θ_universal_<crit>
+  2. family-F        : within_F_<crit> >= within_floor[F]  (default θ_within_default,
+                                                            override for isolated families)
+                       AND  within_F_<crit> - cross_F_max >= θ_margin
+                       (pick family with largest margin if multiple)
+  3. task-t*         : importance_dominance >= θ_task_dominance         (t* gets ≥30% of
+                                                                          unit's total imp)
+                       AND task_outside_overlap_max <= θ_task_outside_overlap
+                                                       (no other task strongly overlaps t*)
+  4. mixed           : otherwise

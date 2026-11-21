@@ -1,0 +1,402 @@
+[
+  {
+    "instance_id": 0,
+    "query": "When you fly into Estonia to meet with its government, you land in",
+    "completion": "Tallinn",
+    "country": "Estonia",
+    "capital": "Tallinn",
+    "template": "When you fly into {country} to meet with its government, you land in"
+  },
+  {
+    "instance_id": 1,
+    "query": "Historically, the city chosen as the capital of Ireland was",
+    "completion": "Dublin",
+    "country": "Ireland",
+    "capital": "Dublin",
+    "template": "Historically, the city chosen as the capital of {country} was"
+  },
+  {
+    "instance_id": 2,
+    "query": "All official state ceremonies of Pakistan take place in its capital,",
+    "completion": "Islamabad",
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "template": "All official state ceremonies of {country} take place in its capital,"
+  },
+  {
+    "instance_id": 3,
+    "query": "Lithuania's capital city is",
+    "completion": "Vilnius",
+    "country": "Lithuania",
+    "capital": "Vilnius",
+    "template": "{country}'s capital city is"
+  },
+  {
+    "instance_id": 4,
+    "query": "Netherlands's capital city is",
+    "completion": "Amsterdam",
+    "country": "Netherlands",
+    "capital": "Amsterdam",
+    "template": "{country}'s capital city is"
+  },
+  {
+    "instance_id": 5,
+    "query": "The seat of government and political heart of Japan is located in",
+    "completion": "Tokyo",
+    "country": "Japan",
+    "capital": "Tokyo",
+    "template": "The seat of government and political heart of {country} is located in"
+  },
+  {
+    "instance_id": 6,
+    "query": "Historically, the city chosen as the capital of Poland was",
+    "completion": "Warsaw",
+    "country": "Poland",
+    "capital": "Warsaw",
+    "template": "Historically, the city chosen as the capital of {country} was"
+  },
+  {
+    "instance_id": 7,
+    "query": "All official state ceremonies of Ukraine take place in its capital,",
+    "completion": "Kyiv",
+    "country": "Ukraine",
+    "capital": "Kyiv",
+    "template": "All official state ceremonies of {country} take place in its capital,"
+  },
+  {
+    "instance_id": 8,
+    "query": "Croatia's capital city is",
+    "completion": "Zagreb",
+    "country": "Croatia",
+    "capital": "Zagreb",
+    "template": "{country}'s capital city is"
+  },
+  {
+    "instance_id": 9,
+    "query": "The city where Belgium's national flag flies above the parliament is",
+    "completion": "Brussels",
+    "country": "Belgium",
+    "capital": "Brussels",
+    "template": "The city where {country}'s national flag flies above the parliament is"
+  },
+  {
+    "instance_id": 10,
+    "query": "Historically, the city chosen as the capital of Sweden was",
+    "completion": "Stockholm",
+    "country": "Sweden",
+    "capital": "Stockholm",
+    "template": "Historically, the city chosen as the capital of {country} was"
+  },
+  {
+    "instance_id": 11,
+    "query": "The city where Serbia's national flag flies above the parliament is",
+    "completion": "Belgrade",
+    "country": "Serbia",
+    "capital": "Belgrade",
+    "template": "The city where {country}'s national flag flies above the parliament is"
+  },
+  {
+    "instance_id": 12,
+    "query": "In geography textbooks, students learn that the capital of Finland is",
+    "completion": "Helsinki",
+    "country": "Finland",
+    "capital": "Helsinki",
+    "template": "In geography textbooks, students learn that the capital of {country} is"
+  },
+  {
+    "instance_id": 13,
+    "query": "Kenya's capital city is",
+    "completion": "Nairobi",
+    "country": "Kenya",
+    "capital": "Nairobi",
+    "template": "{country}'s capital city is"
+  },
+  {
+    "instance_id": 14,
+    "query": "Historically, the city chosen as the capital of Peru was",
+    "completion": "Lima",
+    "country": "Peru",
+    "capital": "Lima",
+    "template": "Historically, the city chosen as the capital of {country} was"
+  },
+  {
+    "instance_id": 15,
+    "query": "The seat of government and political heart of Australia is located in",
+    "completion": "Canberra",
+    "country": "Australia",
+    "capital": "Canberra",
+    "template": "The seat of government and political heart of {country} is located in"
+  },
+  {
+    "instance_id": 16,
+    "query": "Historically, the city chosen as the capital of Greece was",
+    "completion": "Athens",
+    "country": "Greece",
+    "capital": "Athens",
+    "template": "Historically, the city chosen as the capital of {country} was"
+  },
+  {
+    "instance_id": 17,
+    "query": "Tourists visiting Hungary for the first time often begin their trip in",
+    "completion": "Budapest",
+    "country": "Hungary",
+    "capital": "Budapest",
+    "template": "Tourists visiting {country} for the first time often begin their trip in"
+  },
+  {
+    "instance_id": 18,
+    "query": "Since gaining independence, Vietnam has been governed from",
+    "completion": "Hanoi",
+    "country": "Vietnam",
+    "capital": "Hanoi",
+    "template": "Since gaining independence, {country} has been governed from"
+  },
+  {
+    "instance_id": 19,
+    "query": "Historically, the city chosen as the capital of China was",
+    "completion": "Beijing",
+    "country": "China",
+    "capital": "Beijing",
+    "template": "Historically, the city chosen as the capital of {country} was"
+  },
+  {
+    "instance_id": 20,
+    "query": "Since gaining independence, Ethiopia has been governed from",
+    "completion": "Addis",
+    "country": "Ethiopia",
+    "capital": "Addis",
+    "template": "Since gaining independence, {country} has been governed from"
+  },
+  {
+    "instance_id": 21,
+    "query": "The city where Iceland's national flag flies above the parliament is",
+    "completion": "Reykjavik",
+    "country": "Iceland",
+    "capital": "Reykjavik",
+    "template": "The city where {country}'s national flag flies above the parliament is"
+  },
+  {
+    "instance_id": 22,
+    "query": "All official state ceremonies of Israel take place in its capital,",
+    "completion": "Jerusalem",
+    "country": "Israel",
+    "capital": "Jerusalem",
+    "template": "All official state ceremonies of {country} take place in its capital,"
+  },
+  {
+    "instance_id": 23,
+    "query": "Turkey's capital city is",
+    "completion": "Ankara",
+    "country": "Turkey",
+    "capital": "Ankara",
+    "template": "{country}'s capital city is"
+  },
+  {
+    "instance_id": 24,
+    "query": "Since gaining independence, Bangladesh has been governed from",
+    "completion": "Dhaka",
+    "country": "Bangladesh",
+    "capital": "Dhaka",
+    "template": "Since gaining independence, {country} has been governed from"
+  },
+  {
+    "instance_id": 25,
+    "query": "Foreign ambassadors accredited to Morocco are stationed in",
+    "completion": "Rabat",
+    "country": "Morocco",
+    "capital": "Rabat",
+    "template": "Foreign ambassadors accredited to {country} are stationed in"
+  },
+  {
+    "instance_id": 26,
+    "query": "The seat of government and political heart of Spain is located in",
+    "completion": "Madrid",
+    "country": "Spain",
+    "capital": "Madrid",
+    "template": "The seat of government and political heart of {country} is located in"
+  },
+  {
+    "instance_id": 27,
+    "query": "Since gaining independence, Denmark has been governed from",
+    "completion": "Copenhagen",
+    "country": "Denmark",
+    "capital": "Copenhagen",
+    "template": "Since gaining independence, {country} has been governed from"
+  },
+  {
+    "instance_id": 28,
+    "query": "Tourists visiting Slovakia for the first time often begin their trip in",
+    "completion": "Bratislava",
+    "country": "Slovakia",
+    "capital": "Bratislava",
+    "template": "Tourists visiting {country} for the first time often begin their trip in"
+  },
+  {
+    "instance_id": 29,
+    "query": "The city where Austria's national flag flies above the parliament is",
+    "completion": "Vienna",
+    "country": "Austria",
+    "capital": "Vienna",
+    "template": "The city where {country}'s national flag flies above the parliament is"
+  },
+  {
+    "instance_id": 30,
+    "query": "When you fly into Italy to meet with its government, you land in",
+    "completion": "Rome",
+    "country": "Italy",
+    "capital": "Rome",
+    "template": "When you fly into {country} to meet with its government, you land in"
+  },
+  {
+    "instance_id": 31,
+    "query": "Tourists visiting Iraq for the first time often begin their trip in",
+    "completion": "Baghdad",
+    "country": "Iraq",
+    "capital": "Baghdad",
+    "template": "Tourists visiting {country} for the first time often begin their trip in"
+  },
+  {
+    "instance_id": 32,
+    "query": "When you fly into Indonesia to meet with its government, you land in",
+    "completion": "Jakarta",
+    "country": "Indonesia",
+    "capital": "Jakarta",
+    "template": "When you fly into {country} to meet with its government, you land in"
+  },
+  {
+    "instance_id": 33,
+    "query": "The capital of Iran is",
+    "completion": "Tehran",
+    "country": "Iran",
+    "capital": "Tehran",
+    "template": "The capital of {country} is"
+  },
+  {
+    "instance_id": 34,
+    "query": "Since gaining independence, Jordan has been governed from",
+    "completion": "Amman",
+    "country": "Jordan",
+    "capital": "Amman",
+    "template": "Since gaining independence, {country} has been governed from"
+  },
+  {
+    "instance_id": 35,
+    "query": "According to the world atlas, the capital of Norway is listed as",
+    "completion": "Oslo",
+    "country": "Norway",
+    "capital": "Oslo",
+    "template": "According to the world atlas, the capital of {country} is listed as"
+  },
+  {
+    "instance_id": 36,
+    "query": "The city where Malaysia's national flag flies above the parliament is",
+    "completion": "Kuala",
+    "country": "Malaysia",
+    "capital": "Kuala",
+    "template": "The city where {country}'s national flag flies above the parliament is"
+  },
+  {
+    "instance_id": 37,
+    "query": "All official state ceremonies of Canada take place in its capital,",
+    "completion": "Ottawa",
+    "country": "Canada",
+    "capital": "Ottawa",
+    "template": "All official state ceremonies of {country} take place in its capital,"
+  },
+  {
+    "instance_id": 38,
+    "query": "Argentina's capital city is",
+    "completion": "Buenos",
+    "country": "Argentina",
+    "capital": "Buenos",
+    "template": "{country}'s capital city is"
+  },
+  {
+    "instance_id": 39,
+    "query": "Chile's capital city is",
+    "completion": "Santiago",
+    "country": "Chile",
+    "capital": "Santiago",
+    "template": "{country}'s capital city is"
+  },
+  {
+    "instance_id": 40,
+    "query": "According to the world atlas, the capital of Nigeria is listed as",
+    "completion": "Abuja",
+    "country": "Nigeria",
+    "capital": "Abuja",
+    "template": "According to the world atlas, the capital of {country} is listed as"
+  },
+  {
+    "instance_id": 41,
+    "query": "When you fly into Tunisia to meet with its government, you land in",
+    "completion": "Tunis",
+    "country": "Tunisia",
+    "capital": "Tunis",
+    "template": "When you fly into {country} to meet with its government, you land in"
+  },
+  {
+    "instance_id": 42,
+    "query": "When you fly into Germany to meet with its government, you land in",
+    "completion": "Berlin",
+    "country": "Germany",
+    "capital": "Berlin",
+    "template": "When you fly into {country} to meet with its government, you land in"
+  },
+  {
+    "instance_id": 43,
+    "query": "The capital of France is",
+    "completion": "Paris",
+    "country": "France",
+    "capital": "Paris",
+    "template": "The capital of {country} is"
+  },
+  {
+    "instance_id": 44,
+    "query": "Albania's capital city is",
+    "completion": "Tirana",
+    "country": "Albania",
+    "capital": "Tirana",
+    "template": "{country}'s capital city is"
+  },
+  {
+    "instance_id": 45,
+    "query": "In geography textbooks, students learn that the capital of Romania is",
+    "completion": "Bucharest",
+    "country": "Romania",
+    "capital": "Bucharest",
+    "template": "In geography textbooks, students learn that the capital of {country} is"
+  },
+  {
+    "instance_id": 46,
+    "query": "Historically, the city chosen as the capital of Switzerland was",
+    "completion": "Bern",
+    "country": "Switzerland",
+    "capital": "Bern",
+    "template": "Historically, the city chosen as the capital of {country} was"
+  },
+  {
+    "instance_id": 47,
+    "query": "According to the world atlas, the capital of Portugal is listed as",
+    "completion": "Lisbon",
+    "country": "Portugal",
+    "capital": "Lisbon",
+    "template": "According to the world atlas, the capital of {country} is listed as"
+  },
+  {
+    "instance_id": 48,
+    "query": "Foreign ambassadors accredited to Slovenia are stationed in",
+    "completion": "Ljubljana",
+    "country": "Slovenia",
+    "capital": "Ljubljana",
+    "template": "Foreign ambassadors accredited to {country} are stationed in"
+  },
+  {
+    "instance_id": 49,
+    "query": "In geography textbooks, students learn that the capital of Latvia is",
+    "completion": "Riga",
+    "country": "Latvia",
+    "capital": "Riga",
+    "template": "In geography textbooks, students learn that the capital of {country} is"
+  }
+]

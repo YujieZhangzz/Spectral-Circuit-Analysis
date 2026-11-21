@@ -1,0 +1,91 @@
+# configs/gpt2_small_gt.yaml
+# Greater-Than task on GPT-2-small (Hanna et al. 2023).
+#
+# Knockout CSV schema: clean, corrupted, correct_idx, where correct_idx is the
+# 2-digit year YY (0..99), not a token id.
+#   metric = prob_diff = Σ p(YY > YY₀) − Σ p(YY ≤ YY₀)
+
+# Experiment
+experiment:
+  name: gpt2_small_gt_price_N100_M5_linear
+  seed: 42
+
+# Model
+model:
+  name_or_path: gpt2
+  torch_dtype:  bfloat16
+  device:       cuda:0
+  arch:         auto
+
+# Parameter scope
+params:
+  scope:            attn_VO_mlp
+  include_mlp:      true
+  attn_projections: [V, O]
+
+# Data
+# Greater-than-price paraphrase JSON: 200 entries, 5 paraphrases each. run.py
+# uses it with the prob_diff loss (make_gt_prob_diff_loss_fn); run_knockout.py
+# reads knockout.data_csv instead.
+data:
+  format:      gt
+  path:        data/gt_price_sampled_gpt2_200_paraphrases.json
+  source:      paraphrases                  # ignored for gt
+  N:           100
+  M:           5
+  max_seq_len: 256
+
+heatmap:
+  chunk_size: 1_000_000
+  enabled: false
+
+sc:
+  threshold:   0.7
+  top_pct:     30
+  accum_dtype: int8
+
+collector:
+  metric:         ce
+  store_grad_avg: true
+
+block:
+  strategy:       layer_attn_mlp
+  sim_threshold:  null
+  min_dims:       100
+  min_block_size: 4
+
+svd:
+  eta:             0.95
+  gram_chunk_size: 5_000_000
+
+gradient_heatmap:
+
+# Knockout: head-level faithfulness sweep (run_knockout.py)
+knockout:
+  # weight-subspace knockout (not used by run_knockout.py)
+  n_random:             5
+  importance_threshold: 1.5
+  blocks: null
+
+  # head-level faithfulness sweep (run_knockout.py)
+  data_csv:    eap_data/greater-than-price/sampled_all_gpt2_200.csv
+  eap_ig_dir:  eap/
+  eap_ig_tag:  greater-than-price
+  # rankings read by run_knockout.py:
+  #     greater-than-price_vanilla_head_ranking.csv  (EAP)
+  #     greater-than-price_task_head_ranking.csv     (EAP-IG)
+  #     greater-than-price_kl_head_ranking.csv       (EAP-IG-KL)
+
+unit_svd:
+  enabled: true
+  eta:     0.95
+
+weighted_unit_svd:
+  enabled:         true
+  eta_inner:       0.95
+  importance_mode: consistency_share
+
+output:
+  base_dir:          results
+  save_intermediate: true
+  plot:              true

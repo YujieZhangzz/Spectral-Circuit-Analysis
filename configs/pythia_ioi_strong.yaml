@@ -1,0 +1,84 @@
+# configs/pythia_ioi_strong.yaml
+# Pythia-160m on IOI sampled paraphrases (200-instance pool).
+
+experiment:
+  name: pythia_ioi_strong_N100_M5
+  seed: 42
+
+model:
+  name_or_path: EleutherAI/pythia-160m
+  torch_dtype:  bfloat16
+  device:       cuda:0
+  arch:         auto
+
+params:
+  scope:            attn_VO_mlp
+  include_mlp:      true
+  attn_projections: [V, O]
+
+data:
+  format:      ioi_sampled
+  path:        data/ioi_sampled_pythia_200_paraphrases.json
+  source:      paraphrases      # ignored for ioi_sampled, kept for API consistency
+  N:           100
+  M:           5
+  max_seq_len: 256
+
+heatmap:
+  chunk_size: 1_000_000
+
+sc:
+  threshold:   0.7
+  top_pct:     20
+  accum_dtype: int8
+
+collector:
+  metric:          ce
+  store_grad_avg:  true
+  tmpdir: /dev/shm                # memmap temp dir; needs ~127 GB free
+
+block:
+  strategy: layer_attn_mlp           # similarity | layer_attn_mlp | layer_combined
+  sim_threshold:  null
+  min_dims:       100
+  min_block_size: 4
+
+svd:
+  eta:             0.95
+  gram_chunk_size: 5_000_000
+
+knockout:
+  # weight-subspace knockout (spectral/verify_knockout.py)
+  n_random:             5
+  importance_threshold: 1.5
+  blocks: null
+
+  # head-level faithfulness sweep (run_knockout.py)
+  # clean/corrupted prompt pairs; must be the dataset the EAP rankings were
+  # computed on.
+  data_csv:    eap_data/ioi/sampled_all_pythia_200.csv
+  # EAP / EAP-IG head rankings, produced with EAP-IG
+  # (https://github.com/hannamw/EAP-IG) and included in eap_pythia160/
+  eap_ig_dir:  eap_pythia160/
+  # ranking file prefix: {tag}_{vanilla,task,kl}_head_ranking.csv
+  eap_ig_tag:  ioi
+
+unit_svd:
+  enabled: true
+  eta:     0.95
+
+weighted_unit_svd:
+  enabled:          true
+  eta_inner:        0.95
+  # sigma_weighted    : importance = ||M_u||_F² (not comparable across blocks)
+  # consistency_share : importance = consistency(layer) × ||U_B[idx_u,:]||_F²
+  importance_mode:  consistency_share
+
+direct_unit_svd:
+  enabled: true
+  eta:     0.95   # effective rank threshold per unit
+
+output:
+  base_dir:          results
+  save_intermediate: true
+  plot:              true

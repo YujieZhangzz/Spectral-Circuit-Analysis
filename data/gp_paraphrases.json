@@ -1,0 +1,2702 @@
+[
+  {
+    "original": {
+      "query": "Upon hearing the news, Gary felt that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After receiving the news, Gary sensed that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When Gary learned about the news, he sensed that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After receiving the update, Gary sensed that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When Gary learned the news, he experienced a feeling that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After receiving the information, Gary experienced a sense of",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Gary",
+      "gender": "male",
+      "template": "Upon hearing the news, {name} felt that"
+    }
+  },
+  {
+    "original": {
+      "query": "Upon hearing the news, Joshua felt that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "When Joshua got the news, he experienced a feeling that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon hearing the news, Joshua felt that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After learning about the information, Joshua experienced a sense of",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon hearing the news, Joshua felt that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "When Joshua received the news, he sensed that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Joshua",
+      "gender": "male",
+      "template": "Upon hearing the news, {name} felt that"
+    }
+  },
+  {
+    "original": {
+      "query": "During the presentation, Thomas paused and then",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "While delivering his presentation, Thomas took a moment to stop and then,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At the time of the presentation, Thomas took a momentary break and subsequently,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the course of the presentation, Thomas took a momentary break and subsequently,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the course of the presentation, Thomas took a moment of silence and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the course of the presentation, Thomas took a moment of silence and subsequently, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Thomas",
+      "gender": "male",
+      "template": "During the presentation, {name} paused and then"
+    }
+  },
+  {
+    "original": {
+      "query": "During the presentation, Margaret paused and then",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "request: While giving her presentation, Margaret took a moment to stop and then, result: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the course of her presentation, Margaret took a moment to stop and then,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While delivering her talk, Margaret took a momentary break and subsequently, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While delivering her talk, Margaret took a momentary break and subsequently, completion:",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While delivering her presentation, Margaret took a momentary pause and then, continuation: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Margaret",
+      "gender": "female",
+      "template": "During the presentation, {name} paused and then"
+    }
+  },
+  {
+    "original": {
+      "query": "Once the meeting ended, Betty turned and said",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After the meeting concluded, Betty faced away and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Betty faced her and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Betty faced and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Betty faced her and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Betty pivoted and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Betty",
+      "gender": "female",
+      "template": "Once the meeting ended, {name} turned and said"
+    }
+  },
+  {
+    "original": {
+      "query": "While reading the letter, David thought that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As David was perusing the letter, he pondered that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As David went through the letter, he considered that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While reading the letter, David thought that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "As he perused the message, David considered that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While reading the letter, David thought that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": true
+        }
+      }
+    ],
+    "meta": {
+      "name": "David",
+      "gender": "male",
+      "template": "While reading the letter, {name} thought that"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, Patricia said that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Following the lengthy discussion, Patricia expressed that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "after an extensive discussion, Patricia remarked that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the long meeting, Patricia said that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After the long meeting, Patricia said that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Patricia remarked that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Patricia",
+      "gender": "female",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "While reading the letter, Paul thought that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "While reading the letter, Paul thought that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": true
+        }
+      },
+      {
+        "query": "As he perused the correspondence, Paul reflected that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Paul went through the letter, he considered that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Paul perused the letter, he considered that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While reading the letter, Paul thought that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": true
+        }
+      }
+    ],
+    "meta": {
+      "name": "Paul",
+      "gender": "male",
+      "template": "While reading the letter, {name} thought that"
+    }
+  },
+  {
+    "original": {
+      "query": "Having worked all day, Edward came home and",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After a long day of work, Edward returned to his home and,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After spending the entire day at work, Edward returned home and",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After a long day at work, Edward arrived home and",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Having worked all day, Edward came home and",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After a full day of work, Edward returned home and, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Edward",
+      "gender": "male",
+      "template": "Having worked all day, {name} came home and"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, Richard said that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Following the extended discussion, Richard remarked that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the lengthy meeting, Richard stated that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the long meeting, Richard said that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the extended discussion, Richard remarked that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the aftermath of the lengthy discussion, Richard remarked that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Richard",
+      "gender": "male",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "Upon hearing the news, Sarah felt that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Upon receiving the information, Sarah sensed that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After receiving the news, Sarah experienced a sensation that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon hearing the news, Sarah felt that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "When Sarah learned of the news, she sensed that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When Sarah received the information, she experienced that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Sarah",
+      "gender": "female",
+      "template": "Upon hearing the news, {name} felt that"
+    }
+  },
+  {
+    "original": {
+      "query": "Having worked all day, Ronald came home and",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After spending the entire day at work, Ronald returned home and, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After a long day's work, Ronald returned home and, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Having worked all day, Ronald came home and",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After a long day at work, Ronald returned home and",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After a long day at work, Ronald returned home and,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Ronald",
+      "gender": "male",
+      "template": "Having worked all day, {name} came home and"
+    }
+  },
+  {
+    "original": {
+      "query": "During the presentation, Ryan paused and then",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Throughout the presentation, Ryan took a break and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While delivering his talk, Ryan took a momentary break and subsequently, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While presenting, Ryan took a break and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At one point in the presentation, Ryan stopped briefly and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the midst of the presentation, Ryan took a moment to stop, and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Ryan",
+      "gender": "male",
+      "template": "During the presentation, {name} paused and then"
+    }
+  },
+  {
+    "original": {
+      "query": "While reading the letter, Anthony thought that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As Anthony perused the letter, he considered that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While reading the letter, Anthony thought that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": true
+        }
+      },
+      {
+        "query": "As he perused the letter, Anthony considered that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While reading the letter, Anthony thought that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "As Anthony went through the letter, he reflected that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Anthony",
+      "gender": "male",
+      "template": "While reading the letter, {name} thought that"
+    }
+  },
+  {
+    "original": {
+      "query": "Walking into the room, James realized",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As James entered the room, it struck him,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As he entered the space, James became aware",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As James entered the room, he came to the understanding that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As he entered the room, James understood, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As he entered the room, James understood, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "James",
+      "gender": "male",
+      "template": "Walking into the room, {name} realized"
+    }
+  },
+  {
+    "original": {
+      "query": "Walking into the room, Carol realized",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As Carol entered the space, she became aware",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Carol entered the room, she understood,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Entering the space, Carol became aware",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Entering the space, Carol became aware",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Carol entered the room, she became aware that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Carol",
+      "gender": "female",
+      "template": "Walking into the room, {name} realized"
+    }
+  },
+  {
+    "original": {
+      "query": "When William got home,",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Upon William's arrival at his house,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon William’s arrival at home,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon William's arrival at his house,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the moment William arrived back at his house,,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "When William arrived back at his house,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "William",
+      "gender": "male",
+      "template": "When {name} got home,"
+    }
+  },
+  {
+    "original": {
+      "query": "Once the meeting ended, Ashley turned and said",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After the meeting was over, Ashley looked back and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Ashley faced away and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the session concluded, Ashley faced around and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Ashley looked back and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Ashley faced her companions and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Ashley",
+      "gender": "female",
+      "template": "Once the meeting ended, {name} turned and said"
+    }
+  },
+  {
+    "original": {
+      "query": "Before leaving the building, Michael said",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Prior to exiting the structure, Michael remarked,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Prior to exiting the building, Michael remarked,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Prior to exiting the premises, Michael mentioned,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Prior to exiting the building, Michael remarked,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Prior to departing the premises, Michael mentioned,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Michael",
+      "gender": "male",
+      "template": "Before leaving the building, {name} said"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, Linda said that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Following the lengthy discussion, Linda mentioned that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At the conclusion of the lengthy meeting, Linda remarked that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Linda remarked that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the long meeting, Linda said that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Linda remarked that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Linda",
+      "gender": "female",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "Once the meeting ended, Jason turned and said",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After the meeting was over, Jason turned around and remarked,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Jason looked back and remarked,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Jason faced around and remarked,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the conclusion of the meeting, Jason pivoted and remarked,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting was over, Jason looked back and remarked,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Jason",
+      "gender": "male",
+      "template": "Once the meeting ended, {name} turned and said"
+    }
+  },
+  {
+    "original": {
+      "query": "Walking into the room, Emily realized",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Entering the space, Emily became aware",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Emily entered the space, she became aware of the situation,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Emily entered the room, she became aware that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As she entered the room, Emily became aware that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Emily entered the room, it dawned on her,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Emily",
+      "gender": "female",
+      "template": "Walking into the room, {name} realized"
+    }
+  },
+  {
+    "original": {
+      "query": "While reading the letter, Nicholas thought that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As Nicholas perused the letter, he reflected that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While reading the letter, Nicholas thought that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": true
+        }
+      },
+      {
+        "query": "As Nicholas went through the letter, he considered that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Nicholas perused the letter, he contemplated that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While reading the letter, Nicholas thought that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": true
+        }
+      }
+    ],
+    "meta": {
+      "name": "Nicholas",
+      "gender": "male",
+      "template": "While reading the letter, {name} thought that"
+    }
+  },
+  {
+    "original": {
+      "query": "Yesterday at the office, Mary mentioned that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "At the workplace yesterday, Mary brought up that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At the workplace yesterday, Mary brought up that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At the office yesterday, Mary brought up that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At the office yesterday, Mary brought up that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the office yesterday, Mary brought up that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Mary",
+      "gender": "female",
+      "template": "Yesterday at the office, {name} mentioned that"
+    }
+  },
+  {
+    "original": {
+      "query": "While reading the letter, Cynthia thought that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As Cynthia read the letter, she contemplated that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Cynthia perused the letter, she pondered that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While reading the letter, Cynthia thought that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "While reading the letter, Cynthia thought that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "As Cynthia read through the letter, she considered that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Cynthia",
+      "gender": "female",
+      "template": "While reading the letter, {name} thought that"
+    }
+  },
+  {
+    "original": {
+      "query": "After finishing the report, Mark decided that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Upon completing the report, Mark made the decision that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon concluding the report, Mark made the decision that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Once he completed the report, Mark made the choice that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Once the report was completed, Mark concluded that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Once Mark had completed the report, he resolved that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Mark",
+      "gender": "male",
+      "template": "After finishing the report, {name} decided that"
+    }
+  },
+  {
+    "original": {
+      "query": "When Robert got home,",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "What happened when Robert returned to his house?",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon arriving at home, Robert",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon Robert's arrival at his house,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Question: Upon his arrival home, what happened to Robert?",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon arriving home, Robert",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Robert",
+      "gender": "male",
+      "template": "When {name} got home,"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, George said that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After the long meeting, George said that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the lengthy meeting, George mentioned that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, George remarked that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the long meeting, George said that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After the long meeting, George said that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": true
+        }
+      }
+    ],
+    "meta": {
+      "name": "George",
+      "gender": "male",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "Yesterday at the office, Melissa mentioned that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "At the office yesterday, Melissa brought up that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At the workplace yesterday, Melissa brought up that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At the workplace yesterday, Melissa brought up that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Yesterday, at work, Melissa brought up that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At the office yesterday, Melissa brought up that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Melissa",
+      "gender": "female",
+      "template": "Yesterday at the office, {name} mentioned that"
+    }
+  },
+  {
+    "original": {
+      "query": "Once the meeting ended, Stephanie turned and said",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After the meeting concluded, Stephanie pivoted and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Stephanie faced away and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Stephanie pivoted and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting concluded, Stephanie pivoted and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the meeting was over, Stephanie faced back and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Stephanie",
+      "gender": "female",
+      "template": "Once the meeting ended, {name} turned and said"
+    }
+  },
+  {
+    "original": {
+      "query": "Walking into the room, Beth realized",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As she entered the space, Beth understood,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Beth entered the space, she became aware,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Walking into the room, Beth realized",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "As Beth entered the room, she became aware of",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Beth entered the room, she came to the realization that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Beth",
+      "gender": "female",
+      "template": "Walking into the room, {name} realized"
+    }
+  },
+  {
+    "original": {
+      "query": "When Kevin got home,",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "What happened when Kevin arrived at his house?",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What happened when Kevin arrived at his house?",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the moment Kevin returned home,,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What happened when Kevin arrived back at his house?",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon Kevin’s arrival at his house,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Kevin",
+      "gender": "male",
+      "template": "When {name} got home,"
+    }
+  },
+  {
+    "original": {
+      "query": "Having worked all day, Barbara came home and",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Having worked all day, Barbara came home and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Having worked all day, Barbara came home and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After a long day at work, Barbara returned home and,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After a long day of work, Barbara returned to her house and,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After spending the entire day at work, Barbara returned home and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Barbara",
+      "gender": "female",
+      "template": "Having worked all day, {name} came home and"
+    }
+  },
+  {
+    "original": {
+      "query": "During the presentation, John paused and then",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "While giving his presentation, John took a moment to pause and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the course of the presentation, John took a momentary break and subsequently,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While presenting, John took a momentary pause and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While giving his presentation, John took a moment of silence and then,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While delivering his talk, John took a momentary break and subsequently,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "John",
+      "gender": "male",
+      "template": "During the presentation, {name} paused and then"
+    }
+  },
+  {
+    "original": {
+      "query": "When the phone rang, Sharon answered and said",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As the phone rang, Sharon picked it up and stated,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As soon as the telephone rang, Sharon picked it up and responded,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As soon as the phone started ringing, Sharon picked it up and mentioned,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As soon as the phone started ringing, Sharon picked it up and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As soon as the telephone rang, Sharon picked it up and remarked,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Sharon",
+      "gender": "female",
+      "template": "When the phone rang, {name} answered and said"
+    }
+  },
+  {
+    "original": {
+      "query": "Having worked all day, Amanda came home and",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After a full day of work, Amanda returned home and, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After a long day's work, Amanda returned home and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After a long day at work, Amanda returned to her house and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After spending the entire day at work, Amanda returned home and,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Having worked all day, Amanda came home and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": true
+        }
+      }
+    ],
+    "meta": {
+      "name": "Amanda",
+      "gender": "female",
+      "template": "Having worked all day, {name} came home and"
+    }
+  },
+  {
+    "original": {
+      "query": "During the presentation, Kathleen paused and then",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "While giving her presentation, Kathleen took a momentary break and then, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "During her presentation, Kathleen took a moment to pause and then, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While giving her talk, Kathleen took a break and then,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "In the course of her presentation, Kathleen took a momentary pause and subsequently, completion:",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "At one point in her presentation, Kathleen took a moment to stop, and after that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Kathleen",
+      "gender": "female",
+      "template": "During the presentation, {name} paused and then"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, Sandra said that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After the long meeting, Sandra said that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After the long meeting, Sandra said that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the extended discussion, Sandra remarked that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the long meeting, Sandra said that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Sandra mentioned that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Sandra",
+      "gender": "female",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "When Jennifer got home,",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "ask: Upon arriving at her house,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon Jennifer's arrival at her house,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon Jennifer's arrival at her house,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After Jennifer returned to her house,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon arriving home, Jennifer",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Jennifer",
+      "gender": "female",
+      "template": "When {name} got home,"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, Kimberly said that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Following the lengthy discussion, Kimberly remarked that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the extended discussion, Kimberly remarked that, conclusion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the lengthy meeting, Kimberly remarked that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the extended meeting, Kimberly mentioned that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the long meeting, Kimberly said that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": true
+        }
+      }
+    ],
+    "meta": {
+      "name": "Kimberly",
+      "gender": "female",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "During the presentation, Timothy paused and then",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "While presenting, Timothy took a momentary break and then,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Throughout the presentation, Timothy took a moment to stop and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "During the talk, Timothy took a moment to stop and then,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While presenting, Timothy took a moment to pause and then, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "While presenting, Timothy took a momentary break and subsequently, completion:",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Timothy",
+      "gender": "male",
+      "template": "During the presentation, {name} paused and then"
+    }
+  },
+  {
+    "original": {
+      "query": "Walking into the room, Karen realized",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "As Karen stepped into the room, she understood,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Karen stepped into the room, she suddenly understood,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon entering the room, Karen understood",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Karen entered the room, she became aware that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Entering the space, Karen understood",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Karen",
+      "gender": "female",
+      "template": "Walking into the room, {name} realized"
+    }
+  },
+  {
+    "original": {
+      "query": "Having worked all day, Eric came home and",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After spending the entire day at work, Eric returned home and,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After a long day at work, Eric returned home and",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Having worked all day, Eric came home and",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Having worked all day, Eric came home and",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After a full day of work, Eric returned home and,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Eric",
+      "gender": "male",
+      "template": "Having worked all day, {name} came home and"
+    }
+  },
+  {
+    "original": {
+      "query": "Having worked all day, Deborah came home and",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After a long day at work, Deborah returned home and,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After a long day's work, Deborah returned to her house and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Having worked all day, Deborah came home and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Having worked all day, Deborah came home and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After a long day at work, Deborah returned home and",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Deborah",
+      "gender": "female",
+      "template": "Having worked all day, {name} came home and"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, Andrew said that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "After the long meeting, Andrew said that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": true
+        }
+      },
+      {
+        "query": "After the long meeting, Andrew said that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Andrew mentioned that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the long meeting, Andrew said that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Andrew mentioned that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Andrew",
+      "gender": "male",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "After finishing the report, Lisa decided that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Once Lisa completed the report, she resolved that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon completing the report, Lisa made the decision that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Once she completed the report, Lisa made the choice that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon concluding the report, Lisa concluded that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon concluding the report, Lisa came to the conclusion that, completion: she",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Lisa",
+      "gender": "female",
+      "template": "After finishing the report, {name} decided that"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, Jeffrey said that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "request: Following the extensive discussion, Jeffrey remarked that, conclusion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Jeffrey remarked that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the extended meeting, Jeffrey remarked that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the lengthy meeting, Jeffrey mentioned that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Jeffrey remarked that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Jeffrey",
+      "gender": "male",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "While reading the letter, Donna thought that",
+      "completion": "she"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "While reading the letter, Donna thought that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": true
+        }
+      },
+      {
+        "query": "While reading the letter, Donna thought that",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": true
+        }
+      },
+      {
+        "query": "As Donna perused the letter, she considered that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Donna read the letter, she reflected that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "As Donna perused the message, she contemplated that,",
+        "completion": "she",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Donna",
+      "gender": "female",
+      "template": "While reading the letter, {name} thought that"
+    }
+  },
+  {
+    "original": {
+      "query": "After the long meeting, Brian said that",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Following the lengthy discussion, Brian remarked that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Following the lengthy discussion, Brian remarked that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "in the aftermath of the lengthy discussion, Brian remarked that, completion: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "After the long meeting, Brian said that",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Following the extensive meeting, Brian remarked that,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Brian",
+      "gender": "male",
+      "template": "After the long meeting, {name} said that"
+    }
+  },
+  {
+    "original": {
+      "query": "When Kenneth got home,",
+      "completion": "he"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Upon Kenneth’s arrival at his house,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon Kenneth’s arrival at his residence,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "question: Upon Kenneth's arrival home,, answer: he",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon Kenneth's arrival at his house,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Upon Kenneth's arrival at home,",
+        "completion": "he",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "name": "Kenneth",
+      "gender": "male",
+      "template": "When {name} got home,"
+    }
+  }
+]

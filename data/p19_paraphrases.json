@@ -1,0 +1,2802 @@
+[
+  {
+    "original": {
+      "query": "Simon Louvish originates from",
+      "completion": "Glasgow"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where does Simon Louvish come from?",
+        "completion": "Glasgow",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The birthplace of Simon Louvish is",
+        "completion": "Glasgow",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Simon Louvish is from",
+        "completion": "Glasgow",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Simon Louvish come from?",
+        "completion": "Glasgow",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "the place where Simon Louvish hails from",
+        "completion": "Glasgow",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Simon Louvish",
+      "obj": "Glasgow",
+      "template": "[X] originates from",
+      "uuid": "f1c384b5-b39a-44e9-8a80-62b034aa7b52",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Mark Strong is native to",
+      "completion": "London"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Mark Strong hails from",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Mark Strong originates from",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Mark Strong originates from",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Mark Strong hails from",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Mark Strong originates from",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Mark Strong",
+      "obj": "London",
+      "template": "[X] is native to",
+      "uuid": "10ca87c8-3123-4af5-abc7-464300442049",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Carsten Dahl originates from",
+      "completion": "Copenhagen"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where Carsten Dahl is from",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where is Carsten Dahl from?",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where Carsten Dahl is from",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where is Carsten Dahl from?",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Carsten Dahl is from",
+        "completion": "Copenhagen",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Carsten Dahl",
+      "obj": "Copenhagen",
+      "template": "[X] originates from",
+      "uuid": "25f31bd5-2c00-414d-b58b-a91e47d70ad4",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Gary Scelzi is native to",
+      "completion": "Fresno"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where is Gary Scelzi originally from?",
+        "completion": "Fresno",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Gary Scelzi originates from",
+        "completion": "Fresno",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Gary Scelzi hails from",
+        "completion": "Fresno",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Gary Scelzi hails from",
+        "completion": "Fresno",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What place is Gary Scelzi originally from?",
+        "completion": "Fresno",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Gary Scelzi",
+      "obj": "Fresno",
+      "template": "[X] is native to",
+      "uuid": "a37673f6-7dc5-4d46-b4d5-5f3d1db88a91",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Larry Stabbins was born in",
+      "completion": "Bristol"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Larry Stabbins came into the world in",
+        "completion": "Bristol",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where was Larry Stabbins born?",
+        "completion": "Bristol",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Larry Stabbins was born in which location?",
+        "completion": "Bristol",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Larry Stabbins was born in the city of",
+        "completion": "Bristol",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Larry Stabbins was born in what city?",
+        "completion": "Bristol",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Larry Stabbins",
+      "obj": "Bristol",
+      "template": "[X] was born in",
+      "uuid": "0aa5c330-87a4-4a42-89cc-2881a25c9989",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Big Gipp was originally from",
+      "completion": "Atlanta"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Big Gipp’s place of origin is",
+        "completion": "Atlanta",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Big Gipp's place of origin is",
+        "completion": "Atlanta",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Big Gipp hails from",
+        "completion": "Atlanta",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Big Gipp's place of origin was",
+        "completion": "Atlanta",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Big Gipp's place of origin is",
+        "completion": "Atlanta",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Big Gipp",
+      "obj": "Atlanta",
+      "template": "[X] was originally from",
+      "uuid": "6ec1de78-10a4-4070-9311-a1e7ef0e2e6a",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Hartmut Mehdorn was native to",
+      "completion": "Warsaw"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Hartmut Mehdorn's place of origin was",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Hartmut Mehdorn originated from",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Hartmut Mehdorn hailed from",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Hartmut Mehdorn originated from",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Hartmut Mehdorn hailed from",
+        "completion": "Warsaw",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Hartmut Mehdorn",
+      "obj": "Warsaw",
+      "template": "[X] was native to",
+      "uuid": "89df5d2b-4c0e-4ac5-95bc-5771e6267165",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Wilfrid Pelletier is native to",
+      "completion": "Montreal"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Wilfrid Pelletier hails from,",
+        "completion": "Montreal",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where is Wilfrid Pelletier originally from?",
+        "completion": "Montreal",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Wilfrid Pelletier hails from",
+        "completion": "Montreal",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Wilfrid Pelletier hails from,",
+        "completion": "Montreal",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Wilfrid Pelletier originates from",
+        "completion": "Montreal",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Wilfrid Pelletier",
+      "obj": "Montreal",
+      "template": "[X] is native to",
+      "uuid": "60c62e35-2c9f-45bf-a10c-921117ad1cae",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Claudio Abbado is native to",
+      "completion": "Milan"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where is Claudio Abbado originally from?",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Claudio Abbado originates from",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Claudio Abbado hails from",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Claudio Abbado originates from",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where is Claudio Abbado originally from?",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Claudio Abbado",
+      "obj": "Milan",
+      "template": "[X] is native to",
+      "uuid": "5317219c-70d3-4c61-9b50-6649df9629b0",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Prabhu Ganesan originates from",
+      "completion": "Chennai"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where does Prabhu Ganesan come from?",
+        "completion": "Chennai",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Prabhu Ganesan come from?",
+        "completion": "Chennai",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Prabhu Ganesan hail from?",
+        "completion": "Chennai",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Prabhu Ganesan come from?",
+        "completion": "Chennai",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Prabhu Ganesan come from?",
+        "completion": "Chennai",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Prabhu Ganesan",
+      "obj": "Chennai",
+      "template": "[X] originates from",
+      "uuid": "25c39d6b-bcf2-4f03-b56b-4dc18bd25f66",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Carlos Zingaro originates from",
+      "completion": "Lisbon"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where Carlos Zingaro comes from,",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where is Carlos Zingaro from?",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Carlos Zingaro come from?",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where Carlos Zingaro comes from",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "where Carlos Zingaro is from",
+        "completion": "Lisbon",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Carlos Zingaro",
+      "obj": "Lisbon",
+      "template": "[X] originates from",
+      "uuid": "c1952c1d-c489-4286-af3f-6c31cb1a1d33",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Scott Sorry was originally from",
+      "completion": "Philadelphia"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where did Scott Sorry originate from?",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Scott Sorry originate from?",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Scott Sorry come from originally?",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "where Scott Sorry originated from",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Scott Sorry's place of origin was",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Scott Sorry",
+      "obj": "Philadelphia",
+      "template": "[X] was originally from",
+      "uuid": "eb892af6-7683-47fd-9fd0-8ffcc5f5f49d",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Damon Che is native to",
+      "completion": "Pittsburgh"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Damon Che hails from",
+        "completion": "Pittsburgh",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Damon Che originates from",
+        "completion": "Pittsburgh",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What city is Damon Che originally from?",
+        "completion": "Pittsburgh",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Damon Che originates from",
+        "completion": "Pittsburgh",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Damon Che originates from",
+        "completion": "Pittsburgh",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Damon Che",
+      "obj": "Pittsburgh",
+      "template": "[X] is native to",
+      "uuid": "2bacce8d-7b2e-4949-ba0c-619db72ca8ca",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Spike Hughes was originally from",
+      "completion": "London"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where did Spike Hughes originate from?",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Spike Hughes originate from?",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Spike Hughes hailed from",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Spike Hughes originate from?",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Spike Hughes originate from?",
+        "completion": "London",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Spike Hughes",
+      "obj": "London",
+      "template": "[X] was originally from",
+      "uuid": "52950958-b29f-44a8-ae3e-bbe45321ad65",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Taft Jordan was native to",
+      "completion": "Florence"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Which place is Taft Jordan originally from?",
+        "completion": "Florence",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Taft Jordan originated from",
+        "completion": "Florence",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Taft Jordan originated from",
+        "completion": "Florence",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Taft Jordan hailed from",
+        "completion": "Florence",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Taft Jordan originated from,",
+        "completion": "Florence",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Taft Jordan",
+      "obj": "Florence",
+      "template": "[X] was native to",
+      "uuid": "8985c1ed-3fb3-4374-b255-a863833653d1",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Cathal Goulding is originally from",
+      "completion": "Dublin"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where does Cathal Goulding originate from?",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Cathal Goulding hail from?",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Cathal Goulding's place of origin is",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Cathal Goulding hails from",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Cathal Goulding come from?",
+        "completion": "Dublin",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Cathal Goulding",
+      "obj": "Dublin",
+      "template": "[X] is originally from",
+      "uuid": "db75a2a9-0990-4611-bfac-6fd3ed6af21b",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Torstein Aagaard-Nilsen was native to",
+      "completion": "Oslo"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Torstein Aagaard-Nilsen originated from",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Torstein Aagaard-Nilsen hailed from,",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Torstein Aagaard-Nilsen hailed from",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Torstein Aagaard-Nilsen hailed from",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Torstein Aagaard-Nilsen was originally from",
+        "completion": "Oslo",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Torstein Aagaard-Nilsen",
+      "obj": "Oslo",
+      "template": "[X] was native to",
+      "uuid": "b13b6e43-fd8f-4527-8277-60844c51e228",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Henri Estienne is originally from",
+      "completion": "Paris"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where did Henri Estienne originate from?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Henri Estienne's place of origin is",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Henri Estienne originate from?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Henri Estienne hail from?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Henri Estienne originate from?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Henri Estienne",
+      "obj": "Paris",
+      "template": "[X] is originally from",
+      "uuid": "b6a0ff2a-1da3-4514-ae79-940b1069a463",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Erik Lindahl was originally from",
+      "completion": "Stockholm"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Erik Lindahl hailed from",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Erik Lindahl originate from?",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Erik Lindahl originate from?",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Which city Erik Lindahl hailed from",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where was Erik Lindahl originally from?",
+        "completion": "Stockholm",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Erik Lindahl",
+      "obj": "Stockholm",
+      "template": "[X] was originally from",
+      "uuid": "8a25c9e9-001c-4e9f-8696-2473137b4602",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Alla Pavlova is originally from",
+      "completion": "Ukraine"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where is Alla Pavlova originally from?",
+        "completion": "Ukraine",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Alla Pavlova hail from?",
+        "completion": "Ukraine",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Alla Pavlova come from originally?",
+        "completion": "Ukraine",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Alla Pavlova come from?",
+        "completion": "Ukraine",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Alla Pavlova come from?",
+        "completion": "Ukraine",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Alla Pavlova",
+      "obj": "Ukraine",
+      "template": "[X] is originally from",
+      "uuid": "a09fdc8e-9cc3-4920-abba-d63856e25628",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Damian O'Flynn originates from",
+      "completion": "Boston"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where is Damian O'Flynn from?",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "where Damian O'Flynn comes from",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Damian O'Flynn come from?",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where Damian O'Flynn is from",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The birthplace of Damian O\\'Flynn is",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Damian O'Flynn",
+      "obj": "Boston",
+      "template": "[X] originates from",
+      "uuid": "0d672da8-e4f5-47e9-862f-370a4c4930ff",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Francisco Valls Galán was born in",
+      "completion": "Barcelona"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Francisco Valls Galán came into the world in",
+        "completion": "Barcelona",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Francisco Valls Galán was born in the city of",
+        "completion": "Barcelona",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Francisco Valls Galán came into the world in",
+        "completion": "Barcelona",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Francisco Valls Galán's birthplace is",
+        "completion": "Barcelona",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Francisco Valls Galán's place of birth is",
+        "completion": "Barcelona",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Francisco Valls Galán",
+      "obj": "Barcelona",
+      "template": "[X] was born in",
+      "uuid": "c91e8f7c-8285-4a2a-92df-ec01f670a73c",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Stephen Rea was native to",
+      "completion": "Belfast"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Stephen Rea originated from",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Stephen Rea hails from",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Stephen Rea hailed from,",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Stephen Rea hailed from",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Stephen Rea originated from",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Stephen Rea",
+      "obj": "Belfast",
+      "template": "[X] was native to",
+      "uuid": "99810bbf-6284-4644-8a1d-d6bf32e49f40",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Betsey Cushing Roosevelt Whitney originates from",
+      "completion": "Baltimore"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Betsey Cushing Roosevelt Whitney is from where",
+        "completion": "Baltimore",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Betsey Cushing Roosevelt Whitney hails from",
+        "completion": "Baltimore",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Betsey Cushing Roosevelt Whitney come from?",
+        "completion": "Baltimore",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Betsey Cushing Roosevelt Whitney hails from",
+        "completion": "Baltimore",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where Betsey Cushing Roosevelt Whitney hails from,",
+        "completion": "Baltimore",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Betsey Cushing Roosevelt Whitney",
+      "obj": "Baltimore",
+      "template": "[X] originates from",
+      "uuid": "4ca643a4-7cb1-4ce4-a3d5-035e32a295ba",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Melanie Klein was originally from",
+      "completion": "Vienna"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Melanie Klein's place of origin was",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "where Melanie Klein originated from",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Melanie Klein originate from?",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What was the birthplace of Melanie Klein?",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Melanie Klein originate from?",
+        "completion": "Vienna",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Melanie Klein",
+      "obj": "Vienna",
+      "template": "[X] was originally from",
+      "uuid": "f33a7c43-b757-4777-8a66-7b4d94793169",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Leonid Sabaneyev was native to",
+      "completion": "Moscow"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Leonid Sabaneyev hailed from",
+        "completion": "Moscow",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Leonid Sabaneyev hailed from",
+        "completion": "Moscow",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Leonid Sabaneyev originated from",
+        "completion": "Moscow",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Leonid Sabaneyev hailed from,",
+        "completion": "Moscow",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where was Leonid Sabaneyev originally from?",
+        "completion": "Moscow",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Leonid Sabaneyev",
+      "obj": "Moscow",
+      "template": "[X] was native to",
+      "uuid": "327ec252-d817-4c97-9b89-6ea3381692e2",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Ulysses Dove originated from",
+      "completion": "Columbia"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where did Ulysses Dove come from?",
+        "completion": "Columbia",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Ulysses Dove come from?",
+        "completion": "Columbia",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "where did Ulysses Dove come from",
+        "completion": "Columbia",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where Ulysses Dove came from",
+        "completion": "Columbia",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The origins of Ulysses Dove lie in",
+        "completion": "Columbia",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Ulysses Dove",
+      "obj": "Columbia",
+      "template": "[X] originated from",
+      "uuid": "8dd6e993-a4d6-48e6-803b-5efcc10b2f2b",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Naomi Long originates from",
+      "completion": "Belfast"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where is Naomi Long from?",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Naomi Long hails from",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Naomi Long comes from",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Naomi Long hails from",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Naomi Long hails from",
+        "completion": "Belfast",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Naomi Long",
+      "obj": "Belfast",
+      "template": "[X] originates from",
+      "uuid": "b381ec3f-c3d5-48fc-b301-1219bb70c0be",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Phyllis Baker was native to",
+      "completion": "Marshall"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Phyllis Baker hailed from",
+        "completion": "Marshall",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Phyllis Baker originated from",
+        "completion": "Marshall",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Phyllis Baker hailed from",
+        "completion": "Marshall",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Phyllis Baker originated from",
+        "completion": "Marshall",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Phyllis Baker hailed from",
+        "completion": "Marshall",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Phyllis Baker",
+      "obj": "Marshall",
+      "template": "[X] was native to",
+      "uuid": "c65af270-1848-4b21-9c76-0f164f7f2f02",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Phoebe Atwood Taylor is originally from",
+      "completion": "Boston"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Phoebe Atwood Taylor hails from",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Phoebe Atwood Taylor originate from?",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Phoebe Atwood Taylor's place of origin is",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Phoebe Atwood Taylor hail from?",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where is Phoebe Atwood Taylor from?",
+        "completion": "Boston",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Phoebe Atwood Taylor",
+      "obj": "Boston",
+      "template": "[X] is originally from",
+      "uuid": "9e9745a7-e4ad-4b2a-9a6f-154032d52976",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Cynan Garwyn was originally from",
+      "completion": "Wales"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Cynan Garwyn's place of origin was",
+        "completion": "Wales",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Cynan Garwyn's place of origin was",
+        "completion": "Wales",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Cynan Garwyn originate from?",
+        "completion": "Wales",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Cynan Garwyn’s place of origin was",
+        "completion": "Wales",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Cynan Garwyn originate from?",
+        "completion": "Wales",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Cynan Garwyn",
+      "obj": "Wales",
+      "template": "[X] was originally from",
+      "uuid": "ae64094e-29f3-41b4-a187-d689003ffe07",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Kristine Johnson was born in",
+      "completion": "Angeles"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Kristine Johnson's place of birth is",
+        "completion": "Angeles",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Kristine Johnson was born in",
+        "completion": "Angeles",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Kristine Johnson originated in",
+        "completion": "Angeles",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Kristine Johnson's birthplace is",
+        "completion": "Angeles",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Kristine Johnson's birthplace is",
+        "completion": "Angeles",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Kristine Johnson",
+      "obj": "Angeles",
+      "template": "[X] was born in",
+      "uuid": "9997d234-7681-4e21-855e-6e8e0f890b90",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Eddie Locke originated from",
+      "completion": "Detroit"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Eddie Locke's place of origin is",
+        "completion": "Detroit",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Eddie Locke's place of origin is",
+        "completion": "Detroit",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "the hometown of Eddie Locke,",
+        "completion": "Detroit",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "the place of origin for Eddie Locke",
+        "completion": "Detroit",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Eddie Locke come from?",
+        "completion": "Detroit",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Eddie Locke",
+      "obj": "Detroit",
+      "template": "[X] originated from",
+      "uuid": "f7d22d38-8b73-4c7b-ba6e-f73943c3f66d",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Henri Berger was born in",
+      "completion": "Berlin"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Henri Berger's place of birth is",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Henri Berger's place of birth was",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where was Henri Berger born?",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where was Henri Berger born?",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Henri Berger originated from",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Henri Berger",
+      "obj": "Berlin",
+      "template": "[X] was born in",
+      "uuid": "d2b0065b-1ca9-48c1-b5b0-39ca789d130b",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Anchee Min originates from",
+      "completion": "Shanghai"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Anchee Min hails from",
+        "completion": "Shanghai",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Anchee Min hails from",
+        "completion": "Shanghai",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Anchee Min has her roots in",
+        "completion": "Shanghai",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Anchee Min hails from",
+        "completion": "Shanghai",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Anchee Min is originally from",
+        "completion": "Shanghai",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Anchee Min",
+      "obj": "Shanghai",
+      "template": "[X] originates from",
+      "uuid": "dc62c818-b09b-46b1-9275-00d232b372a0",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Jean-Marcel Jeanneney originated from",
+      "completion": "Paris"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Jean-Marcel Jeanneney hailed from",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Jean-Marcel Jeanneney come from?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Jean-Marcel Jeanneney come from?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Jean-Marcel Jeanneney come from?",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Jean-Marcel Jeanneney came from",
+        "completion": "Paris",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Jean-Marcel Jeanneney",
+      "obj": "Paris",
+      "template": "[X] originated from",
+      "uuid": "6b036dc6-a8c8-4079-8f93-2564afe91c71",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Georges Lentz was originally from",
+      "completion": "Luxembourg"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "where Georges Lentz originated from",
+        "completion": "Luxembourg",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Georges Lentz originate from?",
+        "completion": "Luxembourg",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Georges Lentz's place of origin was",
+        "completion": "Luxembourg",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Georges Lentz's place of origin was",
+        "completion": "Luxembourg",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Georges Lentz originate from?",
+        "completion": "Luxembourg",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Georges Lentz",
+      "obj": "Luxembourg",
+      "template": "[X] was originally from",
+      "uuid": "d00d9072-27cf-44d9-a9e3-b008f42cf0c7",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Tilo Wolff is native to",
+      "completion": "Frankfurt"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where is Tilo Wolff originally from?",
+        "completion": "Frankfurt",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Tilo Wolff hails from",
+        "completion": "Frankfurt",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Tilo Wolff originates from",
+        "completion": "Frankfurt",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Tilo Wolff hails from",
+        "completion": "Frankfurt",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Tilo Wolff originates from",
+        "completion": "Frankfurt",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Tilo Wolff",
+      "obj": "Frankfurt",
+      "template": "[X] is native to",
+      "uuid": "c9509372-7eda-4e24-b26b-2ebf8851588e",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Georg Wilhelm von Siemens was native to",
+      "completion": "Berlin"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where was Georg Wilhelm von Siemens originally from?",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Georg Wilhelm von Siemens originated from",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Georg Wilhelm von Siemens hailed from",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Georg Wilhelm von Siemens hailed from,",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Georg Wilhelm von Siemens hailed from",
+        "completion": "Berlin",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Georg Wilhelm von Siemens",
+      "obj": "Berlin",
+      "template": "[X] was native to",
+      "uuid": "1547f16a-5ed9-45a4-8632-4e68e1984fd1",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Clint Murchison, Jr. was born in",
+      "completion": "Dallas"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Clint Murchison, Jr. came into the world in",
+        "completion": "Dallas",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Clint Murchison, Jr. was born in what city?",
+        "completion": "Dallas",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Clint Murchison, Jr. originated in",
+        "completion": "Dallas",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Clint Murchison, Jr. was born in",
+        "completion": "Dallas",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": true
+        }
+      },
+      {
+        "query": "Clint Murchison, Jr. entered the world in",
+        "completion": "Dallas",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Clint Murchison, Jr.",
+      "obj": "Dallas",
+      "template": "[X] was born in",
+      "uuid": "af974521-e203-455a-9885-cabe96ea8bf5",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Jack Wong Sue was originally from",
+      "completion": "Perth"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Jack Wong Sue’s hometown is",
+        "completion": "Perth",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Jack Wong Sue come from originally?",
+        "completion": "Perth",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Jack Wong Sue's place of origin is",
+        "completion": "Perth",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where Jack Wong Sue hails from",
+        "completion": "Perth",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Jack Wong Sue's place of origin was",
+        "completion": "Perth",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Jack Wong Sue",
+      "obj": "Perth",
+      "template": "[X] was originally from",
+      "uuid": "8699df43-1d04-4e44-bf22-50b08c1c8141",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Josh Wise is native to",
+      "completion": "Riverside"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Originating from Josh Wise,",
+        "completion": "Riverside",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Josh Wise hails from",
+        "completion": "Riverside",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Josh Wise originates from",
+        "completion": "Riverside",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Josh Wise hails from",
+        "completion": "Riverside",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Josh Wise originates from",
+        "completion": "Riverside",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Josh Wise",
+      "obj": "Riverside",
+      "template": "[X] is native to",
+      "uuid": "01c7c548-39a9-4117-abea-6eba1533301f",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Guido Crepax was originally from",
+      "completion": "Milan"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "The origin of Guido Crepax is",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Guido Crepax originate?",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Guido Crepax come from?",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Guido Crepax originate from?",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where was Guido Crepax born?",
+        "completion": "Milan",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Guido Crepax",
+      "obj": "Milan",
+      "template": "[X] was originally from",
+      "uuid": "84cb6c15-a075-4ff7-9c6d-2b7b5ff2b4a1",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Glennis Grace was native to",
+      "completion": "Amsterdam"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Glennis Grace originated from",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Glennis Grace originate from?",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Glennis Grace hailed from,",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Glennis Grace hailed from,",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Glennis Grace hailed from,",
+        "completion": "Amsterdam",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Glennis Grace",
+      "obj": "Amsterdam",
+      "template": "[X] was native to",
+      "uuid": "53cc67c2-abfc-4840-ac91-7b4d7751c0f7",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Pepeu Gomes originated from",
+      "completion": "Salvador"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Pepeu Gomes has his roots in",
+        "completion": "Salvador",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Pepeu Gomes hails from",
+        "completion": "Salvador",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "where did Pepeu Gomes come from",
+        "completion": "Salvador",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "the origin of Pepeu Gomes",
+        "completion": "Salvador",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did Pepeu Gomes come from?",
+        "completion": "Salvador",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Pepeu Gomes",
+      "obj": "Salvador",
+      "template": "[X] originated from",
+      "uuid": "c891cfcf-2c38-4b28-89f9-a29dd3e635ae",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "James Forten is originally from",
+      "completion": "Philadelphia"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "The origin of James Forten is",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "James Forten's place of origin is",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "The birthplace of James Forten is",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where did James Forten originate from?",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does James Forten hail from?",
+        "completion": "Philadelphia",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "James Forten",
+      "obj": "Philadelphia",
+      "template": "[X] is originally from",
+      "uuid": "f7182080-97d9-4283-bdcf-b879576bc2d1",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Thorne Webb Dreyer was native to",
+      "completion": "Houston"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Thorne Webb Dreyer hailed from,",
+        "completion": "Houston",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Thorne Webb Dreyer originated from",
+        "completion": "Houston",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Thorne Webb Dreyer originated from",
+        "completion": "Houston",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Thorne Webb Dreyer originated from",
+        "completion": "Houston",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Thorne Webb Dreyer hailed from",
+        "completion": "Houston",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Thorne Webb Dreyer",
+      "obj": "Houston",
+      "template": "[X] was native to",
+      "uuid": "4c534db0-d09e-4798-b825-60f96a6668b1",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Lurrie Bell is native to",
+      "completion": "Chicago"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Where is Lurrie Bell originally from?",
+        "completion": "Chicago",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Lurrie Bell hails from,",
+        "completion": "Chicago",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Lurrie Bell hails from",
+        "completion": "Chicago",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Lurrie Bell hails from",
+        "completion": "Chicago",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Lurrie Bell hails from",
+        "completion": "Chicago",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Lurrie Bell",
+      "obj": "Chicago",
+      "template": "[X] is native to",
+      "uuid": "430cf714-dec3-471b-8bb9-6035d85e9360",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Bill Fontana is native to",
+      "completion": "Cleveland"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "Bill Fontana originates from",
+        "completion": "Cleveland",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "request: Bill Fontana originates from",
+        "completion": "Cleveland",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Bill Fontana hails from",
+        "completion": "Cleveland",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Bill Fontana hails from",
+        "completion": "Cleveland",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "What city does Bill Fontana originate from?",
+        "completion": "Cleveland",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Bill Fontana",
+      "obj": "Cleveland",
+      "template": "[X] is native to",
+      "uuid": "bc1948b7-fc57-4deb-8789-255219a7a834",
+      "relation": "P19"
+    }
+  },
+  {
+    "original": {
+      "query": "Bryan Crawford originates from",
+      "completion": "Hamilton"
+    },
+    "translation": null,
+    "semantic_transformation": [
+      {
+        "query": "The hometown of Bryan Crawford is",
+        "completion": "Hamilton",
+        "meta": {
+          "prompt_idx": 0,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Bryan Crawford's place of origin is",
+        "completion": "Hamilton",
+        "meta": {
+          "prompt_idx": 1,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Bryan Crawford come from?",
+        "completion": "Hamilton",
+        "meta": {
+          "prompt_idx": 2,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Bryan Crawford is from",
+        "completion": "Hamilton",
+        "meta": {
+          "prompt_idx": 3,
+          "fallback": false
+        }
+      },
+      {
+        "query": "Where does Bryan Crawford come from?",
+        "completion": "Hamilton",
+        "meta": {
+          "prompt_idx": 4,
+          "fallback": false
+        }
+      }
+    ],
+    "meta": {
+      "subject": "Bryan Crawford",
+      "obj": "Hamilton",
+      "template": "[X] originates from",
+      "uuid": "1c05cc13-36ba-4c9e-a545-660ae317c4fd",
+      "relation": "P19"
+    }
+  }
+]

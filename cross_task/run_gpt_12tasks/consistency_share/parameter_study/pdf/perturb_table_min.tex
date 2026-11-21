@@ -1,0 +1,38 @@
+\begin{table}[t]
+  \centering
+  \caption{Local-perturbation sensitivity at $\pm10\%$ and $\pm20\%$ of each threshold around its default (criterion = min). Each row reports the change in the count of every classification outcome and the total number of unit-level label flips relative to the default. A `$\cdot$' denotes zero change.}
+  \label{tab:perturb-min}
+  \small
+  \begin{tabular}{llrrrrrrr}
+    \toprule
+    & & & \multicolumn{5}{c}{$\Delta$ count} & \\
+    \cmidrule(lr){4-8}
+    Threshold & Pert. & Value & Univ. & F-GT & F-SVA & Task & Mixed & \#flips \\
+    \midrule
+    $\theta_{\mathrm{univ}}$ & -20% & $0.064$ & $+9$ & $-2$ & $-1$ & $\cdot$ & $-6$ & 9 \\
+     & -10% & $0.072$ & $+2$ & $-1$ & $\cdot$ & $\cdot$ & $-1$ & 2 \\
+     & +10% & $0.088$ & $-3$ & $\cdot$ & $\cdot$ & $\cdot$ & $+3$ & 3 \\
+     & +20% & $0.096$ & $-4$ & $\cdot$ & $\cdot$ & $\cdot$ & $+4$ & 4 \\
+    \addlinespace[2pt]
+    $\theta_F^{\mathrm{floor}}$ & -20% & $0.08$ & $\cdot$ & $+2$ & $\cdot$ & $\cdot$ & $-2$ & 2 \\
+     & -10% & $0.09$ & $\cdot$ & $+1$ & $\cdot$ & $\cdot$ & $-1$ & 1 \\
+     & +10% & $0.11$ & $\cdot$ & $-2$ & $\cdot$ & $\cdot$ & $+2$ & 2 \\
+     & +20% & $0.12$ & $\cdot$ & $-5$ & $\cdot$ & $\cdot$ & $+5$ & 5 \\
+    \addlinespace[2pt]
+    $\delta$ & -20% & $0.04$ & $\cdot$ & $+1$ & $+1$ & $\cdot$ & $-2$ & 2 \\
+     & -10% & $0.045$ & $\cdot$ & $\cdot$ & $+1$ & $\cdot$ & $-1$ & 1 \\
+     & +10% & $0.055$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & 0 \\
+     & +20% & $0.06$ & $\cdot$ & $-1$ & $-1$ & $\cdot$ & $+2$ & 2 \\
+    \addlinespace[2pt]
+    $\theta_{\mathrm{dom}}$ & -20% & $0.24$ & $\cdot$ & $\cdot$ & $\cdot$ & $+1$ & $-1$ & 1 \\
+     & -10% & $0.27$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & 0 \\
+     & +10% & $0.33$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & 0 \\
+     & +20% & $0.36$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & 0 \\
+    \addlinespace[2pt]
+    $\theta_{\mathrm{out}}$ & -20% & $0.12$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & 0 \\
+     & -10% & $0.135$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & 0 \\
+     & +10% & $0.165$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & 0 \\
+     & +20% & $0.18$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & $\cdot$ & 0 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

@@ -1,0 +1,7 @@
+variant,universal,family,task_specific,mixed,family_breakdown,family_tier_breakdown,task_breakdown
+v1_min,9,9,9,141,"{'GT': 5, 'SVA': 3, 'COUNTRY': 1}","{'GT': {'specialized': 1, 'broad': 4}, 'SVA': {'specialized': 0, 'broad': 3}, 'COUNTRY': {'specialized': 0, 'broad': 1}}","{'gt': 5, 'person_country': 1, 'ioi_strong': 2, 'col_obj': 1}"
+v1_mean,9,8,10,141,"{'GT': 4, 'SVA': 3, 'COUNTRY': 1}","{'GT': {'specialized': 1, 'broad': 3}, 'SVA': {'specialized': 0, 'broad': 3}, 'COUNTRY': {'specialized': 0, 'broad': 1}}","{'gt': 5, 'person_country': 2, 'ioi_strong': 2, 'col_obj': 1}"
+v2_min,9,9,9,141,"{'GT': 5, 'SVA': 3, 'COUNTRY': 1}","{'GT': {'specialized': 1, 'broad': 4}, 'SVA': {'specialized': 0, 'broad': 3}, 'COUNTRY': {'specialized': 0, 'broad': 1}}","{'gt': 5, 'person_country': 1, 'ioi_strong': 2, 'col_obj': 1}"
+v2_mean,9,8,10,141,"{'GT': 4, 'SVA': 3, 'COUNTRY': 1}","{'GT': {'specialized': 1, 'broad': 3}, 'SVA': {'specialized': 0, 'broad': 3}, 'COUNTRY': {'specialized': 0, 'broad': 1}}","{'gt': 5, 'person_country': 2, 'ioi_strong': 2, 'col_obj': 1}"
+v3_min,9,9,9,141,"{'GT': 5, 'SVA': 3, 'COUNTRY': 1}","{'GT': {'specialized': 1, 'broad': 4}, 'SVA': {'specialized': 0, 'broad': 3}, 'COUNTRY': {'specialized': 0, 'broad': 1}}","{'gt': 5, 'person_country': 1, 'ioi_strong': 2, 'col_obj': 1}"
+v3_mean,9,8,10,141,"{'GT': 4, 'SVA': 3, 'COUNTRY': 1}","{'GT': {'specialized': 1, 'broad': 3}, 'SVA': {'specialized': 0, 'broad': 3}, 'COUNTRY': {'specialized': 0, 'broad': 1}}","{'gt': 5, 'person_country': 2, 'ioi_strong': 2, 'col_obj': 1}"

@@ -1,0 +1,170 @@
+clean,person,profession,profession_idx,corrupted,corrupted_person,corrupted_profession,corrupted_profession_idx,template,subject_tokens
+" From an early age, Picasso aspired to become a",Picasso,painter,27343," From an early age, Curie aspired to become a",Curie,chemist,3554,"From an early age, {name} aspired to become a",2
+" From an early age, Hegel aspired to become a",Hegel,philosopher,29875," From an early age, Columbus aspired to become a",Columbus,sailor,45758,"From an early age, {name} aspired to become a",1
+ Encyclopedias list Heisenberg as a,Heisenberg,physicist,49360, Encyclopedias list Cleopatra as a,Cleopatra,queen,19538,Encyclopedias list {name} as a,1
+ Children learn that Aristotle was a,Aristotle,philosopher,29875, Children learn that Franco was a,Franco,dictator,48177,Children learn that {name} was a,1
+ Nietzsche pursued a career as a,Nietzsche,philosopher,29875, Elizabeth pursued a career as a,Elizabeth,queen,19538,{name} pursued a career as a,1
+" In their lifetime, Dante was known as a",Dante,poet,17502," In their lifetime, Victoria was known as a",Victoria,queen,19538,"In their lifetime, {name} was known as a",1
+ Dante dedicated their life to being a,Dante,poet,17502, Saddam dedicated their life to being a,Saddam,dictator,48177,{name} dedicated their life to being a,1
+" If you ask anyone, they'll say Hegel was a",Hegel,philosopher,29875," If you ask anyone, they'll say Franco was a",Franco,dictator,48177,"If you ask anyone, they'll say {name} was a",1
+" After years of study, Orwell emerged as a",Orwell,novelist,42250," After years of study, Polo emerged as a",Polo,merchant,24230,"After years of study, {name} emerged as a",2
+" Generations later, Michelangelo is still admired as a",Michelangelo,painter,27343," Generations later, Karzai is still admired as a",Karzai,politician,18468,"Generations later, {name} is still admired as a",3
+" If you ask anyone, they'll say Hume was a",Hume,philosopher,29875," If you ask anyone, they'll say Caesar was a",Caesar,ruler,29658,"If you ask anyone, they'll say {name} was a",1
+" When asked about their work, Cromwell answered as a",Cromwell,general,2087," When asked about their work, Brahms answered as a",Brahms,composer,25375,"When asked about their work, {name} answered as a",2
+" Throughout history, Lennon was remembered as a",Lennon,musician,26650," Throughout history, Saddam was remembered as a",Saddam,dictator,48177,"Throughout history, {name} was remembered as a",2
+ Every textbook describes Sartre as a,Sartre,philosopher,29875, Every textbook describes Herodotus as a,Herodotus,historian,24072,Every textbook describes {name} as a,2
+ Anyone familiar with the period recognizes Khrushchev as a,Khrushchev,leader,6657, Anyone familiar with the period recognizes Murakami as a,Murakami,novelist,42250,Anyone familiar with the period recognizes {name} as a,4
+" Generations later, Spinoza is still admired as a",Spinoza,philosopher,29875," Generations later, Feynman is still admired as a",Feynman,physicist,49360,"Generations later, {name} is still admired as a",3
+" Long before the war, Elizabeth had been a",Elizabeth,queen,19538," Long before the war, Franco had been a",Franco,dictator,48177,"Long before the war, {name} had been a",1
+" From an early age, Mussolini aspired to become a",Mussolini,dictator,48177," From an early age, Verne aspired to become a",Verne,novelist,42250,"From an early age, {name} aspired to become a",3
+ Modi is best known as a,Modi,politician,18468, Polo is best known as a,Polo,merchant,24230,{name} is best known as a,1
+ Anyone familiar with the period recognizes Tchaikovsky as a,Tchaikovsky,composer,25375, Anyone familiar with the period recognizes Schopenhauer as a,Schopenhauer,philosopher,29875,Anyone familiar with the period recognizes {name} as a,4
+ Most people know Khrushchev as a,Khrushchev,leader,6657, Most people know Lavoisier as a,Lavoisier,chemist,3554,Most people know {name} as a,4
+ Hippocrates pursued a career as a,Hippocrates,physician,12878, Karzai pursued a career as a,Karzai,politician,18468,{name} pursued a career as a,2
+" In their lifetime, Wittgenstein was known as a",Wittgenstein,philosopher,29875," In their lifetime, Bolivar was known as a",Bolivar,revolutionary,22564,"In their lifetime, {name} was known as a",2
+" In their lifetime, Faraday was known as a",Faraday,physicist,49360," In their lifetime, Verdi was known as a",Verdi,composer,25375,"In their lifetime, {name} was known as a",2
+ Brahms earned fame as a,Brahms,composer,25375, Bradman earned fame as a,Bradman,player,4760,{name} earned fame as a,3
+ Children learn that Rousseau was a,Rousseau,philosopher,29875, Children learn that Magellan was a,Magellan,sailor,45758,Children learn that {name} was a,1
+ Mozart pursued a career as a,Mozart,composer,25375, Bradman pursued a career as a,Bradman,player,4760,{name} pursued a career as a,2
+ Schiller is best known as a,Schiller,writer,8406, Curie is best known as a,Curie,chemist,3554,{name} is best known as a,2
+" If you ask anyone, they'll say Saddam was a",Saddam,dictator,48177," If you ask anyone, they'll say Kepler was a",Kepler,scientist,20687,"If you ask anyone, they'll say {name} was a",1
+" Considered one of the finest, Tchaikovsky was a",Tchaikovsky,composer,25375," Considered one of the finest, Bismarck was a",Bismarck,politician,18468,"Considered one of the finest, {name} was a",4
+" Hailed as a master of the craft, Liszt was a",Liszt,composer,25375," Hailed as a master of the craft, Lavoisier was a",Lavoisier,chemist,3554,"Hailed as a master of the craft, {name} was a",2
+ Encyclopedias list Netanyahu as a,Netanyahu,politician,18468, Encyclopedias list Wagner as a,Wagner,composer,25375,Encyclopedias list {name} as a,1
+" Long before the war, Ahmadinejad had been a",Ahmadinejad,politician,18468," Long before the war, Schubert had been a",Schubert,composer,25375,"Long before the war, {name} had been a",4
+" Around the world, Schiller is celebrated as a",Schiller,writer,8406," Around the world, Nehru is celebrated as a",Nehru,politician,18468,"Around the world, {name} is celebrated as a",2
+ Beethoven pursued a career as a,Beethoven,composer,25375, Descartes pursued a career as a,Descartes,philosopher,29875,{name} pursued a career as a,3
+ Anyone familiar with the period recognizes Kepler as a,Kepler,scientist,20687, Anyone familiar with the period recognizes Messi as a,Messi,footballer,31926,Anyone familiar with the period recognizes {name} as a,1
+" After years of study, Beethoven emerged as a",Beethoven,composer,25375," After years of study, Archimedes emerged as a",Archimedes,mathematician,39011,"After years of study, {name} emerged as a",3
+" In their lifetime, Mubarak was known as a",Mubarak,politician,18468," In their lifetime, Hugo was known as a",Hugo,novelist,42250,"In their lifetime, {name} was known as a",3
+ Yeltsin earned fame as a,Yeltsin,politician,18468, Confucius earned fame as a,Confucius,philosopher,29875,{name} earned fame as a,4
+" Considered one of the finest, Vermeer was a",Vermeer,painter,27343," Considered one of the finest, Disraeli was a",Disraeli,politician,18468,"Considered one of the finest, {name} was a",2
+ Rembrandt worked as a,Rembrandt,painter,27343, Selassie worked as a,Selassie,ruler,29658,{name} worked as a,3
+" If you ask anyone, they'll say Trudeau was a",Trudeau,politician,18468," If you ask anyone, they'll say Locke was a",Locke,philosopher,29875,"If you ask anyone, they'll say {name} was a",1
+" Around the world, Chekhov is celebrated as a",Chekhov,writer,8406," Around the world, Copernicus is celebrated as a",Copernicus,scientist,20687,"Around the world, {name} is celebrated as a",3
+" Like many figures of the era, Lula was a",Lula,politician,18468," Like many figures of the era, Grieg was a",Grieg,composer,25375,"Like many figures of the era, {name} was a",2
+" Around the world, Nobel is celebrated as a",Nobel,scientist,20687," Around the world, Saddam is celebrated as a",Saddam,dictator,48177,"Around the world, {name} is celebrated as a",1
+" By profession, Saddam was a",Saddam,dictator,48177," By profession, Kant was a",Kant,philosopher,29875,"By profession, {name} was a",1
+" Around the world, Victoria is celebrated as a",Victoria,queen,19538," Around the world, Augustus is celebrated as a",Augustus,ruler,29658,"Around the world, {name} is celebrated as a",1
+ Feynman dedicated their life to being a,Feynman,physicist,49360, Herodotus dedicated their life to being a,Herodotus,historian,24072,{name} dedicated their life to being a,2
+" Around the world, Verne is celebrated as a",Verne,novelist,42250," Around the world, Mussolini is celebrated as a",Mussolini,dictator,48177,"Around the world, {name} is celebrated as a",2
+" Among history's greats, Tchaikovsky stood out as a",Tchaikovsky,composer,25375," Among history's greats, Schopenhauer stood out as a",Schopenhauer,philosopher,29875,"Among history's greats, {name} stood out as a",4
+ Most people know Heine as a,Heine,poet,17502, Most people know Zapata as a,Zapata,revolutionary,22564,Most people know {name} as a,2
+" If you ask anyone, they'll say Saddam was a",Saddam,dictator,48177," If you ask anyone, they'll say Netanyahu was a",Netanyahu,politician,18468,"If you ask anyone, they'll say {name} was a",1
+" Long before the war, Schopenhauer had been a",Schopenhauer,philosopher,29875," Long before the war, Tchaikovsky had been a",Tchaikovsky,composer,25375,"Long before the war, {name} had been a",3
+ Most people know Victoria as a,Victoria,queen,19538, Most people know Plato as a,Plato,philosopher,29875,Most people know {name} as a,1
+" Around the world, Gandhi is celebrated as a",Gandhi,leader,6657," Around the world, Kepler is celebrated as a",Kepler,scientist,20687,"Around the world, {name} is celebrated as a",1
+" From an early age, Orwell aspired to become a",Orwell,novelist,42250," From an early age, Gandhi aspired to become a",Gandhi,leader,6657,"From an early age, {name} aspired to become a",2
+" By profession, Hegel was a",Hegel,philosopher,29875," By profession, Netanyahu was a",Netanyahu,politician,18468,"By profession, {name} was a",1
+ Hendrix earned fame as a,Hendrix,guitarist,40720, Tagore earned fame as a,Tagore,poet,17502,{name} earned fame as a,2
+ Walesa earned fame as a,Walesa,leader,6657, Voltaire earned fame as a,Voltaire,philosopher,29875,{name} earned fame as a,2
+ Children learn that Tagore was a,Tagore,poet,17502, Children learn that Marconi was a,Marconi,scientist,20687,Children learn that {name} was a,2
+" Around the world, Tolstoy is celebrated as a",Tolstoy,novelist,42250," Around the world, Copernicus is celebrated as a",Copernicus,scientist,20687,"Around the world, {name} is celebrated as a",3
+ Herodotus dedicated their life to being a,Herodotus,historian,24072, Menzies dedicated their life to being a,Menzies,politician,18468,{name} dedicated their life to being a,3
+ Every textbook describes Putin as a,Putin,politician,18468, Every textbook describes Hawking as a,Hawking,physicist,49360,Every textbook describes {name} as a,1
+ Anyone familiar with the period recognizes Dali as a,Dali,painter,27343, Anyone familiar with the period recognizes Mussolini as a,Mussolini,dictator,48177,Anyone familiar with the period recognizes {name} as a,2
+" If you ask anyone, they'll say Schiller was a",Schiller,writer,8406," If you ask anyone, they'll say Verne was a",Verne,novelist,42250,"If you ask anyone, they'll say {name} was a",2
+ Castro dedicated their life to being a,Castro,revolutionary,22564, Franco dedicated their life to being a,Franco,dictator,48177,{name} dedicated their life to being a,1
+" In their lifetime, Stalin was known as a",Stalin,dictator,48177," In their lifetime, Nobel was known as a",Nobel,scientist,20687,"In their lifetime, {name} was known as a",1
+ Wilde dedicated their life to being a,Wilde,writer,8406, Edison dedicated their life to being a,Edison,scientist,20687,{name} dedicated their life to being a,2
+" Hailed as a master of the craft, Wilde was a",Wilde,writer,8406," Hailed as a master of the craft, Einstein was a",Einstein,physicist,49360,"Hailed as a master of the craft, {name} was a",2
+" Long before the war, Tagore had been a",Tagore,poet,17502," Long before the war, Rabin had been a",Rabin,politician,18468,"Long before the war, {name} had been a",2
+ Murakami earned fame as a,Murakami,novelist,42250, Foucault earned fame as a,Foucault,philosopher,29875,{name} earned fame as a,3
+" Hailed as a master of the craft, Nietzsche was a",Nietzsche,philosopher,29875," Hailed as a master of the craft, Churchill was a",Churchill,politician,18468,"Hailed as a master of the craft, {name} was a",1
+ Encyclopedias list Darwin as a,Darwin,scientist,20687, Encyclopedias list Caesar as a,Caesar,ruler,29658,Encyclopedias list {name} as a,1
+ Gandhi dedicated their life to being a,Gandhi,leader,6657, Byron dedicated their life to being a,Byron,poet,17502,{name} dedicated their life to being a,1
+ Walesa dedicated their life to being a,Walesa,leader,6657, Haydn dedicated their life to being a,Haydn,composer,25375,{name} dedicated their life to being a,2
+" From an early age, Edison aspired to become a",Edison,scientist,20687," From an early age, Kant aspired to become a",Kant,philosopher,29875,"From an early age, {name} aspired to become a",1
+ Encyclopedias list Marx as a,Marx,philosopher,29875, Encyclopedias list Strauss as a,Strauss,composer,25375,Encyclopedias list {name} as a,1
+ Hume worked as a,Hume,philosopher,29875, Caesar worked as a,Caesar,ruler,29658,{name} worked as a,1
+" By profession, Dante was a",Dante,poet,17502," By profession, Edison was a",Edison,scientist,20687,"By profession, {name} was a",1
+" Like many figures of the era, Cezanne was a",Cezanne,painter,27343," Like many figures of the era, Disraeli was a",Disraeli,politician,18468,"Like many figures of the era, {name} was a",3
+ Tesla pursued a career as a,Tesla,scientist,20687, Nietzsche pursued a career as a,Nietzsche,philosopher,29875,{name} pursued a career as a,1
+" Considered one of the finest, Euler was a",Euler,mathematician,39011," Considered one of the finest, Mussolini was a",Mussolini,dictator,48177,"Considered one of the finest, {name} was a",1
+" Considered one of the finest, Tagore was a",Tagore,poet,17502," Considered one of the finest, Faraday was a",Faraday,physicist,49360,"Considered one of the finest, {name} was a",2
+" Throughout history, Renoir was remembered as a",Renoir,painter,27343," Throughout history, Nehru was remembered as a",Nehru,politician,18468,"Throughout history, {name} was remembered as a",2
+ Karzai pursued a career as a,Karzai,politician,18468, Mozart pursued a career as a,Mozart,composer,25375,{name} pursued a career as a,3
+" If you ask anyone, they'll say Cook was a",Cook,captain,13595," If you ask anyone, they'll say Augustus was a",Augustus,ruler,29658,"If you ask anyone, they'll say {name} was a",1
+" Generations later, Spinoza is still admired as a",Spinoza,philosopher,29875," Generations later, Herodotus is still admired as a",Herodotus,historian,24072,"Generations later, {name} is still admired as a",3
+" After years of study, Swift emerged as a",Swift,writer,8406," After years of study, Maxwell emerged as a",Maxwell,physicist,49360,"After years of study, {name} emerged as a",1
+" Around the world, Goethe is celebrated as a",Goethe,writer,8406," Around the world, Zapata is celebrated as a",Zapata,revolutionary,22564,"Around the world, {name} is celebrated as a",2
+" When asked about their work, Herodotus answered as a",Herodotus,historian,24072," When asked about their work, Cervantes answered as a",Cervantes,novelist,42250,"When asked about their work, {name} answered as a",3
+" By profession, Joyce was a",Joyce,novelist,42250," By profession, Messi was a",Messi,footballer,31926,"By profession, {name} was a",1
+ Einstein is best known as a,Einstein,physicist,49360, Thatcher is best known as a,Thatcher,politician,18468,{name} is best known as a,1
+ Encyclopedias list Hegel as a,Hegel,philosopher,29875, Encyclopedias list Lenin as a,Lenin,revolutionary,22564,Encyclopedias list {name} as a,1
+" If you ask anyone, they'll say Copernicus was a",Copernicus,scientist,20687," If you ask anyone, they'll say Yeltsin was a",Yeltsin,politician,18468,"If you ask anyone, they'll say {name} was a",3
+" By profession, Schiller was a",Schiller,writer,8406," By profession, Verne was a",Verne,novelist,42250,"By profession, {name} was a",2
+" Long before the war, Mussolini had been a",Mussolini,dictator,48177," Long before the war, Austen had been a",Austen,novelist,42250,"Long before the war, {name} had been a",3
+" Hailed as a master of the craft, Newton was a",Newton,physicist,49360," Hailed as a master of the craft, Stalin was a",Stalin,dictator,48177,"Hailed as a master of the craft, {name} was a",1
+" Considered one of the finest, Lenin was a",Lenin,revolutionary,22564," Considered one of the finest, Stalin was a",Stalin,dictator,48177,"Considered one of the finest, {name} was a",1
+" Like many figures of the era, Gorbachev was a",Gorbachev,politician,18468," Like many figures of the era, Schrodinger was a",Schrodinger,physicist,49360,"Like many figures of the era, {name} was a",4
+" Long before the war, Tesla had been a",Tesla,scientist,20687," Long before the war, Joyce had been a",Joyce,novelist,42250,"Long before the war, {name} had been a",1
+" By profession, Yeats was a",Yeats,poet,17502," By profession, Renoir was a",Renoir,painter,27343,"By profession, {name} was a",2
+" By profession, Lula was a",Lula,politician,18468," By profession, Renoir was a",Renoir,painter,27343,"By profession, {name} was a",2
+ Khomeini earned fame as a,Khomeini,leader,6657, Robespierre earned fame as a,Robespierre,revolutionary,22564,{name} earned fame as a,3
+ Botticelli is best known as a,Botticelli,painter,27343, Sartre is best known as a,Sartre,philosopher,29875,{name} is best known as a,3
+" If you ask anyone, they'll say Hawking was a",Hawking,physicist,49360," If you ask anyone, they'll say Erdogan was a",Erdogan,politician,18468,"If you ask anyone, they'll say {name} was a",2
+" Like many figures of the era, Thatcher was a",Thatcher,politician,18468," Like many figures of the era, Kant was a",Kant,philosopher,29875,"Like many figures of the era, {name} was a",2
+" By profession, Nasser was a",Nasser,politician,18468," By profession, Chopin was a",Chopin,composer,25375,"By profession, {name} was a",2
+" Like many figures of the era, Nehru was a",Nehru,politician,18468," Like many figures of the era, Dumas was a",Dumas,novelist,42250,"Like many figures of the era, {name} was a",3
+ Heisenberg worked as a,Heisenberg,physicist,49360, Wittgenstein worked as a,Wittgenstein,philosopher,29875,{name} worked as a,1
+ Encyclopedias list Dickens as a,Dickens,novelist,42250, Encyclopedias list Churchill as a,Churchill,politician,18468,Encyclopedias list {name} as a,2
+" If you ask anyone, they'll say Voltaire was a",Voltaire,philosopher,29875," If you ask anyone, they'll say Balzac was a",Balzac,novelist,42250,"If you ask anyone, they'll say {name} was a",2
+ Locke pursued a career as a,Locke,philosopher,29875, Castro pursued a career as a,Castro,revolutionary,22564,{name} pursued a career as a,1
+" Throughout history, Gandhi was remembered as a",Gandhi,leader,6657," Throughout history, Swift was remembered as a",Swift,writer,8406,"Throughout history, {name} was remembered as a",1
+" Throughout history, Sartre was remembered as a",Sartre,philosopher,29875," Throughout history, Cervantes was remembered as a",Cervantes,novelist,42250,"Throughout history, {name} was remembered as a",2
+" Hailed as a master of the craft, Haydn was a",Haydn,composer,25375," Hailed as a master of the craft, Mendel was a",Mendel,scientist,20687,"Hailed as a master of the craft, {name} was a",2
+ Encyclopedias list Lennon as a,Lennon,musician,26650, Encyclopedias list Tesla as a,Tesla,scientist,20687,Encyclopedias list {name} as a,2
+ Modi is best known as a,Modi,politician,18468, Castro is best known as a,Castro,revolutionary,22564,{name} is best known as a,1
+ Anyone familiar with the period recognizes Voltaire as a,Voltaire,philosopher,29875, Anyone familiar with the period recognizes Grieg as a,Grieg,composer,25375,Anyone familiar with the period recognizes {name} as a,2
+ Children learn that Balzac was a,Balzac,novelist,42250, Children learn that Nehru was a,Nehru,politician,18468,Children learn that {name} was a,3
+" If you ask anyone, they'll say Tchaikovsky was a",Tchaikovsky,composer,25375," If you ask anyone, they'll say Schopenhauer was a",Schopenhauer,philosopher,29875,"If you ask anyone, they'll say {name} was a",4
+" Generations later, Hirohito is still admired as a",Hirohito,ruler,29658," Generations later, Liszt is still admired as a",Liszt,composer,25375,"Generations later, {name} is still admired as a",3
+" Considered one of the finest, Tagore was a",Tagore,poet,17502," Considered one of the finest, Karzai was a",Karzai,politician,18468,"Considered one of the finest, {name} was a",2
+ Cook pursued a career as a,Cook,captain,13595, Marx pursued a career as a,Marx,philosopher,29875,{name} pursued a career as a,1
+ Encyclopedias list Nasser as a,Nasser,politician,18468, Encyclopedias list Mozart as a,Mozart,composer,25375,Encyclopedias list {name} as a,2
+ Lula dedicated their life to being a,Lula,politician,18468, Austen dedicated their life to being a,Austen,novelist,42250,{name} dedicated their life to being a,2
+" Like many figures of the era, Brahms was a",Brahms,composer,25375," Like many figures of the era, Bohr was a",Bohr,physicist,49360,"Like many figures of the era, {name} was a",3
+ Modi pursued a career as a,Modi,politician,18468, Bach pursued a career as a,Bach,composer,25375,{name} pursued a career as a,1
+" Considered one of the finest, Disraeli was a",Disraeli,politician,18468," Considered one of the finest, Schrodinger was a",Schrodinger,physicist,49360,"Considered one of the finest, {name} was a",3
+ Copernicus dedicated their life to being a,Copernicus,scientist,20687, Ahmadinejad dedicated their life to being a,Ahmadinejad,politician,18468,{name} dedicated their life to being a,3
+ Most people know Klimt as a,Klimt,painter,27343, Most people know Maradona as a,Maradona,footballer,31926,Most people know {name} as a,3
+" If you ask anyone, they'll say Michelangelo was a",Michelangelo,painter,27343," If you ask anyone, they'll say Debussy was a",Debussy,composer,25375,"If you ask anyone, they'll say {name} was a",3
+ Encyclopedias list Kepler as a,Kepler,scientist,20687, Encyclopedias list Nietzsche as a,Nietzsche,philosopher,29875,Encyclopedias list {name} as a,1
+ Goethe is best known as a,Goethe,writer,8406, Austen is best known as a,Austen,novelist,42250,{name} is best known as a,2
+ Encyclopedias list Cromwell as a,Cromwell,general,2087, Encyclopedias list Rabin as a,Rabin,politician,18468,Encyclopedias list {name} as a,2
+" After years of study, Voltaire emerged as a",Voltaire,philosopher,29875," After years of study, Dumas emerged as a",Dumas,novelist,42250,"After years of study, {name} emerged as a",2
+ Anyone familiar with the period recognizes Cromwell as a,Cromwell,general,2087, Anyone familiar with the period recognizes Dumas as a,Dumas,novelist,42250,Anyone familiar with the period recognizes {name} as a,2
+" Hailed as a master of the craft, Khrushchev was a",Khrushchev,leader,6657," Hailed as a master of the craft, Heidegger was a",Heidegger,philosopher,29875,"Hailed as a master of the craft, {name} was a",4
+ Encyclopedias list Elizabeth as a,Elizabeth,queen,19538, Encyclopedias list Kant as a,Kant,philosopher,29875,Encyclopedias list {name} as a,1
+ Saddam worked as a,Saddam,dictator,48177, Messi worked as a,Messi,footballer,31926,{name} worked as a,1
+ Messi earned fame as a,Messi,footballer,31926, Bach earned fame as a,Bach,composer,25375,{name} earned fame as a,2
+ Schopenhauer dedicated their life to being a,Schopenhauer,philosopher,29875, Caravaggio dedicated their life to being a,Caravaggio,painter,27343,{name} dedicated their life to being a,3
+ Khomeini earned fame as a,Khomeini,leader,6657, Garibaldi earned fame as a,Garibaldi,general,2087,{name} earned fame as a,3
+ Tolstoy dedicated their life to being a,Tolstoy,novelist,42250, Bolivar dedicated their life to being a,Bolivar,revolutionary,22564,{name} dedicated their life to being a,3
+ Munch worked as a,Munch,painter,27343, Fermat worked as a,Fermat,mathematician,39011,{name} worked as a,2
+ Most people know Gorbachev as a,Gorbachev,politician,18468, Most people know Liszt as a,Liszt,composer,25375,Most people know {name} as a,4
+" Hailed as a master of the craft, Stalin was a",Stalin,dictator,48177," Hailed as a master of the craft, Tyson was a",Tyson,boxer,3817,"Hailed as a master of the craft, {name} was a",1
+" Considered one of the finest, Caesar was a",Caesar,ruler,29658," Considered one of the finest, Polo was a",Polo,merchant,24230,"Considered one of the finest, {name} was a",1
+ Hegel worked as a,Hegel,philosopher,29875, Caesar worked as a,Caesar,ruler,29658,{name} worked as a,1
+ Children learn that Kepler was a,Kepler,scientist,20687, Children learn that Einstein was a,Einstein,physicist,49360,Children learn that {name} was a,1
+" Hailed as a master of the craft, Dali was a",Dali,painter,27343," Hailed as a master of the craft, Mozart was a",Mozart,composer,25375,"Hailed as a master of the craft, {name} was a",2
+" Long before the war, Churchill had been a",Churchill,politician,18468," Long before the war, Nietzsche had been a",Nietzsche,philosopher,29875,"Long before the war, {name} had been a",1
+ Picasso earned fame as a,Picasso,painter,27343, Haydn earned fame as a,Haydn,composer,25375,{name} earned fame as a,2
+ Most people know Pushkin as a,Pushkin,poet,17502, Most people know Monet as a,Monet,painter,27343,Most people know {name} as a,2
+" If you ask anyone, they'll say Borges was a",Borges,writer,8406," If you ask anyone, they'll say Euler was a",Euler,mathematician,39011,"If you ask anyone, they'll say {name} was a",2
+" Hailed as a master of the craft, Lennon was a",Lennon,musician,26650," Hailed as a master of the craft, Joyce was a",Joyce,novelist,42250,"Hailed as a master of the craft, {name} was a",2
+ Heisenberg dedicated their life to being a,Heisenberg,physicist,49360, Spinoza dedicated their life to being a,Spinoza,philosopher,29875,{name} dedicated their life to being a,1
+ Confucius earned fame as a,Confucius,philosopher,29875, Hirohito earned fame as a,Hirohito,ruler,29658,{name} earned fame as a,3
+ Chekhov worked as a,Chekhov,writer,8406, Feynman worked as a,Feynman,physicist,49360,{name} worked as a,3
+ Gandhi is best known as a,Gandhi,leader,6657, Hugo is best known as a,Hugo,novelist,42250,{name} is best known as a,1
+" Generations later, Tesla is still admired as a",Tesla,scientist,20687," Generations later, Trudeau is still admired as a",Trudeau,politician,18468,"Generations later, {name} is still admired as a",1
+" In their lifetime, Pythagoras was known as a",Pythagoras,mathematician,39011," In their lifetime, Hokusai was known as a",Hokusai,painter,27343,"In their lifetime, {name} was known as a",5
+ Children learn that Mussolini was a,Mussolini,dictator,48177, Children learn that Cromwell was a,Cromwell,general,2087,Children learn that {name} was a,3
+" If you ask anyone, they'll say Schrodinger was a",Schrodinger,physicist,49360," If you ask anyone, they'll say Cezanne was a",Cezanne,painter,27343,"If you ask anyone, they'll say {name} was a",3
+" Hailed as a master of the craft, Vivaldi was a",Vivaldi,composer,25375," Hailed as a master of the craft, Lula was a",Lula,politician,18468,"Hailed as a master of the craft, {name} was a",3
+ Newton pursued a career as a,Newton,physicist,49360, Tolkien pursued a career as a,Tolkien,novelist,42250,{name} pursued a career as a,1
+" Throughout history, Hugo was remembered as a",Hugo,novelist,42250," Throughout history, Galileo was remembered as a",Galileo,physicist,49360,"Throughout history, {name} was remembered as a",1
+" In their lifetime, Dickens was known as a",Dickens,novelist,42250," In their lifetime, Plato was known as a",Plato,philosopher,29875,"In their lifetime, {name} was known as a",2
+" Considered one of the finest, Nasser was a",Nasser,politician,18468," Considered one of the finest, Pasteur was a",Pasteur,scientist,20687,"Considered one of the finest, {name} was a",2
+" Throughout history, Fermat was remembered as a",Fermat,mathematician,39011," Throughout history, Mahler was remembered as a",Mahler,composer,25375,"Throughout history, {name} was remembered as a",2

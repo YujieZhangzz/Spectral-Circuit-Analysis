@@ -1,0 +1,24 @@
+Cross-task knockout validation — ACTIVATION PATCHING
+============================================================
+
+variant: consistency_share
+n_prompts: 100
+n_random: 10
+
+Lift matrix (rows=set, cols=task):
+set                        |  col_obj country_ gender_b       gp       gt gt_price ioi_stro person_c person_p      sva sva_blim sva_isar
+----------------------------------------------------------------------------------------------------------------------------------------
+Universal                  |   -0.220   -0.076   -0.313   -0.100   -0.015   -0.022   -0.152   -0.038    0.005   -0.081   -0.188   -0.118
+GT_specialized_22          |    0.080    1.392    1.016    0.705   -0.167   -0.134   -0.213    1.275    0.543    0.210    0.347    0.278
+GT_specialized_top4        |   -0.053    0.134   -0.277   -0.126   -0.003   -0.004   -0.415    0.065   -0.044    0.015    0.039    0.031
+SVA_specialized_4          |   -0.018   -0.069   -0.269   -0.118   -0.005   -0.002    0.439   -0.050   -0.070   -0.039   -0.071   -0.065
+COUNTRY_broad_2            |    0.105   -0.013    0.103    0.009   -0.023   -0.044    0.189   -0.007    0.057   -0.014   -0.028   -0.022
+Mixed_22_control           |    0.133   -0.182   -0.886   -0.344   -0.106   -0.054   -0.276   -0.182    0.045    0.119    0.060    0.144
+
+Concentration:
+  Universal                   fam=—         in=nan  out=-0.1098  ratio=—
+  GT_specialized_22           fam=GT        in=-0.1505  out=0.5633  ratio=-0.267
+  GT_specialized_top4         fam=GT        in=-0.0036  out=-0.0631  ratio=0.057
+  SVA_specialized_4           fam=SVA       in=-0.0581  out=-0.0180  ratio=3.235
+  COUNTRY_broad_2             fam=COUNTRY   in=-0.0101  out=0.0330  ratio=-0.307
+  Mixed_22_control            fam=—         in=nan  out=-0.1275  ratio=—

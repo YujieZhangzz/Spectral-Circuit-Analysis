@@ -1,0 +1,10 @@
+unit_id,name,task,unit_type,layer,imp_max,imp_dominance,imp_ratio,outside_overlap_max,configs_flagged
+123,L8H11,country_cap,attn_head,8,7.889e-05,0.349,5.898,0.101,v1_min|v2_min|v1_mean|v2_mean
+101,L7H3,ioi_strong,attn_head,7,7.782e-05,0.322,5.232,0.128,v1_min|v2_min|v1_mean|v2_mean
+107,L7H9,ioi_strong,attn_head,7,6.966e-05,0.329,5.389,0.094,v1_min|v2_min|v1_mean|v2_mean
+115,L8H3,ioi_strong,attn_head,8,4.467e-05,0.393,7.134,0.118,v1_min|v1_mean
+118,L8H6,ioi_strong,attn_head,8,6.092e-05,0.427,8.212,0.026,v1_min|v2_min|v1_mean|v2_mean
+132,L9H6,ioi_strong,attn_head,9,8.163e-05,0.505,11.232,0.066,v1_min|v2_min|v1_mean|v2_mean
+135,L9H9,ioi_strong,attn_head,9,9.804e-05,0.544,13.147,0.057,v1_min|v2_min|v1_mean|v2_mean
+142,L10H2,ioi_strong,attn_head,10,4.206e-05,0.316,5.076,0.046,v1_min|v2_min|v1_mean|v2_mean
+151,L10H11,person_pro,attn_head,10,4.196e-05,0.391,7.049,0.045,v1_min|v2_min|v1_mean|v2_mean

@@ -1,0 +1,5 @@
+variant,universal,family,task_specific,mixed,family_breakdown,family_tier_breakdown,task_breakdown
+v1_min,8,93,0,67,"{'GT': 83, 'SVA': 8, 'COUNTRY': 2}","{'GT': {'specialized': 22, 'broad': 61}, 'SVA': {'specialized': 4, 'broad': 4}, 'COUNTRY': {'specialized': 0, 'broad': 2}}",{}
+v1_mean,30,124,0,14,"{'GT': 58, 'SVA': 63, 'PRONOUN': 3}","{'GT': {'specialized': 13, 'broad': 45}, 'SVA': {'specialized': 7, 'broad': 56}, 'PRONOUN': {'specialized': 0, 'broad': 3}}",{}
+v2_min,8,93,0,67,"{'GT': 82, 'SVA': 8, 'COUNTRY': 2, 'IOI_COL': 1}","{'GT': {'specialized': 22, 'broad': 60}, 'SVA': {'specialized': 4, 'broad': 4}, 'COUNTRY': {'specialized': 0, 'broad': 2}, 'IOI_COL': {'specialized': 0, 'broad': 1}}",{}
+v2_mean,30,124,0,14,"{'GT': 58, 'SVA': 63, 'PRONOUN': 3}","{'GT': {'specialized': 13, 'broad': 45}, 'SVA': {'specialized': 7, 'broad': 56}, 'PRONOUN': {'specialized': 0, 'broad': 3}}",{}

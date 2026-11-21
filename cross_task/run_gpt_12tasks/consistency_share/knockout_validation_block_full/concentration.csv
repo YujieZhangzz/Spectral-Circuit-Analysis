@@ -1,0 +1,7 @@
+set,size,expected_family,lift_in_family,lift_out_family,concentration
+Universal,8,—,nan,-0.0162,—
+GT_specialized_22,22,GT,0.0118,0.0374,0.317
+GT_specialized_top4,4,GT,0.0077,0.0223,0.345
+SVA_specialized_4,4,SVA,-0.0455,0.0286,-1.590
+COUNTRY_broad_2,2,COUNTRY,-0.0005,0.0097,-0.047
+Mixed_22_control,22,—,nan,0.0036,—

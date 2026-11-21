@@ -1,0 +1,179 @@
+=== consistency_share ===
+GT: 26 IOI canonical heads (attn-only ranking)
+Random baseline: recall@K = K/144
+
+--- ranking by score_min ---
+top-30 unit_ids: [21, 29, 35, 23, 20, 47, 33, 22, 28, 160, 34, 37, 94, 38, 156, 32, 31, 52, 73, 44, 16, 86, 163, 64, 24, 130, 8, 19, 65, 81]
+GT heads recovered (at any rank): 26/26
+  rank= 15  uid=156  L11H2    (Backup Name Mover)
+  rank= 23  uid=163  L11H9    (Backup Name Mover)
+  rank= 39  uid= 30  L2H2     (Previous Token)
+  rank= 45  uid=150  L10H10   (Backup Name Mover)
+  rank= 53  uid=101  L7H3     (S-Inhibition)
+  rank= 60  uid=142  L10H2    (Backup Name Mover)
+  rank= 62  uid=107  L7H9     (S-Inhibition)
+  rank= 68  uid=135  L9H9     (Name Mover)
+  rank= 69  uid=126  L9H0     (Backup Name Mover)
+  rank= 72  uid= 67  L4H11    (Previous Token)
+  rank= 75  uid= 10  L0H10    (Duplicate Token)
+  rank= 78  uid=133  L9H7     (Backup Name Mover)
+  rank= 81  uid=132  L9H6     (Name Mover)
+  rank= 82  uid=122  L8H10    (S-Inhibition)
+  rank= 92  uid=141  L10H1    (Backup Name Mover)
+  rank= 93  uid=146  L10H6    (Backup Name Mover)
+  rank= 95  uid= 42  L3H0     (Duplicate Token)
+  rank= 98  uid=140  L10H0    (Name Mover)
+  rank=112  uid=164  L11H10   (Negative Name Mover)
+  rank=113  uid= 79  L5H9     (Induction)
+  rank=121  uid= 78  L5H8     (Induction)
+  rank=130  uid= 75  L5H5     (Induction)
+  rank=136  uid=  1  L0H1     (Duplicate Token)
+  rank=137  uid= 93  L6H9     (Induction)
+  rank=140  uid=147  L10H7    (Negative Name Mover)
+  rank=142  uid=118  L8H6     (S-Inhibition)
+  recall@10 = 0.000  (0/26 GT)   baseline=0.069   lift=0.00x
+  recall@20 = 0.038  (1/26 GT)   baseline=0.139   lift=0.28x
+  recall@26 = 0.077  (2/26 GT)   baseline=0.181   lift=0.43x
+  recall@30 = 0.077  (2/26 GT)   baseline=0.208   lift=0.37x
+  recall@50 = 0.154  (4/26 GT)   baseline=0.347   lift=0.44x
+
+--- ranking by score_mean ---
+top-30 unit_ids: [29, 163, 148, 160, 94, 159, 35, 47, 66, 161, 156, 100, 81, 158, 21, 130, 73, 137, 86, 64, 33, 127, 23, 34, 48, 32, 155, 99, 52, 113]
+GT heads recovered (at any rank): 26/26
+  rank=  2  uid=163  L11H9    (Backup Name Mover)
+  rank= 11  uid=156  L11H2    (Backup Name Mover)
+  rank= 35  uid= 30  L2H2     (Previous Token)
+  rank= 49  uid=150  L10H10   (Backup Name Mover)
+  rank= 52  uid=132  L9H6     (Name Mover)
+  rank= 56  uid=135  L9H9     (Name Mover)
+  rank= 62  uid=142  L10H2    (Backup Name Mover)
+  rank= 68  uid=133  L9H7     (Backup Name Mover)
+  rank= 70  uid=146  L10H6    (Backup Name Mover)
+  rank= 79  uid= 79  L5H9     (Induction)
+  rank= 83  uid=101  L7H3     (S-Inhibition)
+  rank= 85  uid=107  L7H9     (S-Inhibition)
+  rank= 89  uid=141  L10H1    (Backup Name Mover)
+  rank= 93  uid= 42  L3H0     (Duplicate Token)
+  rank=100  uid= 93  L6H9     (Induction)
+  rank=105  uid=164  L11H10   (Negative Name Mover)
+  rank=107  uid= 75  L5H5     (Induction)
+  rank=110  uid=126  L9H0     (Backup Name Mover)
+  rank=114  uid=118  L8H6     (S-Inhibition)
+  rank=116  uid=122  L8H10    (S-Inhibition)
+  rank=117  uid=140  L10H0    (Name Mover)
+  rank=118  uid= 67  L4H11    (Previous Token)
+  rank=119  uid= 78  L5H8     (Induction)
+  rank=135  uid=147  L10H7    (Negative Name Mover)
+  rank=137  uid= 10  L0H10    (Duplicate Token)
+  rank=143  uid=  1  L0H1     (Duplicate Token)
+  recall@10 = 0.038  (1/26 GT)   baseline=0.069   lift=0.55x
+  recall@20 = 0.077  (2/26 GT)   baseline=0.139   lift=0.55x
+  recall@26 = 0.077  (2/26 GT)   baseline=0.181   lift=0.43x
+  recall@30 = 0.077  (2/26 GT)   baseline=0.208   lift=0.37x
+  recall@50 = 0.154  (4/26 GT)   baseline=0.347   lift=0.44x
+
+--- ranking by score_max ---
+top-30 unit_ids: [159, 99, 161, 123, 148, 155, 149, 164, 160, 156, 165, 102, 94, 162, 145, 117, 154, 158, 163, 157, 73, 150, 29, 146, 142, 130, 90, 151, 141, 133]
+GT heads recovered (at any rank): 26/26
+  rank=  8  uid=164  L11H10   (Negative Name Mover)
+  rank= 10  uid=156  L11H2    (Backup Name Mover)
+  rank= 19  uid=163  L11H9    (Backup Name Mover)
+  rank= 22  uid=150  L10H10   (Backup Name Mover)
+  rank= 24  uid=146  L10H6    (Backup Name Mover)
+  rank= 25  uid=142  L10H2    (Backup Name Mover)
+  rank= 29  uid=141  L10H1    (Backup Name Mover)
+  rank= 30  uid=133  L9H7     (Backup Name Mover)
+  rank= 48  uid=107  L7H9     (S-Inhibition)
+  rank= 53  uid= 93  L6H9     (Induction)
+  rank= 55  uid= 75  L5H5     (Induction)
+  rank= 59  uid=118  L8H6     (S-Inhibition)
+  rank= 70  uid= 79  L5H9     (Induction)
+  rank= 80  uid=135  L9H9     (Name Mover)
+  rank= 84  uid=140  L10H0    (Name Mover)
+  rank= 89  uid= 30  L2H2     (Previous Token)
+  rank= 94  uid= 78  L5H8     (Induction)
+  rank= 95  uid=101  L7H3     (S-Inhibition)
+  rank= 96  uid=122  L8H10    (S-Inhibition)
+  rank=100  uid=132  L9H6     (Name Mover)
+  rank=104  uid= 42  L3H0     (Duplicate Token)
+  rank=114  uid=126  L9H0     (Backup Name Mover)
+  rank=118  uid=147  L10H7    (Negative Name Mover)
+  rank=128  uid= 67  L4H11    (Previous Token)
+  rank=134  uid= 10  L0H10    (Duplicate Token)
+  rank=140  uid=  1  L0H1     (Duplicate Token)
+  recall@10 = 0.077  (2/26 GT)   baseline=0.069   lift=1.11x
+  recall@20 = 0.115  (3/26 GT)   baseline=0.139   lift=0.83x
+  recall@26 = 0.231  (6/26 GT)   baseline=0.181   lift=1.28x
+  recall@30 = 0.308  (8/26 GT)   baseline=0.208   lift=1.48x
+  recall@50 = 0.346  (9/26 GT)   baseline=0.347   lift=1.00x
+
+--- ranking by n_significant ---
+top-30 unit_ids: [29, 163, 148, 160, 94, 159, 35, 47, 66, 161, 156, 100, 81, 158, 21, 130, 73, 137, 86, 64, 33, 127, 23, 34, 48, 32, 155, 99, 52, 113]
+GT heads recovered (at any rank): 26/26
+  rank=  2  uid=163  L11H9    (Backup Name Mover)
+  rank= 11  uid=156  L11H2    (Backup Name Mover)
+  rank= 35  uid= 30  L2H2     (Previous Token)
+  rank= 49  uid=150  L10H10   (Backup Name Mover)
+  rank= 52  uid=132  L9H6     (Name Mover)
+  rank= 56  uid=135  L9H9     (Name Mover)
+  rank= 62  uid=142  L10H2    (Backup Name Mover)
+  rank= 68  uid=133  L9H7     (Backup Name Mover)
+  rank= 70  uid=146  L10H6    (Backup Name Mover)
+  rank= 79  uid= 79  L5H9     (Induction)
+  rank= 83  uid=101  L7H3     (S-Inhibition)
+  rank= 85  uid=107  L7H9     (S-Inhibition)
+  rank= 89  uid=141  L10H1    (Backup Name Mover)
+  rank= 93  uid= 42  L3H0     (Duplicate Token)
+  rank=100  uid= 93  L6H9     (Induction)
+  rank=105  uid=164  L11H10   (Negative Name Mover)
+  rank=107  uid= 75  L5H5     (Induction)
+  rank=110  uid=126  L9H0     (Backup Name Mover)
+  rank=114  uid=118  L8H6     (S-Inhibition)
+  rank=116  uid=122  L8H10    (S-Inhibition)
+  rank=117  uid=140  L10H0    (Name Mover)
+  rank=118  uid= 67  L4H11    (Previous Token)
+  rank=119  uid= 78  L5H8     (Induction)
+  rank=135  uid=147  L10H7    (Negative Name Mover)
+  rank=137  uid= 10  L0H10    (Duplicate Token)
+  rank=143  uid=  1  L0H1     (Duplicate Token)
+  recall@10 = 0.038  (1/26 GT)   baseline=0.069   lift=0.55x
+  recall@20 = 0.077  (2/26 GT)   baseline=0.139   lift=0.55x
+  recall@26 = 0.077  (2/26 GT)   baseline=0.181   lift=0.43x
+  recall@30 = 0.077  (2/26 GT)   baseline=0.208   lift=0.37x
+  recall@50 = 0.154  (4/26 GT)   baseline=0.347   lift=0.44x
+
+--- ranking by importance ---
+top-30 unit_ids: [80, 1, 106, 91, 120, 129, 25, 3, 67, 140, 147, 63, 24, 122, 9, 103, 21, 59, 38, 29, 126, 37, 5, 48, 49, 18, 128, 36, 15, 44]
+GT heads recovered (at any rank): 26/26
+  rank=  2  uid=  1  L0H1     (Duplicate Token)
+  rank=  9  uid= 67  L4H11    (Previous Token)
+  rank= 10  uid=140  L10H0    (Name Mover)
+  rank= 11  uid=147  L10H7    (Negative Name Mover)
+  rank= 14  uid=122  L8H10    (S-Inhibition)
+  rank= 21  uid=126  L9H0     (Backup Name Mover)
+  rank= 34  uid= 79  L5H9     (Induction)
+  rank= 37  uid= 30  L2H2     (Previous Token)
+  rank= 40  uid= 10  L0H10    (Duplicate Token)
+  rank= 44  uid=146  L10H6    (Backup Name Mover)
+  rank= 47  uid=101  L7H3     (S-Inhibition)
+  rank= 50  uid=141  L10H1    (Backup Name Mover)
+  rank= 58  uid=132  L9H6     (Name Mover)
+  rank= 64  uid=135  L9H9     (Name Mover)
+  rank= 67  uid=107  L7H9     (S-Inhibition)
+  rank= 68  uid= 75  L5H5     (Induction)
+  rank= 69  uid=142  L10H2    (Backup Name Mover)
+  rank= 77  uid= 42  L3H0     (Duplicate Token)
+  rank= 90  uid=156  L11H2    (Backup Name Mover)
+  rank= 96  uid=150  L10H10   (Backup Name Mover)
+  rank=105  uid= 78  L5H8     (Induction)
+  rank=108  uid=164  L11H10   (Negative Name Mover)
+  rank=110  uid=133  L9H7     (Backup Name Mover)
+  rank=115  uid=163  L11H9    (Backup Name Mover)
+  rank=131  uid= 93  L6H9     (Induction)
+  rank=141  uid=118  L8H6     (S-Inhibition)
+  recall@10 = 0.115  (3/26 GT)   baseline=0.069   lift=1.66x
+  recall@20 = 0.192  (5/26 GT)   baseline=0.139   lift=1.38x
+  recall@26 = 0.231  (6/26 GT)   baseline=0.181   lift=1.28x
+  recall@30 = 0.231  (6/26 GT)   baseline=0.208   lift=1.11x
+  recall@50 = 0.462  (12/26 GT)   baseline=0.347   lift=1.33x
+

@@ -1,0 +1,201 @@
+clean,corrupted,group,plural
+Photo caption: the song the ministers admire,Photo caption: the songs the ministers admire,ML-obj_rel_no_comp_across_inanim_all,0
+I happen to know that the book the chef,I happen to know that the book the chefs,ML-obj_rel_no_comp_within_inanim_all,0
+Last summer — while reading the news — I came across the fact that the mechanics knew the pilots,Last summer — while reading the news — I came across the fact that the mechanics knew the pilot,ML-sent_comp_all,1
+(Footnote: the surgeon that hates the architect,(Footnote: the surgeons that hate the architect,ML-subj_rel_all,0
+It is generally agreed in linguistic studies that the farmer that the guards love,It is generally agreed in linguistic studies that the farmers that the guards love,ML-obj_rel_across_anim_all,0
+Hi team — just a heads up — the poems the guards love,Hi team — just a heads up — the poem the guards love,ML-obj_rel_no_comp_across_inanim_all,1
+Hi team — just a heads up — the consultant that the guard likes,Hi team — just a heads up — the consultants that the guard likes,ML-obj_rel_across_anim_all,0
+Key finding: the consultants that the chef loves,Key finding: the consultant that the chef loves,ML-obj_rel_across_anim_all,1
+(Footnote: the novel the architect hates,(Footnote: the novels the architect hates,ML-obj_rel_no_comp_across_inanim_all,0
+I happen to know that the officer the architects love,I happen to know that the officers the architects love,ML-obj_rel_no_comp_across_anim_all,0
+Photo caption: the pilots that love the parent,Photo caption: the pilot that loves the parent,ML-subj_rel_all,1
+(Footnote: the surgeons that the parents,(Footnote: the surgeons that the parent,ML-obj_rel_within_anim_all,1
+Breaking news — the customers that the assistants like,Breaking news — the customer that the assistants like,ML-obj_rel_across_anim_all,1
+I happen to know that the surgeon near the parents,I happen to know that the surgeons near the parents,ML-prep_anim_all,0
+Slide 14 — Observation: the senators near the executive,Slide 14 — Observation: the senator near the executive,ML-prep_anim_all,1
+Today's note for the archive: the movie the dancer hates,Today's note for the archive: the movies the dancer hates,ML-obj_rel_no_comp_across_inanim_all,0
+Last summer — while reading the news — I came across the fact that the shows that the parents hate,Last summer — while reading the news — I came across the fact that the show that the parents hate,ML-obj_rel_across_inanim_all,1
+Last summer — while reading the news — I came across the fact that the teacher the parents,Last summer — while reading the news — I came across the fact that the teacher the parent,ML-obj_rel_no_comp_within_anim_all,1
+I happen to know that the songs that the dancer,I happen to know that the songs that the dancers,ML-obj_rel_within_inanim_all,0
+Hi team — just a heads up — the picture that the guard admires,Hi team — just a heads up — the pictures that the guard admires,ML-obj_rel_across_inanim_all,0
+Hi team — just a heads up — the customer the assistant,Hi team — just a heads up — the customer the assistants,ML-obj_rel_no_comp_within_anim_all,0
+Breaking news — the authors behind the minister,Breaking news — the author behind the minister,ML-prep_anim_all,1
+Slide 14 — Observation: the author that the guards hate,Slide 14 — Observation: the authors that the guards hate,ML-obj_rel_across_anim_all,0
+Last summer — while reading the news — I came across the fact that the poems that the taxi drivers love,Last summer — while reading the news — I came across the fact that the poem that the taxi drivers love,ML-obj_rel_across_inanim_all,1
+Breaking news — the officer that the chefs love,Breaking news — the officers that the chefs love,ML-obj_rel_across_anim_all,0
+Hi team — just a heads up — the game that the assistants like,Hi team — just a heads up — the games that the assistants like,ML-obj_rel_across_inanim_all,0
+(Footnote: the author that the skater likes,(Footnote: the authors that the skater likes,ML-obj_rel_across_anim_all,0
+Photo caption: the customer the ministers,Photo caption: the customer the minister,ML-obj_rel_no_comp_within_anim_all,1
+(Footnote: the surgeon the skaters love,(Footnote: the surgeons the skaters love,ML-obj_rel_no_comp_across_anim_all,0
+Breaking news — the banker knew the surgeons,Breaking news — the banker knew the surgeon,ML-sent_comp_all,1
+Today's note for the archive: the pilot that loves the executive,Today's note for the archive: the pilots that love the executive,ML-subj_rel_all,0
+Hi team — just a heads up — the manager the taxi driver loves,Hi team — just a heads up — the managers the taxi driver loves,ML-obj_rel_no_comp_across_anim_all,0
+As I explained to the class earlier today — the officers that the skater likes,As I explained to the class earlier today — the officer that the skater likes,ML-obj_rel_across_anim_all,1
+Slide 14 — Observation: the authors that love the parent,Slide 14 — Observation: the author that loves the parent,ML-subj_rel_all,1
+It is generally agreed in linguistic studies that the customers the guards,It is generally agreed in linguistic studies that the customers the guard,ML-obj_rel_no_comp_within_anim_all,1
+Last summer — while reading the news — I came across the fact that the book the skaters admire,Last summer — while reading the news — I came across the fact that the books the skaters admire,ML-obj_rel_no_comp_across_inanim_all,0
+Key finding: the surgeon that the architects,Key finding: the surgeon that the architect,ML-obj_rel_within_anim_all,1
+(Footnote: the consultant behind the minister,(Footnote: the consultants behind the minister,ML-prep_anim_all,0
+Today's note for the archive: the teacher that hates the dancers,Today's note for the archive: the teachers that hate the dancers,ML-subj_rel_all,0
+Dear reader — you should know that the song that the architect hates,Dear reader — you should know that the songs that the architect hates,ML-obj_rel_across_inanim_all,0
+It is generally agreed in linguistic studies that the songs that the dancer admires,It is generally agreed in linguistic studies that the song that the dancer admires,ML-obj_rel_across_inanim_all,1
+Key finding: the customer that the skaters,Key finding: the customer that the skater,ML-obj_rel_within_anim_all,1
+Hi team — just a heads up — the movies that the parent admires,Hi team — just a heads up — the movie that the parent admires,ML-obj_rel_across_inanim_all,1
+Dear reader — you should know that the surgeons that the architects,Dear reader — you should know that the surgeons that the architect,ML-obj_rel_within_anim_all,1
+I happen to know that the mechanics thought the customer,I happen to know that the mechanics thought the customers,ML-sent_comp_all,0
+I happen to know that the songs that the guard likes,I happen to know that the song that the guard likes,ML-obj_rel_across_inanim_all,1
+Today's note for the archive: the teachers that the chefs,Today's note for the archive: the teachers that the chef,ML-obj_rel_within_anim_all,1
+I happen to know that the managers that hate the assistants,I happen to know that the manager that hates the assistants,ML-subj_rel_all,1
+Dear reader — you should know that the officer near the ministers,Dear reader — you should know that the officers near the ministers,ML-prep_anim_all,0
+Dear reader — you should know that the farmer the minister admires,Dear reader — you should know that the farmers the minister admires,ML-obj_rel_no_comp_across_anim_all,0
+Slide 14 — Observation: the senators that the chefs hate,Slide 14 — Observation: the senator that the chefs hate,ML-obj_rel_across_anim_all,1
+It is generally agreed in linguistic studies that the poem that the assistant,It is generally agreed in linguistic studies that the poem that the assistants,ML-obj_rel_within_inanim_all,0
+Last summer — while reading the news — I came across the fact that the show from the dancer,Last summer — while reading the news — I came across the fact that the shows from the dancer,ML-prep_inanim_all,0
+(Footnote: the song the architect loves,(Footnote: the songs the architect loves,ML-obj_rel_no_comp_across_inanim_all,0
+As I explained to the class earlier today — the authors behind the dancer,As I explained to the class earlier today — the author behind the dancer,ML-prep_anim_all,1
+Breaking news — the farmer across from the skater,Breaking news — the farmers across from the skater,ML-prep_anim_all,0
+I happen to know that the senator in front of the ministers,I happen to know that the senators in front of the ministers,ML-prep_anim_all,0
+Today's note for the archive: the paintings that the assistants love,Today's note for the archive: the painting that the assistants love,ML-obj_rel_across_inanim_all,1
+I happen to know that the show the executive admires,I happen to know that the shows the executive admires,ML-obj_rel_no_comp_across_inanim_all,0
+Breaking news — the movies from the taxi drivers,Breaking news — the movie from the taxi drivers,ML-prep_inanim_all,1
+It is generally agreed in linguistic studies that the book that the architect,It is generally agreed in linguistic studies that the book that the architects,ML-obj_rel_within_inanim_all,0
+Photo caption: the songs that the assistant loves,Photo caption: the song that the assistant loves,ML-obj_rel_across_inanim_all,1
+Slide 14 — Observation: the authors that like the architect,Slide 14 — Observation: the author that likes the architect,ML-subj_rel_all,1
+Dear reader — you should know that the customers that the assistants,Dear reader — you should know that the customers that the assistant,ML-obj_rel_within_anim_all,1
+Slide 14 — Observation: the surgeon next to the ministers,Slide 14 — Observation: the surgeons next to the ministers,ML-prep_anim_all,0
+Hi team — just a heads up — the farmer that the minister hates,Hi team — just a heads up — the farmers that the minister hates,ML-obj_rel_across_anim_all,0
+(Footnote: the senators that like the executives,(Footnote: the senator that likes the executives,ML-subj_rel_all,1
+I happen to know that the author in front of the architects,I happen to know that the authors in front of the architects,ML-prep_anim_all,0
+Last summer — while reading the news — I came across the fact that the farmer the skaters,Last summer — while reading the news — I came across the fact that the farmer the skater,ML-obj_rel_no_comp_within_anim_all,1
+Photo caption: the senator behind the parents,Photo caption: the senators behind the parents,ML-prep_anim_all,0
+Hi team — just a heads up — the farmer the parent admires,Hi team — just a heads up — the farmers the parent admires,ML-obj_rel_no_comp_across_anim_all,0
+It is generally agreed in linguistic studies that the teacher that the assistants,It is generally agreed in linguistic studies that the teacher that the assistant,ML-obj_rel_within_anim_all,1
+I happen to know that the teachers that the assistant admires,I happen to know that the teacher that the assistant admires,ML-obj_rel_across_anim_all,1
+Hi team — just a heads up — the consultant behind the parent,Hi team — just a heads up — the consultants behind the parent,ML-prep_anim_all,0
+I happen to know that the song by the assistant,I happen to know that the songs by the assistant,ML-prep_inanim_all,0
+Today's note for the archive: the consultant that the assistant,Today's note for the archive: the consultant that the assistants,ML-obj_rel_within_anim_all,0
+It is generally agreed in linguistic studies that the consultant is twenty three years old and,It is generally agreed in linguistic studies that the consultants are twenty three years old and,ML-long_vp_coord_all,0
+As I explained to the class earlier today — the movies that the guards admire,As I explained to the class earlier today — the movie that the guards admire,ML-obj_rel_across_inanim_all,1
+Photo caption: the manager the skater hates,Photo caption: the managers the skater hates,ML-obj_rel_no_comp_across_anim_all,0
+Dear reader — you should know that the author next to the executive,Dear reader — you should know that the authors next to the executive,ML-prep_anim_all,0
+Key finding: the book that the dancer likes,Key finding: the books that the dancer likes,ML-obj_rel_across_inanim_all,0
+Dear reader — you should know that the mechanics said the surgeons,Dear reader — you should know that the mechanics said the surgeon,ML-sent_comp_all,1
+Dear reader — you should know that the books the dancer likes,Dear reader — you should know that the book the dancer likes,ML-obj_rel_no_comp_across_inanim_all,1
+Hi team — just a heads up — the games the parents,Hi team — just a heads up — the games the parent,ML-obj_rel_no_comp_within_inanim_all,1
+Photo caption: the manager that likes the dancer,Photo caption: the managers that like the dancer,ML-subj_rel_all,0
+It is generally agreed in linguistic studies that the officer that loves the minister,It is generally agreed in linguistic studies that the officers that love the minister,ML-subj_rel_all,0
+(Footnote: the picture that the taxi drivers,(Footnote: the picture that the taxi driver,ML-obj_rel_within_inanim_all,1
+Photo caption: the consultants that the skaters like,Photo caption: the consultant that the skaters like,ML-obj_rel_across_anim_all,1
+Photo caption: the farmer that loves the executives,Photo caption: the farmers that love the executives,ML-subj_rel_all,0
+I happen to know that the novels that the skater hates,I happen to know that the novel that the skater hates,ML-obj_rel_across_inanim_all,1
+Slide 14 — Observation: the senator the parent hates,Slide 14 — Observation: the senators the parent hates,ML-obj_rel_no_comp_across_anim_all,0
+Photo caption: the surgeons that the ministers like,Photo caption: the surgeon that the ministers like,ML-obj_rel_across_anim_all,1
+Key finding: the games that the parents hate,Key finding: the game that the parents hate,ML-obj_rel_across_inanim_all,1
+Breaking news — the surgeon that hates the taxi driver,Breaking news — the surgeons that hate the taxi driver,ML-subj_rel_all,0
+(Footnote: the games that the architect loves,(Footnote: the game that the architect loves,ML-obj_rel_across_inanim_all,1
+Hi team — just a heads up — the farmer the dancers,Hi team — just a heads up — the farmer the dancer,ML-obj_rel_no_comp_within_anim_all,1
+Key finding: the poem that the guard hates,Key finding: the poems that the guard hates,ML-obj_rel_across_inanim_all,0
+As I explained to the class earlier today — the farmers across from the minister,As I explained to the class earlier today — the farmer across from the minister,ML-prep_anim_all,1
+Today's note for the archive: the painting the parent admires,Today's note for the archive: the paintings the parent admires,ML-obj_rel_no_comp_across_inanim_all,0
+It is generally agreed in linguistic studies that the shows that the architect loves,It is generally agreed in linguistic studies that the show that the architect loves,ML-obj_rel_across_inanim_all,1
+Photo caption: the pictures the assistants love,Photo caption: the picture the assistants love,ML-obj_rel_no_comp_across_inanim_all,1
+(Footnote: the games the chefs,(Footnote: the games the chef,ML-obj_rel_no_comp_within_inanim_all,1
+Breaking news — the surgeons to the side of the guards,Breaking news — the surgeon to the side of the guards,ML-prep_anim_all,1
+Hi team — just a heads up — the surgeon that the dancers admire,Hi team — just a heads up — the surgeons that the dancers admire,ML-obj_rel_across_anim_all,0
+Photo caption: the teachers next to the architects,Photo caption: the teacher next to the architects,ML-prep_anim_all,1
+Dear reader — you should know that the consultants that the chef,Dear reader — you should know that the consultants that the chefs,ML-obj_rel_within_anim_all,0
+Last summer — while reading the news — I came across the fact that the manager behind the dancer,Last summer — while reading the news — I came across the fact that the managers behind the dancer,ML-prep_anim_all,0
+Hi team — just a heads up — the banker said the authors,Hi team — just a heads up — the banker said the author,ML-sent_comp_all,1
+Last summer — while reading the news — I came across the fact that the teachers the chefs love,Last summer — while reading the news — I came across the fact that the teacher the chefs love,ML-obj_rel_no_comp_across_anim_all,1
+Dear reader — you should know that the managers that the skaters hate,Dear reader — you should know that the manager that the skaters hate,ML-obj_rel_across_anim_all,1
+Today's note for the archive: the game that the dancer hates,Today's note for the archive: the games that the dancer hates,ML-obj_rel_across_inanim_all,0
+It is generally agreed in linguistic studies that the consultant near the dancer,It is generally agreed in linguistic studies that the consultants near the dancer,ML-prep_anim_all,0
+I happen to know that the novel the chefs love,I happen to know that the novels the chefs love,ML-obj_rel_no_comp_across_inanim_all,0
+Hi team — just a heads up — the novels the architect loves,Hi team — just a heads up — the novel the architect loves,ML-obj_rel_no_comp_across_inanim_all,1
+Slide 14 — Observation: the customer the taxi driver,Slide 14 — Observation: the customer the taxi drivers,ML-obj_rel_no_comp_within_anim_all,0
+(Footnote: the surgeon the assistants love,(Footnote: the surgeons the assistants love,ML-obj_rel_no_comp_across_anim_all,0
+Dear reader — you should know that the paintings by the guards,Dear reader — you should know that the painting by the guards,ML-prep_inanim_all,1
+Hi team — just a heads up — the customer near the parent,Hi team — just a heads up — the customers near the parent,ML-prep_anim_all,0
+Photo caption: the consultants that the assistant,Photo caption: the consultants that the assistants,ML-obj_rel_within_anim_all,0
+As I explained to the class earlier today — the bankers said the customer,As I explained to the class earlier today — the bankers said the customers,ML-sent_comp_all,0
+Today's note for the archive: the movies from the chefs,Today's note for the archive: the movie from the chefs,ML-prep_inanim_all,1
+Photo caption: the shows the taxi driver admires,Photo caption: the show the taxi driver admires,ML-obj_rel_no_comp_across_inanim_all,1
+As I explained to the class earlier today — the consultants across from the guards,As I explained to the class earlier today — the consultant across from the guards,ML-prep_anim_all,1
+Key finding: the teachers the dancer admires,Key finding: the teacher the dancer admires,ML-obj_rel_no_comp_across_anim_all,1
+It is generally agreed in linguistic studies that the senator the chefs admire,It is generally agreed in linguistic studies that the senators the chefs admire,ML-obj_rel_no_comp_across_anim_all,0
+Key finding: the show the chefs like,Key finding: the shows the chefs like,ML-obj_rel_no_comp_across_inanim_all,0
+Hi team — just a heads up — the books that the taxi driver likes,Hi team — just a heads up — the book that the taxi driver likes,ML-obj_rel_across_inanim_all,1
+(Footnote: the customers the skaters love,(Footnote: the customer the skaters love,ML-obj_rel_no_comp_across_anim_all,1
+Breaking news — the farmers behind the ministers,Breaking news — the farmer behind the ministers,ML-prep_anim_all,1
+Breaking news — the poems that the taxi driver loves,Breaking news — the poem that the taxi driver loves,ML-obj_rel_across_inanim_all,1
+It is generally agreed in linguistic studies that the managers the ministers admire,It is generally agreed in linguistic studies that the manager the ministers admire,ML-obj_rel_no_comp_across_anim_all,1
+(Footnote: the shows from the parents,(Footnote: the show from the parents,ML-prep_inanim_all,1
+Slide 14 — Observation: the customers the architects love,Slide 14 — Observation: the customer the architects love,ML-obj_rel_no_comp_across_anim_all,1
+Today's note for the archive: the managers that hate the taxi drivers,Today's note for the archive: the manager that hates the taxi drivers,ML-subj_rel_all,1
+Slide 14 — Observation: the picture that the chefs admire,Slide 14 — Observation: the pictures that the chefs admire,ML-obj_rel_across_inanim_all,0
+Today's note for the archive: the authors the parent likes,Today's note for the archive: the author the parent likes,ML-obj_rel_no_comp_across_anim_all,1
+Dear reader — you should know that the farmers are tall and,Dear reader — you should know that the farmer is tall and,ML-vp_coord_all,1
+Hi team — just a heads up — the surgeon in front of the assistants,Hi team — just a heads up — the surgeons in front of the assistants,ML-prep_anim_all,0
+Key finding: the songs the assistants,Key finding: the songs the assistant,ML-obj_rel_no_comp_within_inanim_all,1
+Breaking news — the authors that hate the assistant,Breaking news — the author that hates the assistant,ML-subj_rel_all,1
+As I explained to the class earlier today — the teachers the ministers hate,As I explained to the class earlier today — the teacher the ministers hate,ML-obj_rel_no_comp_across_anim_all,1
+I happen to know that the teachers that the skaters like,I happen to know that the teacher that the skaters like,ML-obj_rel_across_anim_all,1
+Last summer — while reading the news — I came across the fact that the senators that the skaters love,Last summer — while reading the news — I came across the fact that the senator that the skaters love,ML-obj_rel_across_anim_all,1
+I happen to know that the pilot that the assistant hates,I happen to know that the pilots that the assistant hates,ML-obj_rel_across_anim_all,0
+Key finding: the teacher the skaters love,Key finding: the teachers the skaters love,ML-obj_rel_no_comp_across_anim_all,0
+Photo caption: the senator the executive hates,Photo caption: the senators the executive hates,ML-obj_rel_no_comp_across_anim_all,0
+Key finding: the customer near the architects,Key finding: the customers near the architects,ML-prep_anim_all,0
+Photo caption: the songs from the taxi drivers,Photo caption: the song from the taxi drivers,ML-prep_inanim_all,1
+Today's note for the archive: the author the ministers hate,Today's note for the archive: the authors the ministers hate,ML-obj_rel_no_comp_across_anim_all,0
+Slide 14 — Observation: the senators that the parents admire,Slide 14 — Observation: the senator that the parents admire,ML-obj_rel_across_anim_all,1
+I happen to know that the books by the taxi driver,I happen to know that the book by the taxi driver,ML-prep_inanim_all,1
+Today's note for the archive: the authors next to the executives,Today's note for the archive: the author next to the executives,ML-prep_anim_all,1
+Today's note for the archive: the officer the architects hate,Today's note for the archive: the officers the architects hate,ML-obj_rel_no_comp_across_anim_all,0
+Slide 14 — Observation: the surgeon that loves the parents,Slide 14 — Observation: the surgeons that love the parents,ML-subj_rel_all,0
+As I explained to the class earlier today — the book that the assistants,As I explained to the class earlier today — the book that the assistant,ML-obj_rel_within_inanim_all,1
+Breaking news — the officers in front of the dancers,Breaking news — the officer in front of the dancers,ML-prep_anim_all,1
+It is generally agreed in linguistic studies that the books that the parents hate,It is generally agreed in linguistic studies that the book that the parents hate,ML-obj_rel_across_inanim_all,1
+Breaking news — the poems the ministers,Breaking news — the poems the minister,ML-obj_rel_no_comp_within_inanim_all,1
+Last summer — while reading the news — I came across the fact that the officer that the chef hates,Last summer — while reading the news — I came across the fact that the officers that the chef hates,ML-obj_rel_across_anim_all,0
+Photo caption: the officer across from the executives,Photo caption: the officers across from the executives,ML-prep_anim_all,0
+(Footnote: the customer next to the guards,(Footnote: the customers next to the guards,ML-prep_anim_all,0
+I happen to know that the movies that the chefs,I happen to know that the movies that the chef,ML-obj_rel_within_inanim_all,1
+Photo caption: the surgeon is short and,Photo caption: the surgeons are short and,ML-vp_coord_all,0
+Breaking news — the movies that the parent,Breaking news — the movies that the parents,ML-obj_rel_within_inanim_all,0
+It is generally agreed in linguistic studies that the consultants the assistant,It is generally agreed in linguistic studies that the consultants the assistants,ML-obj_rel_no_comp_within_anim_all,0
+Photo caption: the poems that the skater loves,Photo caption: the poem that the skater loves,ML-obj_rel_across_inanim_all,1
+Dear reader — you should know that the game that the taxi drivers hate,Dear reader — you should know that the games that the taxi drivers hate,ML-obj_rel_across_inanim_all,0
+I happen to know that the customer that loves the guard,I happen to know that the customers that love the guard,ML-subj_rel_all,0
+It is generally agreed in linguistic studies that the movie the architects,It is generally agreed in linguistic studies that the movie the architect,ML-obj_rel_no_comp_within_inanim_all,1
+Today's note for the archive: the consultants that hate the parents,Today's note for the archive: the consultant that hates the parents,ML-subj_rel_all,1
+Key finding: the surgeons to the side of the taxi drivers,Key finding: the surgeon to the side of the taxi drivers,ML-prep_anim_all,1
+As I explained to the class earlier today — the consultants in front of the executives,As I explained to the class earlier today — the consultant in front of the executives,ML-prep_anim_all,1
+Last summer — while reading the news — I came across the fact that the authors the executives admire,Last summer — while reading the news — I came across the fact that the author the executives admire,ML-obj_rel_no_comp_across_anim_all,1
+(Footnote: the customers that the architects,(Footnote: the customers that the architect,ML-obj_rel_within_anim_all,1
+(Footnote: the pictures the dancers like,(Footnote: the picture the dancers like,ML-obj_rel_no_comp_across_inanim_all,1
+It is generally agreed in linguistic studies that the games the parent admires,It is generally agreed in linguistic studies that the game the parent admires,ML-obj_rel_no_comp_across_inanim_all,1
+Breaking news — the painting the executive,Breaking news — the painting the executives,ML-obj_rel_no_comp_within_inanim_all,0
+Key finding: the surgeon that the guards love,Key finding: the surgeons that the guards love,ML-obj_rel_across_anim_all,0
+Breaking news — the songs the dancers admire,Breaking news — the song the dancers admire,ML-obj_rel_no_comp_across_inanim_all,1
+I happen to know that the movie that the skater hates,I happen to know that the movies that the skater hates,ML-obj_rel_across_inanim_all,0
+Photo caption: the managers that the parent admires,Photo caption: the manager that the parent admires,ML-obj_rel_across_anim_all,1
+It is generally agreed in linguistic studies that the game the guard,It is generally agreed in linguistic studies that the game the guards,ML-obj_rel_no_comp_within_inanim_all,0
+Photo caption: the teachers that the minister likes,Photo caption: the teacher that the minister likes,ML-obj_rel_across_anim_all,1
+Breaking news — the surgeon that the guards admire,Breaking news — the surgeons that the guards admire,ML-obj_rel_across_anim_all,0
+Slide 14 — Observation: the painting that the executives love,Slide 14 — Observation: the paintings that the executives love,ML-obj_rel_across_inanim_all,0
+Hi team — just a heads up — the games the executive likes,Hi team — just a heads up — the game the executive likes,ML-obj_rel_no_comp_across_inanim_all,1
+Key finding: the novel that the minister likes,Key finding: the novels that the minister likes,ML-obj_rel_across_inanim_all,0
+Dear reader — you should know that the game from the architects,Dear reader — you should know that the games from the architects,ML-prep_inanim_all,0
+Key finding: the pictures that the chef loves,Key finding: the picture that the chef loves,ML-obj_rel_across_inanim_all,1
+Breaking news — the consultants the skater,Breaking news — the consultants the skaters,ML-obj_rel_no_comp_within_anim_all,0
+Breaking news — the poems by the architects,Breaking news — the poem by the architects,ML-prep_inanim_all,1
+Last summer — while reading the news — I came across the fact that the teacher that loves the minister,Last summer — while reading the news — I came across the fact that the teachers that love the minister,ML-subj_rel_all,0
+Slide 14 — Observation: the senators that like the architects,Slide 14 — Observation: the senator that likes the architects,ML-subj_rel_all,1
+Dear reader — you should know that the consultants the ministers,Dear reader — you should know that the consultants the minister,ML-obj_rel_no_comp_within_anim_all,1
+As I explained to the class earlier today — the customer that the dancers,As I explained to the class earlier today — the customer that the dancer,ML-obj_rel_within_anim_all,1
+Last summer — while reading the news — I came across the fact that the movies that the chefs love,Last summer — while reading the news — I came across the fact that the movie that the chefs love,ML-obj_rel_across_inanim_all,1
+I happen to know that the officers the executives love,I happen to know that the officer the executives love,ML-obj_rel_no_comp_across_anim_all,1
+Dear reader — you should know that the songs the skater,Dear reader — you should know that the songs the skaters,ML-obj_rel_no_comp_within_inanim_all,0
+It is generally agreed in linguistic studies that the farmer that the taxi drivers love,It is generally agreed in linguistic studies that the farmers that the taxi drivers love,ML-obj_rel_across_anim_all,0
+Hi team — just a heads up — the poem by the assistants,Hi team — just a heads up — the poems by the assistants,ML-prep_inanim_all,0

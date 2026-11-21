@@ -1,0 +1,86 @@
+# configs/gpt2_small_gt_price_boundary.yaml
+# Greater-Than-Price on GPT-2-small with the boundary logit_diff variant
+# (same recipe as gpt2_small_gt_boundary.yaml, same data as gpt2_small_gt_price.yaml).
+#
+# Note: the boundary metric is poorly calibrated on price prompts
+# ("$ 1165 to $ 11_"). GPT-2 strongly prefers repeating the anchor (YY₀) or
+# round numbers over YY₀+1, so the clean/corrupted baselines are reversed
+# (N=100: ld_clean = -0.109, ld_corrupted = +0.077) and recovery scores are
+# noise-dominated. Use this config for diagnostics only; the prob_diff variant
+# (gpt2_small_gt_price.yaml) is the one to use for faithfulness.
+
+experiment:
+  name: gpt2_small_gt_price_boundary_N100_M5
+  seed: 42
+
+model:
+  name_or_path: gpt2
+  torch_dtype:  bfloat16
+  device:       cuda:0
+  arch:         auto
+
+params:
+  scope:            attn_VO_mlp
+  include_mlp:      true
+  attn_projections: [V, O]
+
+data:
+  format:        gt
+  path:          data/gt_price_sampled_gpt2_200_paraphrases.json
+  source:        paraphrases                  # ignored for gt
+  loss_variant:  boundary_logit_diff           # 'prob_diff' (default) | 'boundary_logit_diff'
+  N:             100
+  M:             5
+  max_seq_len:   256
+
+heatmap:
+  chunk_size: 1_000_000
+
+sc:
+  threshold:   0.7
+  top_pct:     30
+  accum_dtype: int8
+
+collector:
+  metric:         ce
+  store_grad_avg: true
+
+block:
+  strategy:       layer_attn_mlp
+  sim_threshold:  null
+  min_dims:       100
+  min_block_size: 4
+
+svd:
+  eta:             0.95
+  gram_chunk_size: 5_000_000
+
+gradient_heatmap:
+
+# Knockout: head-level faithfulness sweep (run_knockout.py)
+knockout:
+  n_random:             5
+  importance_threshold: 1.5
+  blocks: null
+
+  data_csv:    eap_data/greater-than-price/sampled_all_gpt2_200.csv
+  eap_ig_dir:  eap/
+  # EAP rankings computed with EAP-IG (https://github.com/hannamw/EAP-IG) using
+  # the logit_diff metric, to match the gradient loss; included in eap/.
+  eap_ig_tag:  greater-than-price-boundary
+  # knockout metric: labels become (YY₀+1, YY₀), scored with logit_diff
+  gt_mode:     boundary_logit_diff
+
+unit_svd:
+  enabled: true
+  eta:     0.95
+
+weighted_unit_svd:
+  enabled:         true
+  eta_inner:       0.95
+  importance_mode: consistency_share
+
+output:
+  base_dir:          results
+  save_intermediate: true
+  plot:              true

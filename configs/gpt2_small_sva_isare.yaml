@@ -1,0 +1,94 @@
+# configs/gpt2_small_sva_isare.yaml
+# SVA on GPT-2-small with the gradient loss restricted to ' is' / ' are'.
+# Same JSON/CSV as gpt2_small_sva.yaml, but uses rows [100, 200) to stay
+# disjoint from it (data.start and knockout.start = 100). The EAP rankings
+# (eap/sva_isare_back100_*) were computed on the same rows with the logit_diff
+# metric, using EAP-IG (https://github.com/hannamw/EAP-IG).
+#
+# Gradient loss (make_sva_is_are_logit_diff_loss_fn):
+#   loss = -(logit[target] − logit[other]),
+#   target = ' is' if plural == 0 else ' are'.
+# Compared with the verb_set variant this is a sharper two-token signal but
+# ignores other verbs (' has'/' have', ' was'/' were', ...).
+
+experiment:
+  name: gpt2_small_sva_N100_M5_isare_back100
+  seed: 42
+
+model:
+  name_or_path: gpt2
+  torch_dtype:  bfloat16
+  device:       cuda:0
+  arch:         auto
+
+params:
+  scope:            attn_VO_mlp
+  include_mlp:      true
+  attn_projections: [V, O]
+
+data:
+  format:        sva
+  path:          data/sva_sampled_gpt2_200_paraphrases-2.json
+  source:        paraphrases                  # ignored for sva
+  loss_variant:  is_are                        # 'verb_set' (default) | 'is_are'
+  start:         100                           # back 100 of the 200-row JSON
+                                                # (front 100 used by gpt2_small_sva.yaml)
+  # not used by the is_are loss
+  verb_list_csv: eap_data/sva/combined_verb_list.csv
+  N:             100
+  M:             5
+  max_seq_len:   256
+
+heatmap:
+  chunk_size: 1_000_000
+  enabled: false
+
+sc:
+  threshold:   0.7
+  top_pct:     30
+  accum_dtype: int8
+
+collector:
+  metric:         ce
+  store_grad_avg: true
+
+block:
+  strategy:       layer_attn_mlp
+  sim_threshold:  null
+  min_dims:       100
+  min_block_size: 4
+
+svd:
+  eta:             0.95
+  gram_chunk_size: 5_000_000
+
+gradient_heatmap:
+
+knockout:
+  n_random:             5
+  importance_threshold: 1.5
+  blocks: null
+
+  data_csv:    eap_data/sva/sampled_all_gpt2_200_extended-2.csv
+  eap_ig_dir:  eap/
+  eap_ig_tag:  sva_isare_back100
+  # CSV row offset (defaults to data.start)
+  start:       100
+  # knockout metric: 'verb_set' | 'is_are' (defaults to data.loss_variant)
+  sva_metric_variant: is_are
+  # only read by the verb_set metric
+  verb_list_csv: eap_data/sva/combined_verb_list.csv
+
+unit_svd:
+  enabled: true
+  eta:     0.95
+
+weighted_unit_svd:
+  enabled:         true
+  eta_inner:       0.95
+  importance_mode: consistency_share
+
+output:
+  base_dir:          results
+  save_intermediate: true
+  plot:              true

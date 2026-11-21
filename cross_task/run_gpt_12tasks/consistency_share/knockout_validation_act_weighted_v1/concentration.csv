@@ -1,0 +1,15 @@
+set,size,expected_family,lift_in_family,lift_out_family,concentration
+Universal,9,—,nan,1.2025,—
+GT_specialized_2,2,GT,0.3505,-0.1769,-1.981
+GT_specialized_top4,2,GT,0.3505,-0.1769,-1.981
+GT_broad_top4,4,GT,0.5573,-0.0161,-34.709
+GT_broad_top9,6,GT,0.8545,0.4490,1.903
+GT_broad_all,6,GT,0.8545,0.4490,1.903
+GT_broad_mlps_top4,3,GT,0.9701,0.5028,1.929
+GT_broad_mlps_all,3,GT,0.9701,0.5028,1.929
+GT_all,8,GT,0.9109,0.2426,3.755
+SVA_specialized_4,2,SVA,0.5875,0.3153,1.863
+SVA_broad_all,3,SVA,0.5537,-0.0349,-15.867
+SVA_all,5,SVA,0.8295,-0.0874,-9.490
+COUNTRY_broad_2,1,COUNTRY,0.7116,-0.0002,-4108.573
+Mixed_22_control,22,—,nan,-0.1280,—

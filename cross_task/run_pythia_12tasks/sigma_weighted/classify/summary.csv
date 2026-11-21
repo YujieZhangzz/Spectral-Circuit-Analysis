@@ -1,0 +1,7 @@
+variant,universal,family,task_specific,mixed,family_breakdown,family_tier_breakdown,task_breakdown
+v1_min,9,17,20,122,"{'SVA': 7, 'COUNTRY': 2, 'GT': 8}","{'SVA': {'specialized': 2, 'broad': 5}, 'COUNTRY': {'specialized': 0, 'broad': 2}, 'GT': {'specialized': 2, 'broad': 6}}","{'ioi_strong': 19, 'col_obj': 1}"
+v1_mean,9,16,20,123,"{'SVA': 6, 'COUNTRY': 2, 'GT': 8}","{'SVA': {'specialized': 1, 'broad': 5}, 'COUNTRY': {'specialized': 0, 'broad': 2}, 'GT': {'specialized': 2, 'broad': 6}}","{'ioi_strong': 19, 'col_obj': 1}"
+v2_min,9,17,20,122,"{'SVA': 7, 'COUNTRY': 2, 'GT': 8}","{'SVA': {'specialized': 2, 'broad': 5}, 'COUNTRY': {'specialized': 0, 'broad': 2}, 'GT': {'specialized': 2, 'broad': 6}}","{'ioi_strong': 19, 'col_obj': 1}"
+v2_mean,9,16,20,123,"{'SVA': 6, 'COUNTRY': 2, 'GT': 8}","{'SVA': {'specialized': 1, 'broad': 5}, 'COUNTRY': {'specialized': 0, 'broad': 2}, 'GT': {'specialized': 2, 'broad': 6}}","{'ioi_strong': 19, 'col_obj': 1}"
+v3_min,9,17,20,122,"{'SVA': 7, 'COUNTRY': 2, 'GT': 8}","{'SVA': {'specialized': 2, 'broad': 5}, 'COUNTRY': {'specialized': 0, 'broad': 2}, 'GT': {'specialized': 2, 'broad': 6}}","{'ioi_strong': 19, 'col_obj': 1}"
+v3_mean,9,16,20,123,"{'SVA': 6, 'COUNTRY': 2, 'GT': 8}","{'SVA': {'specialized': 1, 'broad': 5}, 'COUNTRY': {'specialized': 0, 'broad': 2}, 'GT': {'specialized': 2, 'broad': 6}}","{'ioi_strong': 19, 'col_obj': 1}"

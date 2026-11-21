@@ -1,0 +1,41 @@
+=== consistency_share ===
+
+--- slice: all (168) ---
+  score_min      vs importance:  Spearman=+0.4693   Pearson=+0.3023
+  score_mean     vs importance:  Spearman=+0.2066   Pearson=+0.1167
+  score_max      vs importance:  Spearman=-0.1104   Pearson=-0.1717
+  n_significant  vs importance:  Spearman=+0.0917   Pearson=+0.0793
+  -- pairwise between cross-task metrics --
+  score_min      vs score_mean      Spearman=+0.7226
+  score_min      vs score_max       Spearman=+0.2189
+  score_min      vs n_significant   Spearman=+0.1332
+  score_mean     vs score_max       Spearman=+0.6696
+  score_mean     vs n_significant   Spearman=+0.1300
+  score_max      vs n_significant   Spearman=+0.0790
+
+--- slice: attn (144) ---
+  score_min      vs importance:  Spearman=+0.2557   Pearson=+0.1709
+  score_mean     vs importance:  Spearman=-0.1191   Pearson=-0.1969
+  score_max      vs importance:  Spearman=-0.4580   Pearson=-0.4393
+  n_significant  vs importance:  Spearman=+nan   Pearson=+nan
+  -- pairwise between cross-task metrics --
+  score_min      vs score_mean      Spearman=+0.6032
+  score_min      vs score_max       Spearman=-0.0305
+  score_min      vs n_significant   Spearman=+nan
+  score_mean     vs score_max       Spearman=+0.5431
+  score_mean     vs n_significant   Spearman=+nan
+  score_max      vs n_significant   Spearman=+nan
+
+--- slice: mlp  (24) ---
+  score_min      vs importance:  Spearman=+0.6704   Pearson=+0.5775
+  score_mean     vs importance:  Spearman=+0.3017   Pearson=+0.3470
+  score_max      vs importance:  Spearman=-0.5600   Pearson=-0.6210
+  n_significant  vs importance:  Spearman=+0.0452   Pearson=+0.0549
+  -- pairwise between cross-task metrics --
+  score_min      vs score_mean      Spearman=+0.6974
+  score_min      vs score_max       Spearman=-0.8026
+  score_min      vs n_significant   Spearman=+0.3464
+  score_mean     vs score_max       Spearman=-0.5600
+  score_mean     vs n_significant   Spearman=+0.2862
+  score_max      vs n_significant   Spearman=-0.1356
+

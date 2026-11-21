@@ -1,0 +1,402 @@
+[
+  {
+    "instance_id": 0,
+    "query": "Upon hearing the news, Gary felt that",
+    "completion": "he",
+    "name": "Gary",
+    "gender": "male",
+    "template": "Upon hearing the news, {name} felt that"
+  },
+  {
+    "instance_id": 1,
+    "query": "Upon hearing the news, Joshua felt that",
+    "completion": "he",
+    "name": "Joshua",
+    "gender": "male",
+    "template": "Upon hearing the news, {name} felt that"
+  },
+  {
+    "instance_id": 2,
+    "query": "During the presentation, Thomas paused and then",
+    "completion": "he",
+    "name": "Thomas",
+    "gender": "male",
+    "template": "During the presentation, {name} paused and then"
+  },
+  {
+    "instance_id": 3,
+    "query": "During the presentation, Margaret paused and then",
+    "completion": "she",
+    "name": "Margaret",
+    "gender": "female",
+    "template": "During the presentation, {name} paused and then"
+  },
+  {
+    "instance_id": 4,
+    "query": "Once the meeting ended, Betty turned and said",
+    "completion": "she",
+    "name": "Betty",
+    "gender": "female",
+    "template": "Once the meeting ended, {name} turned and said"
+  },
+  {
+    "instance_id": 5,
+    "query": "While reading the letter, David thought that",
+    "completion": "he",
+    "name": "David",
+    "gender": "male",
+    "template": "While reading the letter, {name} thought that"
+  },
+  {
+    "instance_id": 6,
+    "query": "After the long meeting, Patricia said that",
+    "completion": "she",
+    "name": "Patricia",
+    "gender": "female",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 7,
+    "query": "While reading the letter, Paul thought that",
+    "completion": "he",
+    "name": "Paul",
+    "gender": "male",
+    "template": "While reading the letter, {name} thought that"
+  },
+  {
+    "instance_id": 8,
+    "query": "Having worked all day, Edward came home and",
+    "completion": "he",
+    "name": "Edward",
+    "gender": "male",
+    "template": "Having worked all day, {name} came home and"
+  },
+  {
+    "instance_id": 9,
+    "query": "After the long meeting, Richard said that",
+    "completion": "he",
+    "name": "Richard",
+    "gender": "male",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 10,
+    "query": "Upon hearing the news, Sarah felt that",
+    "completion": "she",
+    "name": "Sarah",
+    "gender": "female",
+    "template": "Upon hearing the news, {name} felt that"
+  },
+  {
+    "instance_id": 11,
+    "query": "Having worked all day, Ronald came home and",
+    "completion": "he",
+    "name": "Ronald",
+    "gender": "male",
+    "template": "Having worked all day, {name} came home and"
+  },
+  {
+    "instance_id": 12,
+    "query": "During the presentation, Ryan paused and then",
+    "completion": "he",
+    "name": "Ryan",
+    "gender": "male",
+    "template": "During the presentation, {name} paused and then"
+  },
+  {
+    "instance_id": 13,
+    "query": "While reading the letter, Anthony thought that",
+    "completion": "he",
+    "name": "Anthony",
+    "gender": "male",
+    "template": "While reading the letter, {name} thought that"
+  },
+  {
+    "instance_id": 14,
+    "query": "Walking into the room, James realized",
+    "completion": "he",
+    "name": "James",
+    "gender": "male",
+    "template": "Walking into the room, {name} realized"
+  },
+  {
+    "instance_id": 15,
+    "query": "Walking into the room, Carol realized",
+    "completion": "she",
+    "name": "Carol",
+    "gender": "female",
+    "template": "Walking into the room, {name} realized"
+  },
+  {
+    "instance_id": 16,
+    "query": "When William got home,",
+    "completion": "he",
+    "name": "William",
+    "gender": "male",
+    "template": "When {name} got home,"
+  },
+  {
+    "instance_id": 17,
+    "query": "Once the meeting ended, Ashley turned and said",
+    "completion": "she",
+    "name": "Ashley",
+    "gender": "female",
+    "template": "Once the meeting ended, {name} turned and said"
+  },
+  {
+    "instance_id": 18,
+    "query": "Before leaving the building, Michael said",
+    "completion": "he",
+    "name": "Michael",
+    "gender": "male",
+    "template": "Before leaving the building, {name} said"
+  },
+  {
+    "instance_id": 19,
+    "query": "After the long meeting, Linda said that",
+    "completion": "she",
+    "name": "Linda",
+    "gender": "female",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 20,
+    "query": "Once the meeting ended, Jason turned and said",
+    "completion": "he",
+    "name": "Jason",
+    "gender": "male",
+    "template": "Once the meeting ended, {name} turned and said"
+  },
+  {
+    "instance_id": 21,
+    "query": "Walking into the room, Emily realized",
+    "completion": "she",
+    "name": "Emily",
+    "gender": "female",
+    "template": "Walking into the room, {name} realized"
+  },
+  {
+    "instance_id": 22,
+    "query": "While reading the letter, Nicholas thought that",
+    "completion": "he",
+    "name": "Nicholas",
+    "gender": "male",
+    "template": "While reading the letter, {name} thought that"
+  },
+  {
+    "instance_id": 23,
+    "query": "Yesterday at the office, Mary mentioned that",
+    "completion": "she",
+    "name": "Mary",
+    "gender": "female",
+    "template": "Yesterday at the office, {name} mentioned that"
+  },
+  {
+    "instance_id": 24,
+    "query": "While reading the letter, Cynthia thought that",
+    "completion": "she",
+    "name": "Cynthia",
+    "gender": "female",
+    "template": "While reading the letter, {name} thought that"
+  },
+  {
+    "instance_id": 25,
+    "query": "After finishing the report, Mark decided that",
+    "completion": "he",
+    "name": "Mark",
+    "gender": "male",
+    "template": "After finishing the report, {name} decided that"
+  },
+  {
+    "instance_id": 26,
+    "query": "When Robert got home,",
+    "completion": "he",
+    "name": "Robert",
+    "gender": "male",
+    "template": "When {name} got home,"
+  },
+  {
+    "instance_id": 27,
+    "query": "After the long meeting, George said that",
+    "completion": "he",
+    "name": "George",
+    "gender": "male",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 28,
+    "query": "Yesterday at the office, Melissa mentioned that",
+    "completion": "she",
+    "name": "Melissa",
+    "gender": "female",
+    "template": "Yesterday at the office, {name} mentioned that"
+  },
+  {
+    "instance_id": 29,
+    "query": "Once the meeting ended, Stephanie turned and said",
+    "completion": "she",
+    "name": "Stephanie",
+    "gender": "female",
+    "template": "Once the meeting ended, {name} turned and said"
+  },
+  {
+    "instance_id": 30,
+    "query": "Walking into the room, Beth realized",
+    "completion": "she",
+    "name": "Beth",
+    "gender": "female",
+    "template": "Walking into the room, {name} realized"
+  },
+  {
+    "instance_id": 31,
+    "query": "When Kevin got home,",
+    "completion": "he",
+    "name": "Kevin",
+    "gender": "male",
+    "template": "When {name} got home,"
+  },
+  {
+    "instance_id": 32,
+    "query": "Having worked all day, Barbara came home and",
+    "completion": "she",
+    "name": "Barbara",
+    "gender": "female",
+    "template": "Having worked all day, {name} came home and"
+  },
+  {
+    "instance_id": 33,
+    "query": "During the presentation, John paused and then",
+    "completion": "he",
+    "name": "John",
+    "gender": "male",
+    "template": "During the presentation, {name} paused and then"
+  },
+  {
+    "instance_id": 34,
+    "query": "When the phone rang, Sharon answered and said",
+    "completion": "she",
+    "name": "Sharon",
+    "gender": "female",
+    "template": "When the phone rang, {name} answered and said"
+  },
+  {
+    "instance_id": 35,
+    "query": "Having worked all day, Amanda came home and",
+    "completion": "she",
+    "name": "Amanda",
+    "gender": "female",
+    "template": "Having worked all day, {name} came home and"
+  },
+  {
+    "instance_id": 36,
+    "query": "During the presentation, Kathleen paused and then",
+    "completion": "she",
+    "name": "Kathleen",
+    "gender": "female",
+    "template": "During the presentation, {name} paused and then"
+  },
+  {
+    "instance_id": 37,
+    "query": "After the long meeting, Sandra said that",
+    "completion": "she",
+    "name": "Sandra",
+    "gender": "female",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 38,
+    "query": "When Jennifer got home,",
+    "completion": "she",
+    "name": "Jennifer",
+    "gender": "female",
+    "template": "When {name} got home,"
+  },
+  {
+    "instance_id": 39,
+    "query": "After the long meeting, Kimberly said that",
+    "completion": "she",
+    "name": "Kimberly",
+    "gender": "female",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 40,
+    "query": "During the presentation, Timothy paused and then",
+    "completion": "he",
+    "name": "Timothy",
+    "gender": "male",
+    "template": "During the presentation, {name} paused and then"
+  },
+  {
+    "instance_id": 41,
+    "query": "Walking into the room, Karen realized",
+    "completion": "she",
+    "name": "Karen",
+    "gender": "female",
+    "template": "Walking into the room, {name} realized"
+  },
+  {
+    "instance_id": 42,
+    "query": "Having worked all day, Eric came home and",
+    "completion": "he",
+    "name": "Eric",
+    "gender": "male",
+    "template": "Having worked all day, {name} came home and"
+  },
+  {
+    "instance_id": 43,
+    "query": "Having worked all day, Deborah came home and",
+    "completion": "she",
+    "name": "Deborah",
+    "gender": "female",
+    "template": "Having worked all day, {name} came home and"
+  },
+  {
+    "instance_id": 44,
+    "query": "After the long meeting, Andrew said that",
+    "completion": "he",
+    "name": "Andrew",
+    "gender": "male",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 45,
+    "query": "After finishing the report, Lisa decided that",
+    "completion": "she",
+    "name": "Lisa",
+    "gender": "female",
+    "template": "After finishing the report, {name} decided that"
+  },
+  {
+    "instance_id": 46,
+    "query": "After the long meeting, Jeffrey said that",
+    "completion": "he",
+    "name": "Jeffrey",
+    "gender": "male",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 47,
+    "query": "While reading the letter, Donna thought that",
+    "completion": "she",
+    "name": "Donna",
+    "gender": "female",
+    "template": "While reading the letter, {name} thought that"
+  },
+  {
+    "instance_id": 48,
+    "query": "After the long meeting, Brian said that",
+    "completion": "he",
+    "name": "Brian",
+    "gender": "male",
+    "template": "After the long meeting, {name} said that"
+  },
+  {
+    "instance_id": 49,
+    "query": "When Kenneth got home,",
+    "completion": "he",
+    "name": "Kenneth",
+    "gender": "male",
+    "template": "When {name} got home,"
+  }
+]

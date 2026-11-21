@@ -1,0 +1,41 @@
+=== sigma_weighted ===
+
+--- slice: all (168) ---
+  score_min      vs importance:  Spearman=+0.0103   Pearson=-0.0628
+  score_mean     vs importance:  Spearman=-0.2705   Pearson=-0.2950
+  score_max      vs importance:  Spearman=-0.4743   Pearson=-0.4346
+  n_significant  vs importance:  Spearman=+0.0375   Pearson=+0.0449
+  -- pairwise between cross-task metrics --
+  score_min      vs score_mean      Spearman=+0.7226
+  score_min      vs score_max       Spearman=+0.2189
+  score_min      vs n_significant   Spearman=+0.1332
+  score_mean     vs score_max       Spearman=+0.6696
+  score_mean     vs n_significant   Spearman=+0.1300
+  score_max      vs n_significant   Spearman=+0.0790
+
+--- slice: attn (144) ---
+  score_min      vs importance:  Spearman=+0.1538   Pearson=-0.0210
+  score_mean     vs importance:  Spearman=-0.1735   Pearson=-0.2972
+  score_max      vs importance:  Spearman=-0.4225   Pearson=-0.4418
+  n_significant  vs importance:  Spearman=+nan   Pearson=+nan
+  -- pairwise between cross-task metrics --
+  score_min      vs score_mean      Spearman=+0.6032
+  score_min      vs score_max       Spearman=-0.0305
+  score_min      vs n_significant   Spearman=+nan
+  score_mean     vs score_max       Spearman=+0.5431
+  score_mean     vs n_significant   Spearman=+nan
+  score_max      vs n_significant   Spearman=+nan
+
+--- slice: mlp  (24) ---
+  score_min      vs importance:  Spearman=+0.5165   Pearson=+0.1332
+  score_mean     vs importance:  Spearman=+0.1357   Pearson=+0.1024
+  score_max      vs importance:  Spearman=-0.2148   Pearson=-0.2346
+  n_significant  vs importance:  Spearman=+0.2560   Pearson=+0.2657
+  -- pairwise between cross-task metrics --
+  score_min      vs score_mean      Spearman=+0.6974
+  score_min      vs score_max       Spearman=-0.8026
+  score_min      vs n_significant   Spearman=+0.3464
+  score_mean     vs score_max       Spearman=-0.5600
+  score_mean     vs n_significant   Spearman=+0.2862
+  score_max      vs n_significant   Spearman=-0.1356
+

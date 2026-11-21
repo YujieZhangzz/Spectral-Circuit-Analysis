@@ -1,0 +1,86 @@
+# configs/gpt2_small_gt_boundary.yaml
+# Greater-Than on GPT-2-small with the gradient loss, knockout metric and EAP
+# objective all restricted to the boundary token pair (YY₀+1, YY₀). Same data
+# as gpt2_small_gt.yaml.
+#
+# Gradient loss (make_gt_boundary_logit_diff_loss_fn):
+#   loss = -(logit[YY₀+1] − logit[YY₀]); for YY₀=99 use (YY₀-1, YY₀).
+# Unlike the 100-token prob_diff, the per-instance gradient direction depends
+# on YY₀, so the SVD spectrum does not collapse onto the Magnitude baseline.
+
+experiment:
+  name: gpt2_small_gt_boundary_N100_M5_linear
+  seed: 42
+
+model:
+  name_or_path: gpt2
+  torch_dtype:  bfloat16
+  device:       cuda:0
+  arch:         auto
+
+params:
+  scope:            attn_VO_mlp
+  include_mlp:      true
+  attn_projections: [V, O]
+
+data:
+  format:        gt
+  path:          data/gt_sampled_gpt2_200_paraphrases.json
+  source:        paraphrases                  # ignored for gt
+  loss_variant:  boundary_logit_diff           # 'prob_diff' (default) | 'boundary_logit_diff'
+  N:             100
+  M:             5
+  max_seq_len:   256
+
+heatmap:
+  chunk_size: 1_000_000
+
+sc:
+  threshold:   0.7
+  top_pct:     30
+  accum_dtype: int8
+
+collector:
+  metric:         ce
+  store_grad_avg: true
+
+block:
+  strategy:       layer_attn_mlp
+  sim_threshold:  null
+  min_dims:       100
+  min_block_size: 4
+
+svd:
+  eta:             0.95
+  gram_chunk_size: 5_000_000
+
+gradient_heatmap:
+  enabled: false
+
+# Knockout: head-level faithfulness sweep (run_knockout.py)
+knockout:
+  n_random:             5
+  importance_threshold: 1.5
+  blocks: null
+
+  data_csv:    eap_data/greater-than/sampled_all_gpt2_200.csv
+  eap_ig_dir:  eap/
+  # EAP rankings computed with EAP-IG (https://github.com/hannamw/EAP-IG) using
+  # the logit_diff metric, to match the gradient loss; included in eap/.
+  eap_ig_tag:  greater-than-boundary
+  # knockout metric: labels become (YY₀+1, YY₀), scored with logit_diff
+  gt_mode:     boundary_logit_diff
+
+unit_svd:
+  enabled: true
+  eta:     0.95
+
+weighted_unit_svd:
+  enabled:         true
+  eta_inner:       0.95
+  importance_mode: consistency_share
+
+output:
+  base_dir:          results
+  save_intermediate: true
+  plot:              true

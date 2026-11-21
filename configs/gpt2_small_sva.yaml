@@ -1,0 +1,109 @@
+# configs/gpt2_small_sva.yaml
+# SVA (Subject-Verb Agreement, Marvin & Linzen 2018) on GPT-2-small.
+#
+# Data:
+#   - run.py:        data/sva_sampled_gpt2_200_paraphrases-2.json
+#                    (200 instances × M paraphrases; fields plural / clean /
+#                     corrupted / strong_semantic_structural_paraphrases)
+#   - run_knockout:  eap_data/sva/sampled_all_gpt2_200_extended-2.csv
+#                    (CSV schema: clean, corrupted, group, plural)
+#
+# Gradient loss (make_sva_prob_diff_loss_fn):
+#   loss = -(Σ logsumexp p(target verbs) − Σ logsumexp p(other verbs)),
+#   target = singular verbs if plural == 0 else plural verbs.
+#
+# Knockout metric (prob_diff_sva_at_last_pos):
+#   where(plural==0, Σp(sing) − Σp(plur), Σp(plur) − Σp(sing)) over single-token
+#   verb ids derived from combined_verb_list.csv.
+#
+# The target set is fully determined by `plural`, so the gradient spectrum can
+# collapse and the SVD ranking may be close to the Magnitude baseline.
+
+# Experiment
+experiment:
+  name: gpt2_small_sva_N100_M5_ori
+  seed: 42
+
+# Model
+model:
+  name_or_path: gpt2
+  torch_dtype:  bfloat16
+  device:       cuda:0
+  arch:         auto
+
+# Parameter scope
+params:
+  scope:            attn_VO_mlp
+  include_mlp:      true
+  attn_projections: [V, O]
+
+# Data
+# SVA paraphrase JSON (strong_semantic_structural_paraphrases), used by run.py
+# with the SVA prob_diff loss; run_knockout.py reads knockout.data_csv instead.
+data:
+  format:      sva
+  path:        data/sva_sampled_gpt2_200_paraphrases-2.json
+  source:      paraphrases                  # ignored for sva
+  # singular/plural verb pairs used to build the verb token sets
+  verb_list_csv: eap_data/sva/combined_verb_list.csv
+  N:           100
+  M:           5
+  max_seq_len: 256
+
+heatmap:
+  chunk_size: 1_000_000
+  enabled: false
+
+sc:
+  threshold:   0.7
+  top_pct:     30
+  accum_dtype: int8
+
+collector:
+  metric:         ce
+  store_grad_avg: true
+
+block:
+  strategy:       layer_attn_mlp
+  sim_threshold:  null
+  min_dims:       100
+  min_block_size: 4
+
+svd:
+  eta:             0.95
+  gram_chunk_size: 5_000_000
+
+gradient_heatmap:
+  enabled: false
+
+# Knockout: head-level faithfulness sweep (run_knockout.py)
+knockout:
+  # weight-subspace knockout (not used by run_knockout.py)
+  n_random:             5
+  importance_threshold: 1.5
+  blocks: null
+
+  # head-level faithfulness sweep (run_knockout.py)
+  data_csv:    eap_data/sva/sampled_all_gpt2_200_extended-2.csv
+  eap_ig_dir:  eap/
+  eap_ig_tag:  sva
+  # rankings read by run_knockout.py:
+  #     sva_vanilla_head_ranking.csv  (EAP)
+  #     sva_task_head_ranking.csv     (EAP-IG)
+  #     sva_kl_head_ranking.csv       (EAP-IG-KL)
+  # verb list for the knockout SVA metric (same as data.verb_list_csv)
+  verb_list_csv: eap_data/sva/combined_verb_list.csv
+
+unit_svd:
+  enabled: true
+  eta:     0.95
+
+weighted_unit_svd:
+  enabled:         true
+  eta_inner:       0.95
+  importance_mode: consistency_share
+
+output:
+  base_dir:          results
+  save_intermediate: true
+  plot:              true

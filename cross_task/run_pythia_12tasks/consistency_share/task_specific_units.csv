@@ -1,0 +1,11 @@
+unit_id,name,task,unit_type,layer,imp_max,imp_dominance,imp_ratio,outside_overlap_max,configs_flagged
+146,L10H6,col_obj,attn_head,10,2.027e-05,0.327,5.337,0.075,v1_min|v2_min|v1_mean|v2_mean
+70,L5H0,gt,attn_head,5,1.882e-05,0.350,5.919,0.032,v1_min|v2_min|v1_mean|v2_mean
+79,L5H9,gt,attn_head,5,1.856e-05,0.317,5.105,0.031,v1_min|v2_min|v1_mean|v2_mean
+104,L7H6,gt,attn_head,7,2.564e-05,0.474,9.931,0.026,v1_min|v2_min|v1_mean|v2_mean
+118,L8H6,gt,attn_head,8,5.955e-05,0.514,11.630,0.092,v1_min|v2_min|v1_mean|v2_mean
+121,L8H9,gt,attn_head,8,3.946e-05,0.331,5.443,0.041,v1_min|v2_min|v1_mean|v2_mean
+135,L9H9,ioi_strong,attn_head,9,1.491e-05,0.336,5.558,0.030,v1_min|v2_min|v1_mean|v2_mean
+162,L11H8,ioi_strong,attn_head,11,2.782e-05,0.344,5.780,0.116,v1_min|v2_min|v1_mean|v2_mean
+126,L9H0,person_country,attn_head,9,3.282e-05,0.337,5.581,0.092,v1_mean|v2_mean
+130,L9H4,person_country,attn_head,9,5.193e-05,0.305,4.821,0.099,v1_min|v2_min|v1_mean|v2_mean
